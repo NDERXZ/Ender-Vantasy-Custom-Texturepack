@@ -90,12 +90,12 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/all_spear.png" width="36" height="36" style="border-radius:4px;"/> | `All Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/alpha_basin.png" width="36" height="36" style="border-radius:4px;"/> | `Alpha Basin` | "diamond_sword", "netherite_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/amethyst_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Amethyst Scythe` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Spear` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Sword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/angel_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Spear` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="https://static.wixstatic.com/media/73bea7_46770b5790144e54a7d951008d47511c~mv2.png/v1/fill/w_324,h_338,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T__Icon%20-%20Copy%20(20).png" width="36" height="36" style="border-radius:4px;"/> | `Angel Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/apparition_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Apparition Broadsword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/archaic_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Archaic Scythe` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/archfiend_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Archfiend Sword` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/auroral_apex.png" width="36" height="36" style="border-radius:4px;"/> | `Auroral Apex` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/auroral_apex.png" width="36" height="36" style="border-radius:4px;"/> | `Auroral Apex` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/awakened_leaflets.png" width="36" height="36" style="border-radius:4px;"/> | `Awakened Leaflet` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/azalea_scourge.png" width="36" height="36" style="border-radius:4px;"/> | `Azalea Scourge` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/backstabber.png" width="36" height="36" style="border-radius:4px;"/> | `Backstabber` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
@@ -106,13 +106,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/battlestaff_of_terror.png" width="36" height="36" style="border-radius:4px;"/> | `Battlestaff of Terror` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/batwing.png" width="36" height="36" style="border-radius:4px;"/> | `Batwing` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bayou_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Bayou Spear` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/beacon_beam.png" width="36" height="36" style="border-radius:4px;"/> | `Beacon Beam` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/beam_saber.png" width="36" height="36" style="border-radius:4px;"/> | `Beam Saber` | "diamond_sword", "netherite_sword", "iron_sword" |
+| <img src="https://static.wixstatic.com/media/73bea7_590b5debf55a4448936845c0ff069d51~mv2.png/v1/fill/w_336,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_BeaconBeam_Icon.png" width="36" height="36" style="border-radius:4px;"/> | `Beacon Beam` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/beam_saber.png" width="36" height="36" style="border-radius:4px;"/> | `Beam Saber` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bedrock_knuckles.png" width="36" height="36" style="border-radius:4px;"/> | `Bedrock Knuckles` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/bee_stinger.png" width="36" height="36" style="border-radius:4px;"/> | `Bee Stinger` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bell_ringer.png" width="36" height="36" style="border-radius:4px;"/> | `Bell Ringer` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bident.png" width="36" height="36" style="border-radius:4px;"/> | `Bident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/binding_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Binding Glaive` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/binding_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Binding Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/black_aether.png" width="36" height="36" style="border-radius:4px;"/> | `Black Aether` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blackout.png" width="36" height="36" style="border-radius:4px;"/> | `Blackout` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/blackstone_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Blackstone Sword` | "diamond_sword", "netherite_sword" |
@@ -125,13 +125,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/boneclub.png" width="36" height="36" style="border-radius:4px;"/> | `Boneclub` | "diamond_sword", "netherite_sword", "iron_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/boneclub.png" width="36" height="36" style="border-radius:4px;"/> | `Boneclub Reverse` | "diamond_sword", "netherite_sword", "iron_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/boomerang.png" width="36" height="36" style="border-radius:4px;"/> | `Boomerang` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/borealis_helix.png" width="36" height="36" style="border-radius:4px;"/> | `Borealis Helix` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/borealis_helix.png" width="36" height="36" style="border-radius:4px;"/> | `Borealis Helix` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/botanical_harpoon.png" width="36" height="36" style="border-radius:4px;"/> | `Botanical Harpoon` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/brain_agitator.png" width="36" height="36" style="border-radius:4px;"/> | `Brain Agitator` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/broad_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Broad Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Broadsword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Broadsword Reverse` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/broken_sawblade.png" width="36" height="36" style="border-radius:4px;"/> | `Broken Sawblade` | "diamond_sword", "netherite_sword", "iron_sword", "diamond_axe", "netherite_axe", "iron_axe" |
+| <img src="docs/previews/broken_sawblade.png" width="36" height="36" style="border-radius:4px;"/> | `Broken Sawblade` | "diamond_sword", "netherite_sword", "iron_sword", "diamond_axe", "netherite_axe", "iron_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bubble_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Bubble Blaster` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/burning_boughs.png" width="36" height="36" style="border-radius:4px;"/> | `Burning Boughs` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/burnished_skewer.png" width="36" height="36" style="border-radius:4px;"/> | `Burnished Skewer` | "diamond_sword", "netherite_sword" |
@@ -140,25 +140,25 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/candelabra.png" width="36" height="36" style="border-radius:4px;"/> | `Candelabra` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cascade.png" width="36" height="36" style="border-radius:4px;"/> | `Cascade` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/casting_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Casting Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cavers_dread.png" width="36" height="36" style="border-radius:4px;"/> | `Caver's Dread` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/cavers_dread.png" width="36" height="36" style="border-radius:4px;"/> | `Caver's Dread` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/celestial_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Celestial Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/celestial_reaper.png" width="36" height="36" style="border-radius:4px;"/> | `Celestial Reaper` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cerise_flamberge.png" width="36" height="36" style="border-radius:4px;"/> | `Cerise Flamberge` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cerise_regalia.png" width="36" height="36" style="border-radius:4px;"/> | `Cerise Regalia` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/champion_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Champion Gauntlet` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/champion_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Champion Gauntlet` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/chill_gale_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Chill Gale Knife` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/chillsear_claymore.png" width="36" height="36" style="border-radius:4px;"/> | `Chillsear Claymore` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/chiming_netherite/chiming_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Chiming Netherite Sword` | "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/christmas_greatsword.png" width="36" height="36" style="border-radius:4px;"/> | `Christmas Greatsword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/christmas_greatsword.png" width="36" height="36" style="border-radius:4px;"/> | `Christmas Greatsword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/christmas_lights.png" width="36" height="36" style="border-radius:4px;"/> | `Christmas Lights` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/claymore.png" width="36" height="36" style="border-radius:4px;"/> | `Claymore` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cloud_breaker.png" width="36" height="36" style="border-radius:4px;"/> | `Cloud Breaker` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cobalt_dancer.png" width="36" height="36" style="border-radius:4px;"/> | `Cobalt Dancer` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combat_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Combat Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combining_crucible.png" width="36" height="36" style="border-radius:4px;"/> | `Combining Crucible` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/command_block_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Command Block Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/command_block_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Command Block Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/composite_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Composite Broadsword` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/conduit_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Conduit Scepter` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/conduit_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Conduit Scepter` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/consecrator.png" width="36" height="36" style="border-radius:4px;"/> | `Consecrator` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/constancy_pike.png" width="36" height="36" style="border-radius:4px;"/> | `Constancy Pike` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/constancy_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Constancy Talwar` | "diamond_sword", "netherite_sword" |
@@ -168,18 +168,18 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/coral_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Coral Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/corrupted_bident.png" width="36" height="36" style="border-radius:4px;"/> | `Corrupted Bident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/corrupted_gladius.png" width="36" height="36" style="border-radius:4px;"/> | `Corrupted Gladius` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/corrupted_laser.png" width="36" height="36" style="border-radius:4px;"/> | `Corrupted Laser` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/corrupted_laser.png" width="36" height="36" style="border-radius:4px;"/> | `Corrupted Laser` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/couched_lance.png" width="36" height="36" style="border-radius:4px;"/> | `Couched Lance` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/creation_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Creation Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/creation_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Creation Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/creeping_glaciers.png" width="36" height="36" style="border-radius:4px;"/> | `Creeping Glacier` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crescent_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Crescent Katana` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crescent_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Crescent Katana Reverse` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crimson_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Crimson Cutter` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crimson_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Crimson Cutter Reverse` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/crimson_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Crimson Cutter` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/crimson_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Crimson Cutter Reverse` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crimson_sickles.png" width="36" height="36" style="border-radius:4px;"/> | `Crimson Sickle` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cryopathy.png" width="36" height="36" style="border-radius:4px;"/> | `Cryopathy` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crystal_beam.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Beam` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/crystal_beam.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Beam` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crystal_quarterstaff.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Quarterstaff` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crystal_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cursed_boomerang.png" width="36" height="36" style="border-radius:4px;"/> | `Cursed Boomerang` | "diamond_sword", "netherite_sword", "trident" |
@@ -193,13 +193,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/dark_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Katana` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/dark_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Katana Reverse` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Trident` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/death_cap_shortsword.png" width="36" height="36" style="border-radius:4px;"/> | `Death Cap Shortsword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/death_cap_shortsword.png" width="36" height="36" style="border-radius:4px;"/> | `Death Cap Shortsword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/deity_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Deity Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/delta_ozone.png" width="36" height="36" style="border-radius:4px;"/> | `Delta Ozone` | "diamond_sword", "netherite_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/demon_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Demon Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/desert_defender.png" width="36" height="36" style="border-radius:4px;"/> | `Desert Defender` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_siege.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Siege` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Trident` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/diamond_siege.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Siege` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/diamond_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diaphysis_destroyer.png" width="36" height="36" style="border-radius:4px;"/> | `Diaphysis Destroyer` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diatonic_druse.png" width="36" height="36" style="border-radius:4px;"/> | `Diatonic Druse` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dissuader.png" width="36" height="36" style="border-radius:4px;"/> | `Dissuader` | "diamond_sword", "netherite_sword" |
@@ -214,36 +214,36 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_necromancer_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Drowned Necromancer Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_sarissa.png" width="36" height="36" style="border-radius:4px;"/> | `Drowned Sarissa` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dual_agriculture.png" width="36" height="36" style="border-radius:4px;"/> | `Dual Agriculture` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Spear` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/diamond_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Sword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/diamond_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Spear` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/diamond_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Golden Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/golden_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Golden Sword` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Spear` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Sword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/netherite_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Spear` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Spear` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/sword.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Sword` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/duplex_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Duplex Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dwindling_dead.png" width="36" height="36" style="border-radius:4px;"/> | `Dwindling Dead` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/earspoon.png" width="36" height="36" style="border-radius:4px;"/> | `Earspoon` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/electro_swing.png" width="36" height="36" style="border-radius:4px;"/> | `Electro Swing` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/element_generator.png" width="36" height="36" style="border-radius:4px;"/> | `Element Generator` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/electro_swing.png" width="36" height="36" style="border-radius:4px;"/> | `Electro Swing` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/element_generator.png" width="36" height="36" style="border-radius:4px;"/> | `Element Generator` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ember_lash.png" width="36" height="36" style="border-radius:4px;"/> | `Ember Lash` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_partisan.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Partisan` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emperor_curtana.png" width="36" height="36" style="border-radius:4px;"/> | `Emperor Curtana` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emperors_reign.png" width="36" height="36" style="border-radius:4px;"/> | `Emperor's Reign` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/enchanting_kalis.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanting Kalis` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ended_fusion.png" width="36" height="36" style="border-radius:4px;"/> | `Ended Fusion` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/enchanting_kalis.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanting Kalis` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/ended_fusion.png" width="36" height="36" style="border-radius:4px;"/> | `Ended Fusion` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/entangled_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Entangled Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/eroding_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Eroding Broadsword` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/eternal_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Knife` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/eternal_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Knife` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/event_horizon.png" width="36" height="36" style="border-radius:4px;"/> | `Event Horizon` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fabled_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Fabled Blade` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/fabled_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Fabled Blade` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/falchion.png" width="36" height="36" style="border-radius:4px;"/> | `Falchion` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/false_nameless_one_staff.png" width="36" height="36" style="border-radius:4px;"/> | `False Nameless One Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/false_orb_of_dominance.png" width="36" height="36" style="border-radius:4px;"/> | `False Orb of Dominance` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/false_nameless_one_staff.png" width="36" height="36" style="border-radius:4px;"/> | `False Nameless One Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/false_orb_of_dominance.png" width="36" height="36" style="border-radius:4px;"/> | `False Orb of Dominance` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/fangs_of_frost.png" width="36" height="36" style="border-radius:4px;"/> | `Fang of Frost` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/fighters_bindings.png" width="36" height="36" style="border-radius:4px;"/> | `Fighter's Bindings` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fire_scalder.png" width="36" height="36" style="border-radius:4px;"/> | `Fire Scalder` | "diamond_sword", "netherite_sword" |
@@ -253,20 +253,20 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/floral_gasher.png" width="36" height="36" style="border-radius:4px;"/> | `Floral Gasher Reverse` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flying_bastion.png" width="36" height="36" style="border-radius:4px;"/> | `Flying Bastion` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/forked_lightning.png" width="36" height="36" style="border-radius:4px;"/> | `Forked Lightning` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/forsaken_stake.png" width="36" height="36" style="border-radius:4px;"/> | `Forsaken Stake` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/fortune_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Spear` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/forsaken_stake.png" width="36" height="36" style="border-radius:4px;"/> | `Forsaken Stake` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/fortune_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/freezing_foil.png" width="36" height="36" style="border-radius:4px;"/> | `Freezing Foil` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frost_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Frost Piercer` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/frost_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Frost Scythe` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/frost_slayer.png" width="36" height="36" style="border-radius:4px;"/> | `Frost Slayer` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/game_icon_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Game Icon Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gamma_point.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Point` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/gamma_point.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Point` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/garnet_spiral.png" width="36" height="36" style="border-radius:4px;"/> | `Garnet Spiral` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gatekeeper_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Gatekeeper Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/gauntlets.png" width="36" height="36" style="border-radius:4px;"/> | `Gauntlet` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/geomancer_cane.png" width="36" height="36" style="border-radius:4px;"/> | `Geomancer Cane` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/gilded_netherite/gilded_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Gilded Netherite Sword` | "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gilded_planet.png" width="36" height="36" style="border-radius:4px;"/> | `Gilded Planet` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/gilded_planet.png" width="36" height="36" style="border-radius:4px;"/> | `Gilded Planet` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gingerbread_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Gingerbread Knife` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gladius.png" width="36" height="36" style="border-radius:4px;"/> | `Gladius` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Glaive` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
@@ -274,9 +274,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gleaming_core.png" width="36" height="36" style="border-radius:4px;"/> | `Gleaming Core` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/glowing_ancient.png" width="36" height="36" style="border-radius:4px;"/> | `Glowing Ancient` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gnarled_gloam.png" width="36" height="36" style="border-radius:4px;"/> | `Gnarled Gloam` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/gold_protocol.png" width="36" height="36" style="border-radius:4px;"/> | `Gold Protocol` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/gold_protocol.png" width="36" height="36" style="border-radius:4px;"/> | `Gold Protocol` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gold_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Gold Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_phoenix.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Phoenix` | "diamond_sword", "netherite_sword", "bow", "trident" |
+| <img src="docs/previews/golden_phoenix.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Phoenix` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_spire.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Spire` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golem_blackthorn.png" width="36" height="36" style="border-radius:4px;"/> | `Golem Blackthorn` | "diamond_sword", "netherite_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golem_blackthorn.png" width="36" height="36" style="border-radius:4px;"/> | `Golem Blackthorn Reverse` | "diamond_sword", "netherite_sword", "mace" |
@@ -287,14 +287,14 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/greatsword.png" width="36" height="36" style="border-radius:4px;"/> | `Greatsword` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/growing_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Growing Staff` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/guard_steeple.png" width="36" height="36" style="border-radius:4px;"/> | `Guard Steeple` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/guided_meteor.png" width="36" height="36" style="border-radius:4px;"/> | `Guided Meteor` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/guided_meteor.png" width="36" height="36" style="border-radius:4px;"/> | `Guided Meteor` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/harpoon.png" width="36" height="36" style="border-radius:4px;"/> | `Harpoon` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/haunted_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Haunted Blade` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/haunted_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Haunted Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/hawkbrand.png" width="36" height="36" style="border-radius:4px;"/> | `Hawkbrand` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/healing_grace.png" width="36" height="36" style="border-radius:4px;"/> | `Healing Grace` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/heart_of_gold.png" width="36" height="36" style="border-radius:4px;"/> | `Heart of Gold` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/heartstealer.png" width="36" height="36" style="border-radius:4px;"/> | `Heartstealer` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/heated_chainsword.png" width="36" height="36" style="border-radius:4px;"/> | `Heated Chainsword` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/heated_chainsword.png" width="36" height="36" style="border-radius:4px;"/> | `Heated Chainsword` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/heavy_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Heavy Spear` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/helix_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Helix Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hidden_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Hidden Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
@@ -302,10 +302,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hook_fists.png" width="36" height="36" style="border-radius:4px;"/> | `Hook Fist` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/horn_crusader.png" width="36" height="36" style="border-radius:4px;"/> | `Horn Crusader` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/howling_apexes.png" width="36" height="36" style="border-radius:4px;"/> | `Howling Apex` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hurricane_machete.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Machete` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/hurricane_machete.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Machete` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hydra.png" width="36" height="36" style="border-radius:4px;"/> | `Hydra` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ice_fire.png" width="36" height="36" style="border-radius:4px;"/> | `Ice Fire` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/igneous_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Igneous Sword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/igneous_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Igneous Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/illusion.png" width="36" height="36" style="border-radius:4px;"/> | `Illusion` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/imperial_longsword.png" width="36" height="36" style="border-radius:4px;"/> | `Imperial Longsword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/imperial_polearm.png" width="36" height="36" style="border-radius:4px;"/> | `Imperial Polearm` | "diamond_sword", "netherite_sword", "trident" |
@@ -326,29 +326,29 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/kendo_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Kendo Sword` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/kingdom_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Kingdom Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/labyrinth_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Labyrinth Broadsword` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lance_of_radiance.png" width="36" height="36" style="border-radius:4px;"/> | `Lance of Radiance` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/lance_of_radiance.png" width="36" height="36" style="border-radius:4px;"/> | `Lance of Radiance` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/langdebeve.png" width="36" height="36" style="border-radius:4px;"/> | `Langdebeve` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lapis_duplex_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Lapis Duplex Blade` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lava-infused_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Lava-Infused Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
+| <img src="docs/previews/lava-infused_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Lava-Infused Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lazuli_liberator.png" width="36" height="36" style="border-radius:4px;"/> | `Lazuli Liberator` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/leviathan.png" width="36" height="36" style="border-radius:4px;"/> | `Leviathan` | "diamond_sword", "netherite_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/life_caliber.png" width="36" height="36" style="border-radius:4px;"/> | `Life Caliber` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lightmare.png" width="36" height="36" style="border-radius:4px;"/> | `Lightmare` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lightning_crash.png" width="36" height="36" style="border-radius:4px;"/> | `Lightning Crash` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/lightmare.png" width="36" height="36" style="border-radius:4px;"/> | `Lightmare` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/lightning_crash.png" width="36" height="36" style="border-radius:4px;"/> | `Lightning Crash` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/longblade.png" width="36" height="36" style="border-radius:4px;"/> | `Longblade` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/longsword.png" width="36" height="36" style="border-radius:4px;"/> | `Longsword` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lost_shadow.png" width="36" height="36" style="border-radius:4px;"/> | `Lost Shadow` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lumen_phaser.png" width="36" height="36" style="border-radius:4px;"/> | `Lumen Phaser` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/lost_shadow.png" width="36" height="36" style="border-radius:4px;"/> | `Lost Shadow` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/lumen_phaser.png" width="36" height="36" style="border-radius:4px;"/> | `Lumen Phaser` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_knuckles.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Knuckles` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_light.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Light` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_scimitar.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Scimitar` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/luminous_scimitar.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Scimitar` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunging_lapis.png" width="36" height="36" style="border-radius:4px;"/> | `Lunging Lapis` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lush_boomerang.png" width="36" height="36" style="border-radius:4px;"/> | `Lush Boomerang` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lustre_pearl.png" width="36" height="36" style="border-radius:4px;"/> | `Lustre Pearl` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lynx.png" width="36" height="36" style="border-radius:4px;"/> | `Lynx` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magenta_mire.png" width="36" height="36" style="border-radius:4px;"/> | `Magenta Mire` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magic_chain.png" width="36" height="36" style="border-radius:4px;"/> | `Magic Chain` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magical_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Magical Glaive` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/magic_chain.png" width="36" height="36" style="border-radius:4px;"/> | `Magic Chain` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/magical_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Magical Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/makhaira.png" width="36" height="36" style="border-radius:4px;"/> | `Makhaira` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mana_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Mana Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/master_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Master Trident` | "diamond_sword", "netherite_sword", "trident" |
@@ -356,9 +356,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/masters_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Master's Katana Reverse` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/maulers.png" width="36" height="36" style="border-radius:4px;"/> | `Maulers` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mayhem_berserk.png" width="36" height="36" style="border-radius:4px;"/> | `Mayhem Berserk` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/mechanized_sawblade.png" width="36" height="36" style="border-radius:4px;"/> | `Mechanized Sawblade` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mind_bender.png" width="36" height="36" style="border-radius:4px;"/> | `Mind Bender` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mingled_magic.png" width="36" height="36" style="border-radius:4px;"/> | `Mingled Magic` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/mechanized_sawblade.png" width="36" height="36" style="border-radius:4px;"/> | `Mechanized Sawblade` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/mind_bender.png" width="36" height="36" style="border-radius:4px;"/> | `Mind Bender` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/mingled_magic.png" width="36" height="36" style="border-radius:4px;"/> | `Mingled Magic` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/molten_netherite/molten_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Molten Netherite Sword` | "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/moon_daggers.png" width="36" height="36" style="border-radius:4px;"/> | `Moon Dagger` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/moon_light.png" width="36" height="36" style="border-radius:4px;"/> | `Moon Light` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
@@ -373,29 +373,29 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nebula_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Nebula Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/necromancer_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Necromancer Knife` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/necromancer_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Necromancer Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/neon_cross.png" width="36" height="36" style="border-radius:4px;"/> | `Neon Cross` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/neon_cross.png" width="36" height="36" style="border-radius:4px;"/> | `Neon Cross` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nether_geode.png" width="36" height="36" style="border-radius:4px;"/> | `Nether Geode` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Trident` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/neurobreaker.png" width="36" height="36" style="border-radius:4px;"/> | `Neurobreaker` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/netherite_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Trident` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/neurobreaker.png" width="36" height="36" style="border-radius:4px;"/> | `Neurobreaker` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ngao.png" width="36" height="36" style="border-radius:4px;"/> | `Ngao` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/nightmares_bite.png" width="36" height="36" style="border-radius:4px;"/> | `Nightmare's Bite` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/noctivagant.png" width="36" height="36" style="border-radius:4px;"/> | `Noctivagant` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nucleic_daggers.png" width="36" height="36" style="border-radius:4px;"/> | `Nucleic Dagger` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/nucleic_daggers.png" width="36" height="36" style="border-radius:4px;"/> | `Nucleic Dagger` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/oathkeeper.png" width="36" height="36" style="border-radius:4px;"/> | `Oathkeeper` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/obsidian_claymore.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Claymore` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/odd_distortion.png" width="36" height="36" style="border-radius:4px;"/> | `Odd Distortion` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/odd_distortion.png" width="36" height="36" style="border-radius:4px;"/> | `Odd Distortion` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/omega_crater.png" width="36" height="36" style="border-radius:4px;"/> | `Omega Crater` | "diamond_sword", "netherite_sword", "mace" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/opulent_netherite/opulent_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Opulent Netherite Sword` | "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/orb_caller.png" width="36" height="36" style="border-radius:4px;"/> | `Orb Caller` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/orb_caller.png" width="36" height="36" style="border-radius:4px;"/> | `Orb Caller` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/ornate_netherite/ornate_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Ornate Netherite Sword` | "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/overclocking.png" width="36" height="36" style="border-radius:4px;"/> | `Overclocking` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/overclocking.png" width="36" height="36" style="border-radius:4px;"/> | `Overclocking` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/overgrown.png" width="36" height="36" style="border-radius:4px;"/> | `Overgrown` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pandas_flute.png" width="36" height="36" style="border-radius:4px;"/> | `Panda's Flute` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/parallel_emblem.png" width="36" height="36" style="border-radius:4px;"/> | `Parallel Emblem` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/paramount.png" width="36" height="36" style="border-radius:4px;"/> | `Paramount` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/partisan.png" width="36" height="36" style="border-radius:4px;"/> | `Partisan` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/perish_bones.png" width="36" height="36" style="border-radius:4px;"/> | `Perish Bone` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/phantasm.png" width="36" height="36" style="border-radius:4px;"/> | `Phantasm` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/phantasm.png" width="36" height="36" style="border-radius:4px;"/> | `Phantasm` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/phantom_spine.png" width="36" height="36" style="border-radius:4px;"/> | `Phantom Spine` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pike.png" width="36" height="36" style="border-radius:4px;"/> | `Pike` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pitchfork.png" width="36" height="36" style="border-radius:4px;"/> | `Pitchfork` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
@@ -403,12 +403,12 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/plantation_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Plantation Talwar` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/plate_knuckles.png" width="36" height="36" style="border-radius:4px;"/> | `Plate Knuckles` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/polished_fracture.png" width="36" height="36" style="border-radius:4px;"/> | `Polished Fracture` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/portal_concoction.png" width="36" height="36" style="border-radius:4px;"/> | `Portal Concoction` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/portal_fission.png" width="36" height="36" style="border-radius:4px;"/> | `Portal Fission` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/portal_concoction.png" width="36" height="36" style="border-radius:4px;"/> | `Portal Concoction` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/portal_fission.png" width="36" height="36" style="border-radius:4px;"/> | `Portal Fission` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/present_punchers.png" width="36" height="36" style="border-radius:4px;"/> | `Present Puncher` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prism_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Piercer` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prismarine_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Broadsword` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Gauntlet` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/prism_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Piercer` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/prismarine_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Broadsword` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/prismarine_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Gauntlet` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Sword` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prison_knuckles.png" width="36" height="36" style="border-radius:4px;"/> | `Prison Knuckles` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pudao.png" width="36" height="36" style="border-radius:4px;"/> | `Pudao` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
@@ -420,8 +420,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/radiant_aether.png" width="36" height="36" style="border-radius:4px;"/> | `Radiant Aether` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ranseur.png" width="36" height="36" style="border-radius:4px;"/> | `Ranseur` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Rapier` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/razor_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Razor Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/razor_light.png" width="36" height="36" style="border-radius:4px;"/> | `Razor Light` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/razor_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Razor Blade` | "diamond_sword", "netherite_sword", "iron_sword" |
+| <img src="docs/previews/razor_light.png" width="36" height="36" style="border-radius:4px;"/> | `Razor Light` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/red_cobra.png" width="36" height="36" style="border-radius:4px;"/> | `Red Cobra` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/red_sidewinder.png" width="36" height="36" style="border-radius:4px;"/> | `Red Sidewinder` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/redstone_daggers.png" width="36" height="36" style="border-radius:4px;"/> | `Redstone Dagger` | "diamond_sword", "netherite_sword", "trident" |
@@ -448,9 +448,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruby_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Ruby Talwar` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruination_crystal.png" width="36" height="36" style="border-radius:4px;"/> | `Ruination Crystal` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sacrament_swordstaff.png" width="36" height="36" style="border-radius:4px;"/> | `Sacrament Swordstaff` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sands_of_time.png" width="36" height="36" style="border-radius:4px;"/> | `Sands of Time` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/sands_of_time.png" width="36" height="36" style="border-radius:4px;"/> | `Sands of Time` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sarissa.png" width="36" height="36" style="border-radius:4px;"/> | `Sarissa` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sawblade_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Sawblade Gauntlet` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/sawblade_gauntlet.png" width="36" height="36" style="border-radius:4px;"/> | `Sawblade Gauntlet` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scabbards_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Scabbard's Bane` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scarlet_xiphos.png" width="36" height="36" style="border-radius:4px;"/> | `Scarlet Xiphos` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scarlet_xiphos.png" width="36" height="36" style="border-radius:4px;"/> | `Scarlet Xiphos Reverse` | "diamond_sword", "netherite_sword", "trident" |
@@ -458,7 +458,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scorched_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Scorched Scythe` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sculk_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Sculk Scythe` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scythe_of_wells.png" width="36" height="36" style="border-radius:4px;"/> | `Scythe of Wells` | "diamond_sword", "netherite_sword", "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sea_prism_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Sea Prism Trident` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/sea_prism_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Sea Prism Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sealing_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Sealing Blade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/searing_spike.png" width="36" height="36" style="border-radius:4px;"/> | `Searing Spike` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/serrated_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Serrated Scythe` | "diamond_sword", "netherite_sword", "iron_sword", "diamond_hoe", "netherite_hoe", "iron_hoe" |
@@ -482,18 +482,18 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/snowscape.png" width="36" height="36" style="border-radius:4px;"/> | `Snowscape` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soaring_crescent.png" width="36" height="36" style="border-radius:4px;"/> | `Soaring Crescent` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sonic_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Sonic Scepter` | "diamond_sword", "netherite_sword", "bow", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sorcerers_jaws.png" width="36" height="36" style="border-radius:4px;"/> | `Sorcerer's Jaws` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_fire_dirk.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fire Dirk` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/soul_fists.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fist` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/soul_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Knife` | "diamond_sword", "netherite_sword", "iron_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_merge.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Merge` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/soul_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Scythe` | "diamond_sword", "netherite_sword", "iron_sword", "diamond_hoe", "netherite_hoe", "iron_hoe" |
+| <img src="docs/previews/sorcerers_jaws.png" width="36" height="36" style="border-radius:4px;"/> | `Sorcerer's Jaws` | "diamond_sword", "netherite_sword", "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/soul_fire_dirk.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fire Dirk` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/soul_fists.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fist` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/soul_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Knife` | "diamond_sword", "netherite_sword", "iron_sword" |
+| <img src="docs/previews/soul_merge.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Merge` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/soul_scythe.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Scythe` | "diamond_sword", "netherite_sword", "iron_sword", "diamond_hoe", "netherite_hoe", "iron_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_stabber.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Stabber` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_stabber.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Stabber Reverse` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Soulblaze Netherite Sword` | "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/sparkler.png" width="36" height="36" style="border-radius:4px;"/> | `Sparkler` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spear_of_the_ring.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Ring` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/sparkler.png" width="36" height="36" style="border-radius:4px;"/> | `Sparkler` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/spear_of_the_ring.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Ring` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spear_of_the_stars.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Stars` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spellbound_duelist.png" width="36" height="36" style="border-radius:4px;"/> | `Spellbound Duelist` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spetum.png" width="36" height="36" style="border-radius:4px;"/> | `Spetum` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
@@ -505,7 +505,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/starblade.png" width="36" height="36" style="border-radius:4px;"/> | `Starblade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/steel_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Steel Trident` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/strider_locks.png" width="36" height="36" style="border-radius:4px;"/> | `Strider Locks` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sun_light.png" width="36" height="36" style="border-radius:4px;"/> | `Sun Light` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/sun_light.png" width="36" height="36" style="border-radius:4px;"/> | `Sun Light` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sun_spire.png" width="36" height="36" style="border-radius:4px;"/> | `Sun Spire` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sundown_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Sundown Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sunlight_heart.png" width="36" height="36" style="border-radius:4px;"/> | `Sunlight Heart` | "diamond_sword", "netherite_sword" |
@@ -520,7 +520,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_earth.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Earth` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_legends.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Legends` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_power.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Power` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_stories.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Stories` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/sword_of_stories.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Stories` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_twilight.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Twilight` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_wisdom.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Wisdom` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/swordbeaker.png" width="36" height="36" style="border-radius:4px;"/> | `Swordbreaker` | "diamond_sword", "netherite_sword" |
@@ -542,32 +542,32 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/the_starless_night.png" width="36" height="36" style="border-radius:4px;"/> | `The Starless Night` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/the_sunless_day.png" width="36" height="36" style="border-radius:4px;"/> | `The Sunless Day` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thunder_and_lightning.png" width="36" height="36" style="border-radius:4px;"/> | `Thunder and Lightning` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thunderbolt.png" width="36" height="36" style="border-radius:4px;"/> | `Thunderbolt` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/thunderbolt.png" width="36" height="36" style="border-radius:4px;"/> | `Thunderbolt` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tidal_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Tidal Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/titans_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Titan's Bane` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/torment_rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Torment Rapier` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tornado_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Tornado Trident` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/tornado_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Tornado Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/torrent_surge.png" width="36" height="36" style="border-radius:4px;"/> | `Torrent Surge` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/tower_polearm.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Polearm` | "diamond_sword", "netherite_sword", "iron_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/toxin_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Toxin Katana` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/toxin_katana.png" width="36" height="36" style="border-radius:4px;"/> | `Toxin Katana Reverse` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/transpicuous_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Transpicuous Trident` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/treasures_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Treasure's Bane` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_chaos.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Chaos` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_charms.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Charms` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/trident_of_chaos.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Chaos` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/trident_of_charms.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Charms` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_the_blaze.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of the Blaze` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_the_lyre.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of the Lyre` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/true_obsidian_claymore.png" width="36" height="36" style="border-radius:4px;"/> | `True Obsidian Claymore` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/truthseeker.png" width="36" height="36" style="border-radius:4px;"/> | `Truthseeker` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/truthseeker.png" width="36" height="36" style="border-radius:4px;"/> | `Truthseeker` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tube_revolter.png" width="36" height="36" style="border-radius:4px;"/> | `Tube Revolter` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twilight_queen_rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Twilight Queen Rapier` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twin_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Twin Glaive` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twisting_edge.png" width="36" height="36" style="border-radius:4px;"/> | `Twisting Edge` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ultima.png" width="36" height="36" style="border-radius:4px;"/> | `Ultima` | "diamond_sword", "netherite_sword" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/ultimate_diamond_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Sword` | "diamond_sword" |
+| <img src="docs/previews/ultimate_diamond_sword.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Sword` | "diamond_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/unbreakable_edge.png" width="36" height="36" style="border-radius:4px;"/> | `Unbreakable Edge` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Glaive` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/updraft_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Updraft Spear` | "diamond_sword", "netherite_sword", "trident" |
+| <img src="docs/previews/updraft_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Updraft Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/vacant_echoes.png" width="36" height="36" style="border-radius:4px;"/> | `Vacant Echo` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/valiant_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Valiant Spear` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/veiled_broadsword.png" width="36" height="36" style="border-radius:4px;"/> | `Veiled Broadsword` | "diamond_sword", "netherite_sword" |
@@ -590,7 +590,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/weeping_twister.png" width="36" height="36" style="border-radius:4px;"/> | `Weeping Twister` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/whip.png" width="36" height="36" style="border-radius:4px;"/> | `Whip` | "diamond_sword", "netherite_sword", "iron_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/whispering_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Whispering Spear` | "diamond_sword", "netherite_sword", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/wildfire_switchblade.png" width="36" height="36" style="border-radius:4px;"/> | `Wildfire Switchblade` | "diamond_sword", "netherite_sword" |
+| <img src="docs/previews/wildfire_switchblade.png" width="36" height="36" style="border-radius:4px;"/> | `Wildfire Switchblade` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/wildfire_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Wildfire Talwar` | "diamond_sword", "netherite_sword" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/wind_caller_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Wind Caller Staff` | "diamond_sword", "netherite_sword", "bow", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/windcutter.png" width="36" height="36" style="border-radius:4px;"/> | `Windcutter` | "diamond_sword", "netherite_sword", "trident" |
@@ -607,14 +607,14 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | :---: | :--- | :--- |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/amethyst_annihilator.png" width="36" height="36" style="border-radius:4px;"/> | `Amethyst Annihilator` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/andromeda.png" width="36" height="36" style="border-radius:4px;"/> | `Andromeda` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/angel_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/astral_obliterator.png" width="36" height="36" style="border-radius:4px;"/> | `Astral Obliterator` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/aurora_precipice.png" width="36" height="36" style="border-radius:4px;"/> | `Aurora Precipice` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/aurora_precipice.png" width="36" height="36" style="border-radius:4px;"/> | `Aurora Precipice` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/baleful_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Baleful Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bat_batter.png" width="36" height="36" style="border-radius:4px;"/> | `Bat Batter` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blind_spot.png" width="36" height="36" style="border-radius:4px;"/> | `Blind Spot` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/bonehead_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Bonehead Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/breaking_beyond.png" width="36" height="36" style="border-radius:4px;"/> | `Breaking Beyond` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/breaking_beyond.png" width="36" height="36" style="border-radius:4px;"/> | `Breaking Beyond` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bygone_pulse.png" width="36" height="36" style="border-radius:4px;"/> | `Bygone Pulse` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cerise_long_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Cerise Long Pick` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/chief_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Chief Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
@@ -636,15 +636,15 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cursed_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Cursed Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_long_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Long Pick` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dead_of_night.png" width="36" height="36" style="border-radius:4px;"/> | `Dead of Night` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_demolisher.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Demolisher` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/diamond_demolisher.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Demolisher` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/divided_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Divided Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/draco_mattock.png" width="36" height="36" style="border-radius:4px;"/> | `Draco Mattock` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dragon_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Dragon Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drill.png" width="36" height="36" style="border-radius:4px;"/> | `Drill` | "diamond_shovel", "netherite_shovel", "iron_shovel", "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/driller_night.png" width="36" height="36" style="border-radius:4px;"/> | `Driller Night` | "diamond_shovel", "netherite_shovel", "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/drill.png" width="36" height="36" style="border-radius:4px;"/> | `Drill` | "diamond_shovel", "netherite_shovel", "iron_shovel", "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
+| <img src="docs/previews/driller_night.png" width="36" height="36" style="border-radius:4px;"/> | `Driller Night` | "diamond_shovel", "netherite_shovel", "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dual_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dual Pickaxe` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/diamond_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/diamond_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/netherite_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Pickaxe` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/elven_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Elven Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ember_mallet.png" width="36" height="36" style="border-radius:4px;"/> | `Ember Mallet` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
@@ -671,7 +671,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/heavy_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Heavy Pickaxe` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/horseshoe_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Horseshoe Pickaxe` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/howling_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Howling Pick` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hurricane_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Pick` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/hurricane_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Pick` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/imperial_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Imperial Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/inferno.png" width="36" height="36" style="border-radius:4px;"/> | `Inferno` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/jade_breaker.png" width="36" height="36" style="border-radius:4px;"/> | `Jade Breaker` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
@@ -679,9 +679,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lazurite_mandrill.png" width="36" height="36" style="border-radius:4px;"/> | `Lazurite Mandrill` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/long_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Long Pick` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_gavel.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Gavel` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magic_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Magic Pick` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mahogany_melter.png" width="36" height="36" style="border-radius:4px;"/> | `Mahogany Melter` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/luminous_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/magic_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Magic Pick` | "diamond_pickaxe", "netherite_pickaxe" |
+| <img src="docs/previews/mahogany_melter.png" width="36" height="36" style="border-radius:4px;"/> | `Mahogany Melter` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/majesty_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Majesty Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mallet.png" width="36" height="36" style="border-radius:4px;"/> | `Mallet` | "diamond_axe", "netherite_axe", "iron_axe", "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mandrill.png" width="36" height="36" style="border-radius:4px;"/> | `Mandrill` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
@@ -699,16 +699,16 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nameless_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nameless_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/necromancer_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Necromancer Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/netherite_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/obsidian_fragmenter.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Fragmenter` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/optic_ender.png" width="36" height="36" style="border-radius:4px;"/> | `Optic Ender` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/opulent_netherite/opulent_netherite_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Opulent Netherite Pickaxe` | "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ore_grinder.png" width="36" height="36" style="border-radius:4px;"/> | `Ore Grinder` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/ornate_netherite/ornate_netherite_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Ornate Netherite Pickaxe` | "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/overcast_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Overcast Pick` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/plutonium_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Plutonium Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/plutonium_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Plutonium Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/polaroid_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Polaroid Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prismarine_pulverizer.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Pulverizer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/prismarine_pulverizer.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Pulverizer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/quintessential.png" width="36" height="36" style="border-radius:4px;"/> | `Quintessential` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/raiders_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Raider's Bane` | "diamond_pickaxe", "netherite_pickaxe" |
@@ -724,12 +724,12 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/serrated_pick.png" width="36" height="36" style="border-radius:4px;"/> | `Serrated Pick` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shroomlight_mattock.png" width="36" height="36" style="border-radius:4px;"/> | `Shroomlight Mattock` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/silviculture.png" width="36" height="36" style="border-radius:4px;"/> | `Silviculture` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/singing_wrecker.png" width="36" height="36" style="border-radius:4px;"/> | `Singing Wrecker` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/singing_wrecker.png" width="36" height="36" style="border-radius:4px;"/> | `Singing Wrecker` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Sledgehammer` | "diamond_axe", "netherite_axe", "iron_axe", "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/smithing_hammer.png" width="36" height="36" style="border-radius:4px;"/> | `Smithing Hammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_sledge.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Sledge` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Soulblaze Netherite Pickaxe` | "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spacial_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Spacial Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/spacial_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Spacial Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spellbound_mandrill.png" width="36" height="36" style="border-radius:4px;"/> | `Spellbound Mandrill` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spider_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Spider Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/split_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Split Pickaxe` | "diamond_pickaxe", "netherite_pickaxe", "iron_pickaxe" |
@@ -742,8 +742,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/the_monkey_motivator.png" width="36" height="36" style="border-radius:4px;"/> | `The Monkey Motivator` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thunder_mattock.png" width="36" height="36" style="border-radius:4px;"/> | `Thunder Mattock` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tower_keeper.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Keeper` | "diamond_pickaxe", "netherite_pickaxe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/typhoon_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Typhoon Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/ultimate_diamond_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Pickaxe` | "diamond_pickaxe" |
+| <img src="docs/previews/typhoon_sledgehammer.png" width="36" height="36" style="border-radius:4px;"/> | `Typhoon Sledgehammer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
+| <img src="docs/previews/ultimate_diamond_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Pickaxe` | "diamond_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ultra_gavel.png" width="36" height="36" style="border-radius:4px;"/> | `Ultra Gavel` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/veiled_pickaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Veiled Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
@@ -761,13 +761,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | :---: | :--- | :--- |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/abracadabra.png" width="36" height="36" style="border-radius:4px;"/> | `Abracadabra` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/aeroshovel.png" width="36" height="36" style="border-radius:4px;"/> | `Aeroshovel` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Hoe` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/angel_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/angel_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/apparition_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Apparition Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/archaeology_spade.png" width="36" height="36" style="border-radius:4px;"/> | `Archaeology Spade` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/arctic_winds.png" width="36" height="36" style="border-radius:4px;"/> | `Arctic Winds` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/arctic_winds.png" width="36" height="36" style="border-radius:4px;"/> | `Arctic Winds` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/army_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Army Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/atomic_spade.png" width="36" height="36" style="border-radius:4px;"/> | `Atomic Spade` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/atomic_spade.png" width="36" height="36" style="border-radius:4px;"/> | `Atomic Spade` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/beaming_lilac.png" width="36" height="36" style="border-radius:4px;"/> | `Beaming Lilac` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bedrock_driver.png" width="36" height="36" style="border-radius:4px;"/> | `Bedrock Driver` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/behemoth.png" width="36" height="36" style="border-radius:4px;"/> | `Behemoth` | "diamond_hoe", "netherite_hoe" |
@@ -788,7 +788,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cobalt_rotator.png" width="36" height="36" style="border-radius:4px;"/> | `Cobalt Rotator` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cobalt_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Cobalt Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cobra_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Cobra Hoe` | "diamond_hoe", "netherite_hoe", "iron_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cold_lights.png" width="36" height="36" style="border-radius:4px;"/> | `Cold Lights` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/cold_lights.png" width="36" height="36" style="border-radius:4px;"/> | `Cold Lights` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combat_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Combat Hoe` | "diamond_hoe", "netherite_hoe", "iron_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combat_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Combat Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/comet_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Comet Shovel` | "diamond_shovel", "netherite_shovel" |
@@ -800,7 +800,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crashing_bolt.png" width="36" height="36" style="border-radius:4px;"/> | `Crashing Bolt` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cryostasis.png" width="36" height="36" style="border-radius:4px;"/> | `Cryostasis` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/current_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Current Cutter` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cyclone_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Cyclone Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/cyclone_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Cyclone Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_plow.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Plow` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Trowel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/digging_pearl.png" width="36" height="36" style="border-radius:4px;"/> | `Digging Pearl` | "diamond_shovel", "netherite_shovel" |
@@ -810,19 +810,19 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dual_constancy.png" width="36" height="36" style="border-radius:4px;"/> | `Dual Constancy` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dual_execution.png" width="36" height="36" style="border-radius:4px;"/> | `Dual Execution` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dual_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dual Hoe` | "diamond_hoe", "netherite_hoe", "iron_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Hoe` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/diamond_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/diamond_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Golden Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Hoe` | "diamond_hoe", "netherite_hoe", "iron_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Hoe` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/netherite_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/netherite_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/edging_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Edging Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_duplex.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Duplex` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Shovel` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/endless_abyss.png" width="36" height="36" style="border-radius:4px;"/> | `Endless Abyss` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/endless_abyss.png" width="36" height="36" style="border-radius:4px;"/> | `Endless Abyss` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/essence_gatherer.png" width="36" height="36" style="border-radius:4px;"/> | `Essence Gatherer` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/eternal_somnum.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Somnum` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/eternal_somnum.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Somnum` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/eventide.png" width="36" height="36" style="border-radius:4px;"/> | `Eventide` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/exemplary.png" width="36" height="36" style="border-radius:4px;"/> | `Exemplary` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/faultless.png" width="36" height="36" style="border-radius:4px;"/> | `Faultless` | "diamond_shovel", "netherite_shovel" |
@@ -860,10 +860,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lapis_trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Lapis Trowel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lazuli_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Lazuli Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/liquid_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Liquid Shovel` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Trowel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/luminous_trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Trowel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunar_trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Lunar Trowel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mantle_chopper.png" width="36" height="36" style="border-radius:4px;"/> | `Mantle Chopper` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/merlot_molder.png" width="36" height="36" style="border-radius:4px;"/> | `Merlot Molder` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/merlot_molder.png" width="36" height="36" style="border-radius:4px;"/> | `Merlot Molder` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/molten_netherite/molten_netherite_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Molten Netherite Hoe` | "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/molten_netherite/molten_netherite_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Molten Netherite Shovel` | "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/moss_ridger.png" width="36" height="36" style="border-radius:4px;"/> | `Moss Ridger` | "diamond_hoe", "netherite_hoe" |
@@ -872,7 +872,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nameless_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nameless_spade.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Spade` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nature_growth.png" width="36" height="36" style="border-radius:4px;"/> | `Nature Growth` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/neutron_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Neutron Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/neutron_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Neutron Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/noble_excavator.png" width="36" height="36" style="border-radius:4px;"/> | `Noble Excavator` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nocturnal_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Nocturnal Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/obsidian_gardener.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Gardener` | "diamond_hoe", "netherite_hoe" |
@@ -887,8 +887,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/peal_of_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Peal of Thunder` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/phantomatic.png" width="36" height="36" style="border-radius:4px;"/> | `Phantomatic` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pointed_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Pointed Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prism_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Shovel` | "diamond_shovel", "netherite_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prismarine_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/prism_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/prismarine_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/raging_blaze.png" width="36" height="36" style="border-radius:4px;"/> | `Raging Blaze` | "diamond_shovel", "netherite_shovel" |
@@ -913,12 +913,12 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shaded_shadow.png" width="36" height="36" style="border-radius:4px;"/> | `Shaded Shadow` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shroomlight_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Shroomlight Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/snow_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Snow Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sorcery_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Sorcery Shovel` | "diamond_shovel", "netherite_shovel" |
+| <img src="docs/previews/sorcery_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Sorcery Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_capsule.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Capsule` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Soulblaze Netherite Hoe` | "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Soulblaze Netherite Shovel` | "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spade.png" width="36" height="36" style="border-radius:4px;"/> | `Spade` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spellcasting_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Spellcasting Hoe` | "diamond_hoe", "netherite_hoe" |
+| <img src="docs/previews/spellcasting_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Spellcasting Hoe` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spoon.png" width="36" height="36" style="border-radius:4px;"/> | `Spoon` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spoon_of_fatigue.png" width="36" height="36" style="border-radius:4px;"/> | `Spoon of Fatigue` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/star_botany.png" width="36" height="36" style="border-radius:4px;"/> | `Star Botany` | "diamond_hoe", "netherite_hoe" |
@@ -931,8 +931,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trench_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Trench Shovel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trowel.png" width="36" height="36" style="border-radius:4px;"/> | `Trowel` | "diamond_shovel", "netherite_shovel", "iron_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twisted_gardener.png" width="36" height="36" style="border-radius:4px;"/> | `Twisted Gardener` | "diamond_hoe", "netherite_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/ultimate_diamond_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Hoe` | "diamond_hoe" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/ultimate_diamond_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Shovel` | "diamond_shovel" |
+| <img src="docs/previews/ultimate_diamond_hoe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Hoe` | "diamond_hoe" |
+| <img src="docs/previews/ultimate_diamond_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Shovel` | "diamond_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_plow.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Plow` | "diamond_hoe", "netherite_hoe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_shovel.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/veiled_plow.png" width="36" height="36" style="border-radius:4px;"/> | `Veiled Plow` | "diamond_hoe", "netherite_hoe" |
@@ -960,8 +960,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/amethyst_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Amethyst Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/ancient_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Ancient Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/ancient_kindler.png" width="36" height="36" style="border-radius:4px;"/> | `Ancient Kindler` | "bow", "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/angel_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/angel_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Crossbow` | "crossbow" |
+| <img src="docs/previews/angel_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Bow` | "bow" |
+| <img src="docs/previews/angel_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/astronomic_longbow.png" width="36" height="36" style="border-radius:4px;"/> | `Astronomic Longbow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/auto_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Auto Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/autumn_wind.png" width="36" height="36" style="border-radius:4px;"/> | `Autumn Wind` | "bow", "crossbow" |
@@ -970,13 +970,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/battlefield_bomber_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Battlefield Bomber` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Blaster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/blaster_wand.png" width="36" height="36" style="border-radius:4px;"/> | `Blaster Wand` | "bow", "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/blaze_wand.png" width="36" height="36" style="border-radius:4px;"/> | `Blaze Wand` | "bow" |
+| <img src="docs/previews/blaze_wand.png" width="36" height="36" style="border-radius:4px;"/> | `Blaze Wand` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/blinding_light_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Blinding Light Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/blizzard_caster.png" width="36" height="36" style="border-radius:4px;"/> | `Blizzard Caster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/bombshell_sniper_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Bombshell Sniper` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/bonebow.png" width="36" height="36" style="border-radius:4px;"/> | `Bonebow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/bonechiller.png" width="36" height="36" style="border-radius:4px;"/> | `Bonechiller` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/bonfire.png" width="36" height="36" style="border-radius:4px;"/> | `Bonfire` | "bow" |
+| <img src="docs/previews/bonfire.png" width="36" height="36" style="border-radius:4px;"/> | `Bonfire` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/bow_of_ender.png" width="36" height="36" style="border-radius:4px;"/> | `Bow of Ender` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/bow_of_lost_souls.png" width="36" height="36" style="border-radius:4px;"/> | `Bow of Lost Souls` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/brumal_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Brumal Bow` | "bow" |
@@ -988,7 +988,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/call_of_the_void.png" width="36" height="36" style="border-radius:4px;"/> | `Call of the Void` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/candle_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Candle Blaster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/candle_wand.png" width="36" height="36" style="border-radius:4px;"/> | `Candle Wand` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/carmine_caster.png" width="36" height="36" style="border-radius:4px;"/> | `Carmine Caster` | "bow" |
+| <img src="docs/previews/carmine_caster.png" width="36" height="36" style="border-radius:4px;"/> | `Carmine Caster` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/catacomb_caster_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Catacomb Caster` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/caterwaul_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Caterwaul Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/cerberus.png" width="36" height="36" style="border-radius:4px;"/> | `Cerberus` | "bow" |
@@ -1016,7 +1016,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/cosmic_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Cosmic Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/crag_carver.png" width="36" height="36" style="border-radius:4px;"/> | `Crag Carver` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/crescent_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Crescent Crossbow` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/crystal_bomber_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Bomber` | "crossbow" |
+| <img src="docs/previews/crystal_bomber_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Bomber` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/crystal_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/crystal_launcher.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Launcher` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/cyclone_fan.png" width="36" height="36" style="border-radius:4px;"/> | `Cyclone Fan` | "bow", "crossbow" |
@@ -1026,8 +1026,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/dark_water_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Water Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/daybreak_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Daybreak Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/despairing_void.png" width="36" height="36" style="border-radius:4px;"/> | `Despairing Void` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/diamond_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/diamond_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Crossbow` | "crossbow" |
+| <img src="docs/previews/diamond_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Bow` | "bow" |
+| <img src="docs/previews/diamond_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/doom_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Doom Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/double_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Double Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/double_zap.png" width="36" height="36" style="border-radius:4px;"/> | `Double Zap` | "bow", "crossbow" |
@@ -1065,13 +1065,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/frostbolt_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Frostbolt` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/frozen_treat.png" width="36" height="36" style="border-radius:4px;"/> | `Frozen Treat` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/gale_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Gale Blaster` | "bow", "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/gamma_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Bow` | "bow" |
+| <img src="docs/previews/gamma_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/gemstone_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Gemstone Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/geode_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Geode Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/ghost_lighter.png" width="36" height="36" style="border-radius:4px;"/> | `Ghost Lighter` | "bow", "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/gleaming_star.png" width="36" height="36" style="border-radius:4px;"/> | `Gleaming Star` | "bow" |
+| <img src="docs/previews/gleaming_star.png" width="36" height="36" style="border-radius:4px;"/> | `Gleaming Star` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/gloopy_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Gloopy Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/gnashing_teeth.png" width="36" height="36" style="border-radius:4px;"/> | `Gnashing Teeth` | "bow" |
+| <img src="docs/previews/gnashing_teeth.png" width="36" height="36" style="border-radius:4px;"/> | `Gnashing Teeth` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/golden_brute_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Brute Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/graveyard_grower.png" width="36" height="36" style="border-radius:4px;"/> | `Graveyard Grower` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/great_maestro.png" width="36" height="36" style="border-radius:4px;"/> | `Great Maestro` | "bow" |
@@ -1081,13 +1081,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/hallucinator_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Hallucinator` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/harp_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Harp Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/harpoon_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Harpoon Crossbow` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/haunted_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Haunted Bow` | "bow" |
+| <img src="docs/previews/haunted_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Haunted Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/heartbreaker_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Heartbreaker` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/heavy_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Heavy Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/high_noon_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `High Noon Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/hunters_promise.png" width="36" height="36" style="border-radius:4px;"/> | `Hunter's Promise` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/hunting_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Hunting Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/hurricane_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Bow` | "bow" |
+| <img src="docs/previews/hurricane_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Hurricane Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/ice_wand.png" width="36" height="36" style="border-radius:4px;"/> | `Ice Wand` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/igneous_terror.png" width="36" height="36" style="border-radius:4px;"/> | `Igneous Terror` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/ignited_ice_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Ignited Ice` | "crossbow" |
@@ -1120,18 +1120,18 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/masters_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Master's Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/mechanical_shortbow.png" width="36" height="36" style="border-radius:4px;"/> | `Mechanical Shortbow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/merging_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Merging Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/meteor_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Meteor Crossbow` | "crossbow" |
+| <img src="docs/previews/meteor_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Meteor Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/midnight_wing.png" width="36" height="36" style="border-radius:4px;"/> | `Midnight Wing` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/molten_soul_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Molten Soul` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/monarch_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Monarch Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/nameless_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/natural_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Natural Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/nautical_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Nautical Crossbow` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/netherite_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/netherite_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Crossbow` | "crossbow" |
+| <img src="docs/previews/netherite_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Bow` | "bow" |
+| <img src="docs/previews/netherite_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/nightfall_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Nightfall` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/nocturnal_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Nocturnal Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/nuclear_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Nuclear Crossbow` | "crossbow" |
+| <img src="docs/previews/nuclear_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Nuclear Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/obsidian_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/obsidian_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/ocular_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Ocular Bow` | "bow" |
@@ -1142,11 +1142,11 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/phantom_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Phantom Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/piercing_the_void_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Piercing the Void` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/plasma_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Plasma Blaster` | "bow", "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/polaris_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Polaris Bow` | "bow" |
+| <img src="docs/previews/polaris_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Polaris Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/power_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Power Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/pride_of_the_piglins_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Pride of the Piglins` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/prismarine_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/prismarine_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Crossbow` | "crossbow" |
+| <img src="docs/previews/prismarine_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Bow` | "bow" |
+| <img src="docs/previews/prismarine_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/punishing_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Punishing Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/purple_storm.png" width="36" height="36" style="border-radius:4px;"/> | `Purple Storm` | "bow" |
@@ -1183,7 +1183,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/snowfall_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Snowfall Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/snowplow_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Snowplow Blaster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/snowstorm_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Snowstorm Crossbow` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/solar_curtains_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Solar Curtains` | "crossbow" |
+| <img src="docs/previews/solar_curtains_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Solar Curtains` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/solvating_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Solvating Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/sonic_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Sonic Blaster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/soul_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Bow` | "bow" |
@@ -1203,7 +1203,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/stormbringer.png" width="36" height="36" style="border-radius:4px;"/> | `Stormbringer` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/stove_blaster.png" width="36" height="36" style="border-radius:4px;"/> | `Stove Blaster` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/sugar_rush.png" width="36" height="36" style="border-radius:4px;"/> | `Sugar Rush` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/sunflare_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Sunflare Bow` | "bow" |
+| <img src="docs/previews/sunflare_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Sunflare Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/supercell_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Supercell Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/surging_sea.png" width="36" height="36" style="border-radius:4px;"/> | `Surging Sea` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/tarantula_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Tarantula Crossbow` | "crossbow" |
@@ -1211,7 +1211,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/the_fungis_browncap_standby.png" width="36" height="36" style="border-radius:4px;"/> | `The Fungis Browncap` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/the_fungis_redcap_standby.png" width="36" height="36" style="border-radius:4px;"/> | `The Fungis Redcap` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/the_green_menace.png" width="36" height="36" style="border-radius:4px;"/> | `The Green Menace` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/the_orange_meteor.png" width="36" height="36" style="border-radius:4px;"/> | `The Orange Meteor` | "bow" |
+| <img src="docs/previews/the_orange_meteor.png" width="36" height="36" style="border-radius:4px;"/> | `The Orange Meteor` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/the_pink_scoundrel.png" width="36" height="36" style="border-radius:4px;"/> | `The Pink Scoundrel` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/the_red_monster.png" width="36" height="36" style="border-radius:4px;"/> | `The Red Monster` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/the_slicer_standby.png" width="36" height="36" style="border-radius:4px;"/> | `The Slicer` | "crossbow" |
@@ -1220,13 +1220,13 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/tornado_keeper.png" width="36" height="36" style="border-radius:4px;"/> | `Tornado Keeper` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/tower_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/tower_toppler_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Toppler` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/treasure_ray_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Treasure Ray` | "crossbow" |
+| <img src="docs/previews/treasure_ray_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Treasure Ray` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/trickbow.png" width="36" height="36" style="border-radius:4px;"/> | `Trickbow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/tsunami_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Tsunami Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/turtle_targeter_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Turtle Targeter Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/twin_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Twin Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/twisting_vine_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Twisting Vine Bow` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/typhoon_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Typhoon Crossbow` | "crossbow" |
+| <img src="docs/previews/typhoon_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Typhoon Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/undead_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/undead_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/unending.png" width="36" height="36" style="border-radius:4px;"/> | `Unending` | "bow" |
@@ -1236,7 +1236,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/void_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Void Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/voidcaller_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Voidcaller` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/voided_sharpshooter.png" width="36" height="36" style="border-radius:4px;"/> | `Voided Sharpshooter` | "bow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/warlock_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Warlock Crossbow` | "crossbow" |
+| <img src="docs/previews/warlock_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Warlock Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/warped_dimension.png" width="36" height="36" style="border-radius:4px;"/> | `Warped Dimension` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/warrior_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Warrior Crossbow` | "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/webbed_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Webbed Bow` | "bow" |
@@ -1246,7 +1246,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/wind_pump.png" width="36" height="36" style="border-radius:4px;"/> | `Wind Pump` | "bow", "crossbow" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_ranged/winters_touch.png" width="36" height="36" style="border-radius:4px;"/> | `Winter's Touch` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/wither_boltslinger_standby.png" width="36" height="36" style="border-radius:4px;"/> | `Wither Boltslinger` | "crossbow" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/wizardry_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Wizardry Bow` | "bow" |
+| <img src="docs/previews/wizardry_bow.png" width="36" height="36" style="border-radius:4px;"/> | `Wizardry Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/world_bow.png" width="36" height="36" style="border-radius:4px;"/> | `World Bow` | "bow" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_ranged/world_crossbow_standby.png" width="36" height="36" style="border-radius:4px;"/> | `World Crossbow` | "crossbow" |
 
@@ -1406,10 +1406,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/arch-illager_robe_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arch-Illager Robe Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/arch-illager_robe_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arch-Illager Robe Helmet` | "diamond_helmet", "netherite_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/arch-illager_robe_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arch-Illager Robe Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/arctic_fox_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Boots` | "diamond_boots", "netherite_boots" |
-| <img src="necraft_dungeons/icons_armor/arctic_fox_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
-| <img src="necraft_dungeons/icons_armor/arctic_fox_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Helmet` | "diamond_helmet", "netherite_helmet" |
-| <img src="necraft_dungeons/icons_armor/arctic_fox_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Leggings` | "diamond_leggings", "netherite_leggings" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Boots` | "diamond_boots", "netherite_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Helmet` | "diamond_helmet", "netherite_helmet" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Arctic Fox Armor Leggings` | "diamond_leggings", "netherite_leggings" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/armor_number_7_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Armor Number 7 Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/armor_number_7_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Armor Number 7 Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/armor_number_7_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Armor Number 7 Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
@@ -1430,30 +1430,30 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bat_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bat Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bat_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bat Armor Helmet` | "diamond_helmet", "netherite_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bat_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bat Armor Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/battle_robe_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
-| <img src="necraft_dungeons/icons_armor/battle_robe_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
-| <img src="necraft_dungeons/icons_armor/battle_robe_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
-| <img src="necraft_dungeons/icons_armor/battle_robe_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Leggings` | "diamond_leggings", "netherite_leggings", "iron_leggings" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/battle_robe_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/battle_robe_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/battle_robe_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/battle_robe_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Battle Robe Leggings` | "diamond_leggings", "netherite_leggings", "iron_leggings" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bee Armor Boots` | "diamond_boots", "netherite_boots" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bee Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bee Armor Helmet` | "diamond_helmet", "netherite_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bee Armor Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/beehive_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Boots` | "diamond_boots", "netherite_boots" |
-| <img src="necraft_dungeons/icons_armor/beehive_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
-| <img src="necraft_dungeons/icons_armor/beehive_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Helmet` | "diamond_helmet", "netherite_helmet" |
-| <img src="necraft_dungeons/icons_armor/beehive_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/beenest_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
-| <img src="necraft_dungeons/icons_armor/beenest_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
-| <img src="necraft_dungeons/icons_armor/beenest_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
-| <img src="necraft_dungeons/icons_armor/beenest_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Leggings` | "diamond_leggings", "netherite_leggings", "iron_leggings" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Boots` | "diamond_boots", "netherite_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Helmet` | "diamond_helmet", "netherite_helmet" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beehive Armor Leggings` | "diamond_leggings", "netherite_leggings" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Beenest Armor Leggings` | "diamond_leggings", "netherite_leggings", "iron_leggings" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Spot Armor Boots` | "diamond_boots", "netherite_boots" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Spot Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Spot Armor Helmet` | "diamond_helmet", "netherite_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Spot Armor Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/black_wolf_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Boots` | "diamond_boots", "netherite_boots" |
-| <img src="necraft_dungeons/icons_armor/black_wolf_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
-| <img src="necraft_dungeons/icons_armor/black_wolf_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Helmet` | "diamond_helmet", "netherite_helmet" |
-| <img src="necraft_dungeons/icons_armor/black_wolf_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Leggings` | "diamond_leggings", "netherite_leggings" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Boots` | "diamond_boots", "netherite_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Helmet` | "diamond_helmet", "netherite_helmet" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Black Wolf Armor Leggings` | "diamond_leggings", "netherite_leggings" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blackstone_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blackstone Armor Boots` | "diamond_boots", "netherite_boots" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blackstone_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blackstone Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blackstone_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blackstone Armor Helmet` | "diamond_helmet", "netherite_helmet" |
@@ -1470,8 +1470,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blood_moon_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blood Moon Armor Chestplate` | "diamond_chestplate", "netherite_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blood_moon_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blood Moon Armor Helmet` | "diamond_helmet", "netherite_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/blood_moon_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blood Moon Armor Leggings` | "diamond_leggings", "netherite_leggings" |
-| <img src="necraft_dungeons/icons_armor/blue_mystery_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
-| <img src="necraft_dungeons/icons_armor/blue_mystery_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Boots` | "diamond_boots", "netherite_boots", "iron_boots" |
+| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_chestplate.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Chestplate` | "diamond_chestplate", "netherite_chestplate", "iron_chestplate" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_helmet.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Helmet` | "diamond_helmet", "netherite_helmet", "iron_helmet" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_leggings.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Blue Mystery Armor Leggings` | "diamond_leggings", "netherite_leggings", "iron_leggings" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_armor/bone_spider_armor_boots.png" width="36" height="36" style="border-radius:4px;"/> | `pattern:Bone Spider Armor Boots` | "diamond_boots", "netherite_boots" |
@@ -2441,7 +2441,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/new_default_plus/bundles/beta_flaming_quiver.png" width="36" height="36" style="border-radius:4px;"/> | `Beta Flaming Quiver` | "bundle", "white_bundle", "light_gray_bundle", "gray_bundle", "black_bundle", "brown_bundle", "red_bundle", "orange_bundle", "yellow_bundle", "lime_bundle", "green_bundle", "cyan_bundle", "light_blue_bundle", "blue_bundle", "purple_bundle", "magenta_bundle", "pink_bundle" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/command_block_book_writable.png" width="36" height="36" style="border-radius:4px;"/> | `Command Block Book` | "writable_book" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/bundles/corrupted_seeds.png" width="36" height="36" style="border-radius:4px;"/> | `Corrupted Seeds` | "bundle", "white_bundle", "light_gray_bundle", "gray_bundle", "black_bundle", "brown_bundle", "red_bundle", "orange_bundle", "yellow_bundle", "lime_bundle", "green_bundle", "cyan_bundle", "light_blue_bundle", "blue_bundle", "purple_bundle", "magenta_bundle", "pink_bundle" |
-| <img src="assets/minecraft/optifine/cit/new_default_plus/bundles/diamond_dust.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Dust` | "bundle", "white_bundle", "light_gray_bundle", "gray_bundle", "black_bundle", "brown_bundle", "red_bundle", "orange_bundle", "yellow_bundle", "lime_bundle", "green_bundle", "cyan_bundle", "light_blue_bundle", "blue_bundle", "purple_bundle", "magenta_bundle", "pink_bundle" |
+| <img src="docs/previews/diamond_dust.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Dust` | "bundle", "white_bundle", "light_gray_bundle", "gray_bundle", "black_bundle", "brown_bundle", "red_bundle", "orange_bundle", "yellow_bundle", "lime_bundle", "green_bundle", "cyan_bundle", "light_blue_bundle", "blue_bundle", "purple_bundle", "magenta_bundle", "pink_bundle" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/minecarts/diamond_minecart.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Minecart` | "minecart" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/enchanted_flint_and_steel.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanted Flint and Steel` | "flint_and_steel" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/enchanters_tome_writable.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanter's Tome` | "writable_book" |
@@ -2478,8 +2478,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/agroforestry.png" width="36" height="36" style="border-radius:4px;"/> | `Agroforestry` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ahlspiess.png" width="36" height="36" style="border-radius:4px;"/> | `Ahlspiess` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/all_spear.png" width="36" height="36" style="border-radius:4px;"/> | `All Spear` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Spear` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/auroral_apex.png" width="36" height="36" style="border-radius:4px;"/> | `Auroral Apex` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/angel_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Spear` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/auroral_apex.png" width="36" height="36" style="border-radius:4px;"/> | `Auroral Apex` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/barbed_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Barbed Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/batwing.png" width="36" height="36" style="border-radius:4px;"/> | `Batwing` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bayou_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Bayou Spear` | "diamond_spear", "netherite_spear" |
@@ -2487,16 +2487,16 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/bee_stinger.png" width="36" height="36" style="border-radius:4px;"/> | `Bee Stinger` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/beta_ray_breaker.png" width="36" height="36" style="border-radius:4px;"/> | `Beta Ray Breaker` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bident.png" width="36" height="36" style="border-radius:4px;"/> | `Bident` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/binding_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Binding Glaive` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/binding_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Binding Glaive` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blackout.png" width="36" height="36" style="border-radius:4px;"/> | `Blackout` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blade_of_the_grove.png" width="36" height="36" style="border-radius:4px;"/> | `Blade of the Grove` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bladed_levin.png" width="36" height="36" style="border-radius:4px;"/> | `Bladed Levin` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blending_boil.png" width="36" height="36" style="border-radius:4px;"/> | `Blending Boil` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blitzing_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Blitzing Thunder` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/blitzing_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Blitzing Thunder` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bone_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Bone Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/botanical_harpoon.png" width="36" height="36" style="border-radius:4px;"/> | `Botanical Harpoon` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bridge_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Bridge Axe` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/brimstone_rend.png" width="36" height="36" style="border-radius:4px;"/> | `Brimstone Rend` | "diamond_spear", "netherite_spear", "iron_spear" |
+| <img src="docs/previews/brimstone_rend.png" width="36" height="36" style="border-radius:4px;"/> | `Brimstone Rend` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/broad_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Broad Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/burning_boughs.png" width="36" height="36" style="border-radius:4px;"/> | `Burning Boughs` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/burnished_skewer.png" width="36" height="36" style="border-radius:4px;"/> | `Burnished Skewer` | "diamond_spear", "netherite_spear" |
@@ -2515,8 +2515,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cobalt_dancer.png" width="36" height="36" style="border-radius:4px;"/> | `Cobalt Dancer` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combat_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Combat Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/combining_crucible.png" width="36" height="36" style="border-radius:4px;"/> | `Combining Crucible` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/command_block_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Command Block Staff` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/conduit_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Conduit Scepter` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/command_block_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Command Block Staff` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/conduit_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Conduit Scepter` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/consecrator.png" width="36" height="36" style="border-radius:4px;"/> | `Consecrator` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/constancy_pike.png" width="36" height="36" style="border-radius:4px;"/> | `Constancy Pike` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/constancy_poleaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Constancy Poleaxe` | "diamond_spear", "netherite_spear" |
@@ -2528,7 +2528,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/creation_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Creation Axe` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/creation_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Creation Glaive` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/cryopathy.png" width="36" height="36" style="border-radius:4px;"/> | `Cryopathy` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crystal_beam.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Beam` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/crystal_beam.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Beam` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/crystal_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Crystal Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/curtana.png" width="36" height="36" style="border-radius:4px;"/> | `Curtana` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/curved_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Curved Spear` | "diamond_spear", "netherite_spear", "iron_spear" |
@@ -2537,8 +2537,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_javelin.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Javelin` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/desert_defender.png" width="36" height="36" style="border-radius:4px;"/> | `Desert Defender` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_siege.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Siege` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Trident` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/diamond_siege.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Siege` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/diamond_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diaphysis_destroyer.png" width="36" height="36" style="border-radius:4px;"/> | `Diaphysis Destroyer` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diatonic_druse.png" width="36" height="36" style="border-radius:4px;"/> | `Diatonic Druse` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diving_falcon.png" width="36" height="36" style="border-radius:4px;"/> | `Diving Falcon` | "diamond_spear", "netherite_spear" |
@@ -2548,9 +2548,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dripstone_pike.png" width="36" height="36" style="border-radius:4px;"/> | `Dripstone Pike` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_necromancer_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Drowned Necromancer Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_sarissa.png" width="36" height="36" style="border-radius:4px;"/> | `Drowned Sarissa` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Spear` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/diamond_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Golden Spear` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Spear` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/netherite_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/spear.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Spear` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dwindling_dead.png" width="36" height="36" style="border-radius:4px;"/> | `Dwindling Dead` | "diamond_spear", "netherite_spear" |
@@ -2561,34 +2561,34 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emperor_curtana.png" width="36" height="36" style="border-radius:4px;"/> | `Emperor Curtana` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emperors_reign.png" width="36" height="36" style="border-radius:4px;"/> | `Emperor's Reign` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/empress_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Empress Halberd` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/enchanting_kalis.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanting Kalis` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/eternal_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Knife` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/enchanting_kalis.png" width="36" height="36" style="border-radius:4px;"/> | `Enchanting Kalis` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/eternal_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Knife` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/event_horizon.png" width="36" height="36" style="border-radius:4px;"/> | `Event Horizon` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/evil_queen_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Evil Queen Axe` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fabled_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Fabled Blade` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/false_nameless_one_staff.png" width="36" height="36" style="border-radius:4px;"/> | `False Nameless One Staff` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/false_orb_of_dominance.png" width="36" height="36" style="border-radius:4px;"/> | `False Orb of Dominance` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/fabled_blade.png" width="36" height="36" style="border-radius:4px;"/> | `Fabled Blade` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/false_nameless_one_staff.png" width="36" height="36" style="border-radius:4px;"/> | `False Nameless One Staff` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/false_orb_of_dominance.png" width="36" height="36" style="border-radius:4px;"/> | `False Orb of Dominance` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fimbulwinter.png" width="36" height="36" style="border-radius:4px;"/> | `Fimbulwinter` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flame_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Flame Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flying_bastion.png" width="36" height="36" style="border-radius:4px;"/> | `Flying Bastion` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/forked_lightning.png" width="36" height="36" style="border-radius:4px;"/> | `Forked Lightning` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/forsaken_stake.png" width="36" height="36" style="border-radius:4px;"/> | `Forsaken Stake` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/fortune_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Spear` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/forsaken_stake.png" width="36" height="36" style="border-radius:4px;"/> | `Forsaken Stake` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/fortune_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/freezing_foil.png" width="36" height="36" style="border-radius:4px;"/> | `Freezing Foil` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frost_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Frost Piercer` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frozen_voices.png" width="36" height="36" style="border-radius:4px;"/> | `Frozen Voices` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/game_icon_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Game Icon Staff` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gamma_point.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Point` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/gamma_point.png" width="36" height="36" style="border-radius:4px;"/> | `Gamma Point` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/geomancer_cane.png" width="36" height="36" style="border-radius:4px;"/> | `Geomancer Cane` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/giant_battle_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Giant Battle Axe` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Glaive` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/glaive_of_jade.png" width="36" height="36" style="border-radius:4px;"/> | `Glaive of Jade` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gleaming_core.png" width="36" height="36" style="border-radius:4px;"/> | `Gleaming Core` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/glow_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Glow Cutter` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/glow_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Glow Cutter` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gnarled_gloam.png" width="36" height="36" style="border-radius:4px;"/> | `Gnarled Gloam` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/goal_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Goal Axe` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gold_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Gold Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_phoenix.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Phoenix` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/golden_phoenix.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Phoenix` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_spire.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Spire` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/grave_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Grave Bane` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gravity_lance.png" width="36" height="36" style="border-radius:4px;"/> | `Gravity Lance` | "diamond_spear", "netherite_spear" |
@@ -2612,24 +2612,24 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/jade_falcata.png" width="36" height="36" style="border-radius:4px;"/> | `Jade Falcata` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/jousting_lance.png" width="36" height="36" style="border-radius:4px;"/> | `Jousting Lance` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/kingdom_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Kingdom Trident` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lance_of_radiance.png" width="36" height="36" style="border-radius:4px;"/> | `Lance of Radiance` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/lance_of_radiance.png" width="36" height="36" style="border-radius:4px;"/> | `Lance of Radiance` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/langdebeve.png" width="36" height="36" style="border-radius:4px;"/> | `Langdebeve` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lazuli_liberator.png" width="36" height="36" style="border-radius:4px;"/> | `Lazuli Liberator` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lifestealer.png" width="36" height="36" style="border-radius:4px;"/> | `Lifestealer` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lightmare.png" width="36" height="36" style="border-radius:4px;"/> | `Lightmare` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/lightmare.png" width="36" height="36" style="border-radius:4px;"/> | `Lightmare` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/longblade.png" width="36" height="36" style="border-radius:4px;"/> | `Longblade` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lost_shadow.png" width="36" height="36" style="border-radius:4px;"/> | `Lost Shadow` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/lost_shadow.png" width="36" height="36" style="border-radius:4px;"/> | `Lost Shadow` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_light.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Light` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunation.png" width="36" height="36" style="border-radius:4px;"/> | `Lunation` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunging_lapis.png" width="36" height="36" style="border-radius:4px;"/> | `Lunging Lapis` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lynx.png" width="36" height="36" style="border-radius:4px;"/> | `Lynx` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magenta_mire.png" width="36" height="36" style="border-radius:4px;"/> | `Magenta Mire` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/magical_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Magical Glaive` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/magical_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Magical Glaive` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/makhaira.png" width="36" height="36" style="border-radius:4px;"/> | `Makhaira` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mana_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Mana Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/master_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Master Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/might_of_the_warrior.png" width="36" height="36" style="border-radius:4px;"/> | `Might of the Warrior` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mind_bender.png" width="36" height="36" style="border-radius:4px;"/> | `Mind Bender` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/mind_bender.png" width="36" height="36" style="border-radius:4px;"/> | `Mind Bender` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/moon_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Moon Scepter` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mystic_blossom.png" width="36" height="36" style="border-radius:4px;"/> | `Mystic Blossom` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/naginata.png" width="36" height="36" style="border-radius:4px;"/> | `Naginata` | "diamond_spear", "netherite_spear", "iron_spear" |
@@ -2641,7 +2641,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/necromancer_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Necromancer Staff` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nefarious_edge.png" width="36" height="36" style="border-radius:4px;"/> | `Nefarious Edge` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nether_geode.png" width="36" height="36" style="border-radius:4px;"/> | `Nether Geode` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Trident` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/netherite_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ngao.png" width="36" height="36" style="border-radius:4px;"/> | `Ngao` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/noctivagant.png" width="36" height="36" style="border-radius:4px;"/> | `Noctivagant` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/paramount.png" width="36" height="36" style="border-radius:4px;"/> | `Paramount` | "diamond_spear", "netherite_spear" |
@@ -2652,12 +2652,12 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/plantation_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Plantation Talwar` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/poleaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Poleaxe` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/polished_fracture.png" width="36" height="36" style="border-radius:4px;"/> | `Polished Fracture` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prism_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Piercer` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/prism_piercer.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Piercer` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pudao.png" width="36" height="36" style="border-radius:4px;"/> | `Pudao` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/quartz_cluster.png" width="36" height="36" style="border-radius:4px;"/> | `Quartz Cluster` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/quiet_glade.png" width="36" height="36" style="border-radius:4px;"/> | `Quiet Glade` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/quindent.png" width="36" height="36" style="border-radius:4px;"/> | `Quindent` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/raging_volcano_storm.png" width="36" height="36" style="border-radius:4px;"/> | `Raging Volcano Storm` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/raging_volcano_storm.png" width="36" height="36" style="border-radius:4px;"/> | `Raging Volcano Storm` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ranseur.png" width="36" height="36" style="border-radius:4px;"/> | `Ranseur` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Rapier` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/red_cobra.png" width="36" height="36" style="border-radius:4px;"/> | `Red Cobra` | "diamond_spear", "netherite_spear" |
@@ -2679,11 +2679,11 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruby_reverence.png" width="36" height="36" style="border-radius:4px;"/> | `Ruby Reverence` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruby_talwar.png" width="36" height="36" style="border-radius:4px;"/> | `Ruby Talwar` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruination_crystal.png" width="36" height="36" style="border-radius:4px;"/> | `Ruination Crystal` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/rune_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Rune Halberd` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/rune_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Rune Halberd` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sacrament_swordstaff.png" width="36" height="36" style="border-radius:4px;"/> | `Sacrament Swordstaff` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sarissa.png" width="36" height="36" style="border-radius:4px;"/> | `Sarissa` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Scepter` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sea_prism_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Sea Prism Trident` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/sea_prism_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Sea Prism Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/searing_spike.png" width="36" height="36" style="border-radius:4px;"/> | `Searing Spike` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/seven_legends.png" width="36" height="36" style="border-radius:4px;"/> | `Seven Legends` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shroomlight_thruster.png" width="36" height="36" style="border-radius:4px;"/> | `Shroomlight Thruster` | "diamond_spear", "netherite_spear" |
@@ -2693,10 +2693,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/smouldering_snowveil.png" width="36" height="36" style="border-radius:4px;"/> | `Smouldering Snowveil` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/snowscape.png" width="36" height="36" style="border-radius:4px;"/> | `Snowscape` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sonic_scepter.png" width="36" height="36" style="border-radius:4px;"/> | `Sonic Scepter` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_fire_dirk.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fire Dirk` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/soul_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Knife` | "diamond_spear", "netherite_spear", "iron_spear" |
+| <img src="docs/previews/soul_fire_dirk.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Fire Dirk` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/soul_knife.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Knife` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soul_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spear_of_the_ring.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Ring` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/spear_of_the_ring.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Ring` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spear_of_the_stars.png" width="36" height="36" style="border-radius:4px;"/> | `Spear of the Stars` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/spetum.png" width="36" height="36" style="border-radius:4px;"/> | `Spetum` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/spine-chill_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Spine-Chill Spear` | "diamond_spear", "netherite_spear" |
@@ -2707,7 +2707,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/starblade.png" width="36" height="36" style="border-radius:4px;"/> | `Starblade` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/steel_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Steel Trident` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/stone_cold.png" width="36" height="36" style="border-radius:4px;"/> | `Stone Cold` | "diamond_spear", "netherite_spear", "iron_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/stormlander.png" width="36" height="36" style="border-radius:4px;"/> | `Stormlander` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
+| <img src="docs/previews/stormlander.png" width="36" height="36" style="border-radius:4px;"/> | `Stormlander` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sun_spire.png" width="36" height="36" style="border-radius:4px;"/> | `Sun Spire` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sundown_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Sundown Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/superboss_slayer.png" width="36" height="36" style="border-radius:4px;"/> | `Superboss Slayer` | "diamond_spear", "netherite_spear" |
@@ -2719,7 +2719,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_earth.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Earth` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_legends.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Legends` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_power.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Power` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_stories.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Stories` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/sword_of_stories.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Stories` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sword_of_twilight.png" width="36" height="36" style="border-radius:4px;"/> | `Sword of Twilight` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/swordbeaker.png" width="36" height="36" style="border-radius:4px;"/> | `Swordbreaker` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/swordstaff.png" width="36" height="36" style="border-radius:4px;"/> | `Swordstaff` | "diamond_spear", "netherite_spear", "iron_spear" |
@@ -2731,24 +2731,24 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/the_starless_night.png" width="36" height="36" style="border-radius:4px;"/> | `The Starless Night` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/the_sunless_day.png" width="36" height="36" style="border-radius:4px;"/> | `The Sunless Day` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thrashing_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Thrashing Thunder` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thunderbolt.png" width="36" height="36" style="border-radius:4px;"/> | `Thunderbolt` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/thunderbolt.png" width="36" height="36" style="border-radius:4px;"/> | `Thunderbolt` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tidal_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Tidal Glaive` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/titans_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Titan's Bane` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/torment_rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Torment Rapier` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tornado_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Tornado Trident` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/tornado_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Tornado Trident` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/tower_polearm.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Polearm` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/transpicuous_trident.png" width="36" height="36" style="border-radius:4px;"/> | `Transpicuous Trident` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_chaos.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Chaos` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_charms.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Charms` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/trident_of_chaos.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Chaos` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/trident_of_charms.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of Charms` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_the_blaze.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of the Blaze` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/trident_of_the_lyre.png" width="36" height="36" style="border-radius:4px;"/> | `Trident of the Lyre` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/true_obsidian_claymore.png" width="36" height="36" style="border-radius:4px;"/> | `True Obsidian Claymore` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/truthseeker.png" width="36" height="36" style="border-radius:4px;"/> | `Truthseeker` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/truthseeker.png" width="36" height="36" style="border-radius:4px;"/> | `Truthseeker` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twilight_queen_rapier.png" width="36" height="36" style="border-radius:4px;"/> | `Twilight Queen Rapier` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/twin_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Twin Glaive` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/unbreakable_edge.png" width="36" height="36" style="border-radius:4px;"/> | `Unbreakable Edge` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_glaive.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Glaive` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/updraft_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Updraft Spear` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/updraft_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Updraft Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/valiant_spear.png" width="36" height="36" style="border-radius:4px;"/> | `Valiant Spear` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/vampire_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Vampire Halberd` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/veiled_fork.png" width="36" height="36" style="border-radius:4px;"/> | `Veiled Fork` | "diamond_spear", "netherite_spear" |
@@ -2769,7 +2769,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/wind_caller_staff.png" width="36" height="36" style="border-radius:4px;"/> | `Wind Caller Staff` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/windcutter.png" width="36" height="36" style="border-radius:4px;"/> | `Windcutter` | "diamond_spear", "netherite_spear", "iron_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/winding_tide.png" width="36" height="36" style="border-radius:4px;"/> | `Winding Tide` | "diamond_spear", "netherite_spear" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/winter_airglow.png" width="36" height="36" style="border-radius:4px;"/> | `Winter Airglow` | "diamond_spear", "netherite_spear" |
+| <img src="docs/previews/winter_airglow.png" width="36" height="36" style="border-radius:4px;"/> | `Winter Airglow` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/world_forger.png" width="36" height="36" style="border-radius:4px;"/> | `World Forger` | "diamond_axe", "netherite_axe", "diamond_pickaxe", "netherite_pickaxe", "mace", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/world_sword.png" width="36" height="36" style="border-radius:4px;"/> | `World Sword` | "diamond_spear", "netherite_spear" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/world_trident.png" width="36" height="36" style="border-radius:4px;"/> | `World Trident` | "diamond_spear", "netherite_spear" |
@@ -2783,7 +2783,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | Gambar | Nama Rename di Anvil | Material / Item Dasar |
 | :---: | :--- | :--- |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/accretion_disk.png" width="36" height="36" style="border-radius:4px;"/> | `Accretion Disk` | "shield" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/acoustic_buckler.png" width="36" height="36" style="border-radius:4px;"/> | `Acoustic Buckler` | "shield" |
+| <img src="docs/previews/acoustic_buckler.png" width="36" height="36" style="border-radius:4px;"/> | `Acoustic Buckler` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/admin_fred_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Admin Fred Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/admin_romeo_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Admin Romeo Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/admin_xara_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Admin Xara Shield` | "shield" |
@@ -2877,7 +2877,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/redstone_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Redstone Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/resisting_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Resisting Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/rhodolite_targe.png" width="36" height="36" style="border-radius:4px;"/> | `Rhodolite Targe` | "shield" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/rising_ash.png" width="36" height="36" style="border-radius:4px;"/> | `Rising Ash` | "shield" |
+| <img src="docs/previews/rising_ash.png" width="36" height="36" style="border-radius:4px;"/> | `Rising Ash` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/ritual_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Ritual Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_shield/royal_guard_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Royal Guard Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/russet_copper_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Russet Copper Shield` | "shield" |
@@ -2907,10 +2907,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/thunder_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Thunder Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_shield/tower_guard_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Tower Guard Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/trial_chambers_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Trial Chambers Shield` | "shield" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/uranium_dipylon.png" width="36" height="36" style="border-radius:4px;"/> | `Uranium Dipylon` | "shield" |
+| <img src="docs/previews/uranium_dipylon.png" width="36" height="36" style="border-radius:4px;"/> | `Uranium Dipylon` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_shield/vanguard_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Vanguard Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/veiled_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Veiled Shield` | "shield" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/violet_amethyst.png" width="36" height="36" style="border-radius:4px;"/> | `Violet Amethyst` | "shield" |
+| <img src="docs/previews/violet_amethyst.png" width="36" height="36" style="border-radius:4px;"/> | `Violet Amethyst` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/void_guardian.png" width="36" height="36" style="border-radius:4px;"/> | `Void Guardian` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/void_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Void Shield` | "shield" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_shield/warrior_shield.png" width="36" height="36" style="border-radius:4px;"/> | `Warrior Shield` | "shield" |
@@ -2924,248 +2924,248 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 
 | Gambar | Nama Rename di Anvil | Material / Item Dasar |
 | :---: | :--- | :--- |
-| — | `Absorption Potion` | "potion" |
-| — | `Bad Luck Potion` | "potion" |
-| — | `Bad Omen Potion` | "potion" |
-| — | `Blindness Potion` | "potion" |
-| — | `Burning Brew` | "potion" |
-| — | `Burning Oil Vial` | "potion" |
-| — | `Conduit Power Potion` | "potion" |
-| — | `Confusion Potion` | "potion" |
-| — | `Darkness Potion` | "potion" |
-| — | `Decay Potion` | "potion" |
-| — | `Dense Brew` | "potion" |
-| — | `Dolphin's Grace Potion` | "potion" |
-| — | `Dullness Potion` | "potion" |
-| — | `Dungeons Alternate Harming Potion` | "potion" |
-| — | `Dungeons Alternate Lingering Harming Potion` | "lingering_potion" |
-| — | `Dungeons Alternate Splash Harming Potion` | "splash_potion" |
-| — | `Dungeons Harming Potion` | "potion" |
-| — | `Dungeons Invisibility Potion` | "potion" |
-| — | `Dungeons Lingering Harming Potion` | "lingering_potion" |
-| — | `Dungeons Lingering Invisibility Potion` | "lingering_potion" |
-| — | `Dungeons Lingering Night Vision Potion` | "lingering_potion" |
-| — | `Dungeons Lingering Slowness Potion` | "lingering_potion" |
-| — | `Dungeons Lingering Water Breathing Potion` | "lingering_potion" |
-| — | `Dungeons Night Vision Potion` | "potion" |
-| — | `Dungeons Slowness Potion` | "potion" |
-| — | `Dungeons Splash Harming Potion` | "splash_potion" |
-| — | `Dungeons Splash Invisibility Potion` | "splash_potion" |
-| — | `Dungeons Splash Night Vision Potion` | "splash_potion" |
-| — | `Dungeons Splash Slowness Potion` | "splash_potion" |
-| — | `Dungeons Splash Water Breathing Potion` | "splash_potion" |
-| — | `Dungeons Water Breathing Potion` | "potion" |
-| — | `Fancy Potion` | "potion" |
-| — | `Fire Resistance Potion` | "potion" |
-| — | `Harming Potion` | "potion" |
-| — | `Haste Potion` | "potion" |
-| — | `Healing Potion` | "potion" |
-| — | `Health Boost Potion` | "potion" |
-| — | `Hunger Potion` | "potion" |
-| — | `Infestation Potion` | "potion" |
-| — | `Invisibility Potion` | "potion" |
-| — | `Leaping Potion` | "potion" |
-| — | `Levitation Potion` | "potion" |
-| — | `Lingering Absorption Potion` | "lingering_potion" |
-| — | `Lingering Bad Luck Potion` | "lingering_potion" |
-| — | `Lingering Bad Omen Potion` | "lingering_potion" |
-| — | `Lingering Blindness Potion` | "lingering_potion" |
-| — | `Lingering Burning Brew` | "lingering_potion" |
-| — | `Lingering Burning Oil Vial` | "lingering_potion" |
-| — | `Lingering Conduit Power Potion` | "lingering_potion" |
-| — | `Lingering Confusion Potion` | "lingering_potion" |
-| — | `Lingering Darkness Potion` | "lingering_potion" |
-| — | `Lingering Decay Potion` | "lingering_potion" |
-| — | `Lingering Dense Brew` | "lingering_potion" |
-| — | `Lingering Dolphin's Grace Potion` | "lingering_potion" |
-| — | `Lingering Dullness Potion` | "lingering_potion" |
-| — | `Lingering Fancy Potion` | "lingering_potion" |
-| — | `Lingering Fire Resistance Potion` | "lingering_potion" |
-| — | `Lingering Harming Potion` | "lingering_potion" |
-| — | `Lingering Haste Potion` | "lingering_potion" |
-| — | `Lingering Healing Potion` | "lingering_potion" |
-| — | `Lingering Health Boost Potion` | "lingering_potion" |
-| — | `Lingering Hunger Potion` | "lingering_potion" |
-| — | `Lingering Infestation Potion` | "lingering_potion" |
-| — | `Lingering Invisibility Potion` | "lingering_potion" |
-| — | `Lingering Leaping Potion` | "lingering_potion" |
-| — | `Lingering Levitation Potion` | "lingering_potion" |
-| — | `Lingering Luck Potion` | "lingering_potion" |
-| — | `Lingering Night Vision Potion` | "lingering_potion" |
-| — | `Lingering Oakwood Brew` | "lingering_potion" |
-| — | `Lingering Oozing Potion` | "lingering_potion" |
-| — | `Lingering Poison Potion` | "lingering_potion" |
-| — | `Lingering Raid Omen Potion` | "lingering_potion" |
-| — | `Lingering Regeneration Potion` | "lingering_potion" |
-| — | `Lingering Resistance Potion` | "lingering_potion" |
-| — | `Lingering Saturation Potion` | "lingering_potion" |
-| — | `Lingering Shadow Brew` | "lingering_potion" |
-| — | `Lingering Slow Falling Potion` | "lingering_potion" |
-| — | `Lingering Slowness Potion` | "lingering_potion" |
-| — | `Lingering Spectral Potion` | "lingering_potion" |
-| — | `Lingering Strength Potion` | "lingering_potion" |
-| — | `Lingering Sweet Brew` | "lingering_potion" |
-| — | `Lingering Swiftness Potion` | "lingering_potion" |
-| — | `Lingering Trial Omen Potion` | "lingering_potion" |
-| — | `Lingering Turtle Master Potion` | "lingering_potion" |
-| — | `Lingering Village Hero Potion` | "lingering_potion" |
-| — | `Lingering Water Breathing Potion` | "lingering_potion" |
-| — | `Lingering Weakness Potion` | "lingering_potion" |
-| — | `Lingering Weaving Potion` | "lingering_potion" |
-| — | `Lingering Wind Charging Potion` | "lingering_potion" |
-| — | `Long Dullness Potion` | "potion" |
-| — | `Long Fire Resistance Potion` | "potion" |
-| — | `Long Haste Potion` | "potion" |
-| — | `Long Invisibility Potion` | "potion" |
-| — | `Long Leaping Potion` | "potion" |
-| — | `Long Lingering Dullness Potion` | "lingering_potion" |
-| — | `Long Lingering Fire Resistance Potion` | "lingering_potion" |
-| — | `Long Lingering Haste Potion` | "lingering_potion" |
-| — | `Long Lingering Invisibility Potion` | "lingering_potion" |
-| — | `Long Lingering Leaping Potion` | "lingering_potion" |
-| — | `Long Lingering Night Vision Potion` | "lingering_potion" |
-| — | `Long Lingering Poison Potion` | "lingering_potion" |
-| — | `Long Lingering Regeneration Potion` | "lingering_potion" |
-| — | `Long Lingering Resistance Potion` | "lingering_potion" |
-| — | `Long Lingering Slow Falling Potion` | "lingering_potion" |
-| — | `Long Lingering Slowness Potion` | "lingering_potion" |
-| — | `Long Lingering Strength Potion` | "lingering_potion" |
-| — | `Long Lingering Swiftness Potion` | "lingering_potion" |
-| — | `Long Lingering Turtle Master Potion` | "lingering_potion" |
-| — | `Long Lingering Water Breathing Potion` | "lingering_potion" |
-| — | `Long Lingering Weakness Potion` | "lingering_potion" |
-| — | `Long Night Vision Potion` | "potion" |
-| — | `Long Poison Potion` | "potion" |
-| — | `Long Regeneration Potion` | "potion" |
-| — | `Long Resistance Potion` | "potion" |
-| — | `Long Slow Falling Potion` | "potion" |
-| — | `Long Slowness Potion` | "potion" |
-| — | `Long Splash Dullness Potion` | "splash_potion" |
-| — | `Long Splash Fire Resistance Potion` | "splash_potion" |
-| — | `Long Splash Haste Potion` | "splash_potion" |
-| — | `Long Splash Invisibility Potion` | "splash_potion" |
-| — | `Long Splash Leaping Potion` | "splash_potion" |
-| — | `Long Splash Night Vision Potion` | "splash_potion" |
-| — | `Long Splash Poison Potion` | "splash_potion" |
-| — | `Long Splash Regeneration Potion` | "splash_potion" |
-| — | `Long Splash Resistance Potion` | "splash_potion" |
-| — | `Long Splash Slow Falling Potion` | "splash_potion" |
-| — | `Long Splash Slowness Potion` | "splash_potion" |
-| — | `Long Splash Strength Potion` | "splash_potion" |
-| — | `Long Splash Swiftness Potion` | "splash_potion" |
-| — | `Long Splash Turtle Master Potion` | "splash_potion" |
-| — | `Long Splash Water Breathing Potion` | "splash_potion" |
-| — | `Long Splash Weakness Potion` | "splash_potion" |
-| — | `Long Strength Potion` | "potion" |
-| — | `Long Swiftness Potion` | "potion" |
-| — | `Long Turtle Master Potion` | "potion" |
-| — | `Long Water Breathing Potion` | "potion" |
-| — | `Long Weakness Potion` | "potion" |
-| — | `Luck Potion` | "potion" |
-| — | `Night Vision Potion` | "potion" |
-| — | `Oakwood Brew` | "potion" |
-| — | `Oozing Potion` | "potion" |
-| — | `Poison Potion` | "potion" |
-| — | `Raid Omen Potion` | "potion" |
-| — | `Regeneration Potion` | "potion" |
-| — | `Resistance Potion` | "potion" |
-| — | `Saturation Potion` | "potion" |
-| — | `Shadow Brew` | "potion" |
-| — | `Slow Falling Potion` | "potion" |
-| — | `Slowness Potion` | "potion" |
-| — | `Spectral Potion` | "potion" |
-| — | `Splash Absorption Potion` | "splash_potion" |
-| — | `Splash Bad Luck Potion` | "splash_potion" |
-| — | `Splash Bad Omen Potion` | "splash_potion" |
-| — | `Splash Blindness Potion` | "splash_potion" |
-| — | `Splash Burning Brew` | "splash_potion" |
-| — | `Splash Burning Oil Vial` | "splash_potion" |
-| — | `Splash Conduit Power Potion` | "splash_potion" |
-| — | `Splash Confusion Potion` | "splash_potion" |
-| — | `Splash Darkness Potion` | "splash_potion" |
-| — | `Splash Decay Potion` | "splash_potion" |
-| — | `Splash Dense Brew` | "splash_potion" |
-| — | `Splash Dolphin's Grace Potion` | "splash_potion" |
-| — | `Splash Dullness Potion` | "splash_potion" |
-| — | `Splash Fancy Potion` | "splash_potion" |
-| — | `Splash Fire Resistance Potion` | "splash_potion" |
-| — | `Splash Harming Potion` | "splash_potion" |
-| — | `Splash Haste Potion` | "splash_potion" |
-| — | `Splash Healing Potion` | "splash_potion" |
-| — | `Splash Health Boost Potion` | "splash_potion" |
-| — | `Splash Hunger Potion` | "splash_potion" |
-| — | `Splash Infestation Potion` | "splash_potion" |
-| — | `Splash Invisibility Potion` | "splash_potion" |
-| — | `Splash Leaping Potion` | "splash_potion" |
-| — | `Splash Levitation Potion` | "splash_potion" |
-| — | `Splash Luck Potion` | "splash_potion" |
-| — | `Splash Night Vision Potion` | "splash_potion" |
-| — | `Splash Oakwood Brew` | "splash_potion" |
-| — | `Splash Oozing Potion` | "splash_potion" |
-| — | `Splash Poison Potion` | "splash_potion" |
-| — | `Splash Raid Omen Potion` | "splash_potion" |
-| — | `Splash Regeneration Potion` | "splash_potion" |
-| — | `Splash Resistance Potion` | "splash_potion" |
-| — | `Splash Saturation Potion` | "splash_potion" |
-| — | `Splash Shadow Brew` | "splash_potion" |
-| — | `Splash Slow Falling Potion` | "splash_potion" |
-| — | `Splash Spectral Potion` | "splash_potion" |
-| — | `Splash Strength Potion` | "splash_potion" |
-| — | `Splash Sweet Brew` | "splash_potion" |
-| — | `Splash Swiftness Potion` | "splash_potion" |
-| — | `Splash Trial Omen Potion` | "splash_potion" |
-| — | `Splash Turtle Master Potion` | "splash_potion" |
-| — | `Splash Village Hero Potion` | "splash_potion" |
-| — | `Splash Water Breathing Potion` | "splash_potion" |
-| — | `Splash Weakness Potion` | "splash_potion" |
-| — | `Splash Weaving Potion` | "splash_potion" |
-| — | `Splash Wind Charging Potion` | "splash_potion" |
-| — | `Strength Potion` | "potion" |
-| — | `Strong Dullness Potion` | "potion" |
-| — | `Strong Harming Potion` | "potion" |
-| — | `Strong Haste Potion` | "potion" |
-| — | `Strong Healing Potion` | "potion" |
-| — | `Strong Leaping Potion` | "potion" |
-| — | `Strong Lingering Dullness Potion` | "lingering_potion" |
-| — | `Strong Lingering Harming Potion` | "lingering_potion" |
-| — | `Strong Lingering Haste Potion` | "lingering_potion" |
-| — | `Strong Lingering Healing Potion` | "lingering_potion" |
-| — | `Strong Lingering Leaping Potion` | "lingering_potion" |
-| — | `Strong Lingering Poison Potion` | "lingering_potion" |
-| — | `Strong Lingering Regeneration Potion` | "lingering_potion" |
-| — | `Strong Lingering Resistance Potion` | "lingering_potion" |
-| — | `Strong Lingering Slowness Potion` | "lingering_potion" |
-| — | `Strong Lingering Strength Potion` | "lingering_potion" |
-| — | `Strong Lingering Swiftness Potion` | "lingering_potion" |
-| — | `Strong Lingering Turtle Master Potion` | "lingering_potion" |
-| — | `Strong Poison Potion` | "potion" |
-| — | `Strong Regeneration Potion` | "potion" |
-| — | `Strong Resistance Potion` | "potion" |
-| — | `Strong Slowness Potion` | "potion" |
-| — | `Strong Splash Dullness Potion` | "splash_potion" |
-| — | `Strong Splash Harming Potion` | "splash_potion" |
-| — | `Strong Splash Haste Potion` | "splash_potion" |
-| — | `Strong Splash Healing Potion` | "splash_potion" |
-| — | `Strong Splash Leaping Potion` | "splash_potion" |
-| — | `Strong Splash Poison Potion` | "splash_potion" |
-| — | `Strong Splash Regeneration Potion` | "splash_potion" |
-| — | `Strong Splash Resistance Potion` | "splash_potion" |
-| — | `Strong Splash Slowness Potion` | "splash_potion" |
-| — | `Strong Splash Strength Potion` | "splash_potion" |
-| — | `Strong Splash Swiftness Potion` | "splash_potion" |
-| — | `Strong Splash Turtle Master Potion` | "splash_potion" |
-| — | `Strong Strength Potion` | "potion" |
-| — | `Strong Swiftness Potion` | "potion" |
-| — | `Strong Turtle Master Potion` | "potion" |
-| — | `Sweet Brew` | "potion" |
-| — | `Swiftness Potion` | "potion" |
-| — | `Trial Omen Potion` | "potion" |
-| — | `Turtle Master Potion` | "potion" |
-| — | `Village Hero Potion` | "potion" |
-| — | `Water Breathing Potion` | "potion" |
-| — | `Weakness Potion` | "potion" |
-| — | `Weaving Potion` | "potion" |
-| — | `Wind Charging Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/absorption_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Absorption Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/bad_luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Bad Luck Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/bad_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Bad Omen Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/blindness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Blindness Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_brew/burning_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Burning Brew` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_oil_vial/burning_oil_vial_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Burning Oil Vial` | "potion" |
+| <img src="assets/minecraft/textures/item/conduit_power_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Conduit Power Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/confusion_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Confusion Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/darkness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Darkness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/decay_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Decay Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dense_brew/dense_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Dense Brew` | "potion" |
+| <img src="assets/minecraft/textures/item/dolphins_grace_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dolphin's Grace Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dullness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Alternate Harming Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Alternate Lingering Harming Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Alternate Splash Harming Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Harming Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Invisibility Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Lingering Harming Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Lingering Invisibility Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Lingering Night Vision Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_slowness_potion/dungeons_slowness_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Lingering Slowness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Lingering Water Breathing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_potion.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Night Vision Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_slowness_potion/dungeons_slowness_potion.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Slowness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Splash Harming Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Splash Invisibility Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Splash Night Vision Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_slowness_potion/dungeons_slowness_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Splash Slowness Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Splash Water Breathing Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_potion.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Water Breathing Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/fancy_potion/fancy_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Fancy Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Fire Resistance Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Harming Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Haste Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Healing Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/health_boost_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Health Boost Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/hunger_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Hunger Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/infestation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Infestation Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Invisibility Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Leaping Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/levitation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Levitation Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/absorption_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Absorption Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/bad_luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Bad Luck Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/bad_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Bad Omen Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/blindness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Blindness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_brew/burning_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Burning Brew` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_oil_vial/burning_oil_vial_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Burning Oil Vial` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/conduit_power_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Conduit Power Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/confusion_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Confusion Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/darkness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Darkness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/decay_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Decay Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dense_brew/dense_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Dense Brew` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/dolphins_grace_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Dolphin's Grace Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Dullness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/fancy_potion/fancy_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Fancy Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Fire Resistance Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Harming Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Haste Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Healing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/health_boost_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Health Boost Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/hunger_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Hunger Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/infestation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Infestation Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Invisibility Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Leaping Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/levitation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Levitation Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Luck Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Night Vision Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/oakwood_brew/oakwood_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Oakwood Brew` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/oozing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Oozing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Poison Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/raid_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Raid Omen Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Regeneration Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Resistance Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/saturation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Saturation Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/shadow_brew/shadow_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Shadow Brew` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Slow Falling Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_slowness_potion/dungeons_slowness_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Slowness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/spectral_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Spectral Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Strength Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/sweet_brew/sweet_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Sweet Brew` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Swiftness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/trial_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Trial Omen Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Turtle Master Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/village_hero_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Village Hero Potion` | "lingering_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Water Breathing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Weakness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/weaving_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Weaving Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/wind_charging_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Lingering Wind Charging Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Dullness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Fire Resistance Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Haste Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Invisibility Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Leaping Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Dullness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Fire Resistance Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Haste Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Invisibility Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Leaping Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/night_vision_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Night Vision Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Poison Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Regeneration Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Resistance Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Slow Falling Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Slowness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Strength Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Swiftness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Turtle Master Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/water_breathing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Water Breathing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Lingering Weakness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/night_vision_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Night Vision Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Poison Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Regeneration Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Resistance Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Slow Falling Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Slowness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Dullness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Fire Resistance Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Haste Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Invisibility Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Leaping Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/night_vision_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Night Vision Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Poison Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Regeneration Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Resistance Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Slow Falling Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Slowness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Strength Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Swiftness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Turtle Master Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/water_breathing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Water Breathing Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Splash Weakness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Strength Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Swiftness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Turtle Master Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/water_breathing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Water Breathing Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Long Weakness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/bad_luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Luck Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Night Vision Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/oakwood_brew/oakwood_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Oakwood Brew` | "potion" |
+| <img src="assets/minecraft/textures/item/oozing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Oozing Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Poison Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/raid_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Raid Omen Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Regeneration Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Resistance Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/saturation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Saturation Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/shadow_brew/shadow_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Shadow Brew` | "potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Slow Falling Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_slowness_potion/dungeons_slowness_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Slowness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/spectral_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Spectral Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/absorption_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Absorption Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/bad_luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Bad Luck Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/bad_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Bad Omen Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/blindness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Blindness Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_brew/burning_brew_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Burning Brew` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/burning_oil_vial/burning_oil_vial_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Burning Oil Vial` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/conduit_power_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Conduit Power Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/confusion_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Confusion Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/darkness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Darkness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/decay_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Decay Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dense_brew/dense_brew_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Dense Brew` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/dolphins_grace_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Dolphin's Grace Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Dullness Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/fancy_potion/fancy_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Fancy Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/fire_resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Fire Resistance Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Harming Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Haste Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Healing Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/health_boost_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Health Boost Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/hunger_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Hunger Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/infestation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Infestation Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/invisibility_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Invisibility Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Leaping Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/levitation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Levitation Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/luck_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Luck Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Night Vision Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/oakwood_brew/oakwood_brew_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Oakwood Brew` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/oozing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Oozing Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Poison Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/raid_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Raid Omen Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Regeneration Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Resistance Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/saturation_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Saturation Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/shadow_brew/shadow_brew_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Shadow Brew` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/slow_falling_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Slow Falling Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/spectral_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Spectral Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Strength Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/sweet_brew/sweet_brew_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Sweet Brew` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Swiftness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/trial_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Trial Omen Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Turtle Master Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/village_hero_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Village Hero Potion` | "splash_potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_splash.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Water Breathing Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Weakness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/weaving_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Weaving Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/wind_charging_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Splash Wind Charging Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strength Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Dullness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Harming Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Haste Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Healing Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Leaping Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Dullness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Harming Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Haste Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Healing Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Leaping Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Poison Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Regeneration Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Resistance Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Slowness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Strength Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Swiftness Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Lingering Turtle Master Potion` | "lingering_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Poison Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Regeneration Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Resistance Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Slowness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/dullness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Dullness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/harming_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Harming Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/haste_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Haste Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/healing_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Healing Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/leaping_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Leaping Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/poison_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Poison Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/regeneration_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Regeneration Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/resistance_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Resistance Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/slowness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Slowness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Strength Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Swiftness Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Splash Turtle Master Potion` | "splash_potion" |
+| <img src="assets/minecraft/textures/item/strength_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Strength Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Swiftness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Strong Turtle Master Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/sweet_brew/sweet_brew_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Sweet Brew` | "potion" |
+| <img src="assets/minecraft/textures/item/swiftness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Swiftness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/trial_omen_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Trial Omen Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/turtle_master_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Turtle Master Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/village_hero_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Village Hero Potion` | "potion" |
+| <img src="assets/minecraft/optifine/cit/potions/renames/new_default_plus/dungeons_water_breathing_potion/dungeons_water_breathing_linger.png" width="36" height="36" style="border-radius:4px;"/> | `Water Breathing Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/weakness_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Weakness Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/weaving_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Weaving Potion` | "potion" |
+| <img src="assets/minecraft/textures/item/wind_charging_overlay.png" width="36" height="36" style="border-radius:4px;"/> | `Wind Charging Potion` | "potion" |
 
 ## 🧿 Totem of Undying (44 Item)
 
@@ -3195,7 +3195,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/love_medalion.png" width="36" height="36" style="border-radius:4px;"/> | `Love Medalion` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/portal_atlas.png" width="36" height="36" style="border-radius:4px;"/> | `Portal Atlas` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/powershaker.png" width="36" height="36" style="border-radius:4px;"/> | `Powershaker` | "totem_of_undying" |
-| <img src="assets/minecraft/optifine/cit/new_default_plus/totems/redstone_heart.png" width="36" height="36" style="border-radius:4px;"/> | `Redstone Heart` | "totem_of_undying" |
+| <img src="docs/previews/redstone_heart.png" width="36" height="36" style="border-radius:4px;"/> | `Redstone Heart` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/regeneration_rock.png" width="36" height="36" style="border-radius:4px;"/> | `Regeneration Rock` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/sanctuary_grail.png" width="36" height="36" style="border-radius:4px;"/> | `Sanctuary Grail` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/scatter_mines.png" width="36" height="36" style="border-radius:4px;"/> | `Scatter Mines` | "totem_of_undying" |
@@ -3204,9 +3204,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/shadow_shifter.png" width="36" height="36" style="border-radius:4px;"/> | `Shadow Shifter` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/soul_healer.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Healer` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/soul_lantern.png" width="36" height="36" style="border-radius:4px;"/> | `Soul Lantern` | "totem_of_undying" |
-| <img src="assets/minecraft/optifine/cit/new_default_plus/totems/super_tnt.png" width="36" height="36" style="border-radius:4px;"/> | `Super TNT` | "totem_of_undying" |
+| <img src="docs/previews/super_tnt.png" width="36" height="36" style="border-radius:4px;"/> | `Super TNT` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/tasty_bone.png" width="36" height="36" style="border-radius:4px;"/> | `Tasty Bone` | "totem_of_undying" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/the_orders_amulet.png" width="36" height="36" style="border-radius:4px;"/> | `The Order's Amulet` | "totem_of_undying" |
+| <img src="docs/previews/the_orders_amulet.png" width="36" height="36" style="border-radius:4px;"/> | `The Order's Amulet` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/tome_of_duplication.png" width="36" height="36" style="border-radius:4px;"/> | `Tome of Duplication` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/totem_of_casting.png" width="36" height="36" style="border-radius:4px;"/> | `Totem of Casting` | "totem_of_undying" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/totems/totem_of_regeneration.png" width="36" height="36" style="border-radius:4px;"/> | `Totem of Regeneration` | "totem_of_undying" |
@@ -3224,26 +3224,26 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/agronomy.png" width="36" height="36" style="border-radius:4px;"/> | `Agronomy` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/amarok.png" width="36" height="36" style="border-radius:4px;"/> | `Amarok` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Anchor` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/angel_bludgeon.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Bludgeon` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/angel_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/angel_bludgeon.png" width="36" height="36" style="border-radius:4px;"/> | `Angel Bludgeon` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/arachnid_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Arachnid Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/arboriculture.png" width="36" height="36" style="border-radius:4px;"/> | `Arboriculture` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/archfiend_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Archfiend Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/assassin_gandasa.png" width="36" height="36" style="border-radius:4px;"/> | `Assassin Gandasa` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/auburn_amasser.png" width="36" height="36" style="border-radius:4px;"/> | `Auburn Amasser` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/auburn_amasser.png" width="36" height="36" style="border-radius:4px;"/> | `Auburn Amasser` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/barbed_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Barbed Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bardiche.png" width="36" height="36" style="border-radius:4px;"/> | `Bardiche` | "diamond_axe", "netherite_axe", "iron_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/battle_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Battle Axe` | "diamond_axe", "netherite_axe", "iron_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bedrock_crumbler.png" width="36" height="36" style="border-radius:4px;"/> | `Bedrock Crumbler` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/beta_ray_breaker.png" width="36" height="36" style="border-radius:4px;"/> | `Beta Ray Breaker` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blending_boil.png" width="36" height="36" style="border-radius:4px;"/> | `Blending Boil` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blitzing_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Blitzing Thunder` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/blitzing_thunder.png" width="36" height="36" style="border-radius:4px;"/> | `Blitzing Thunder` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blizzard_burn.png" width="36" height="36" style="border-radius:4px;"/> | `Blizzard Burn` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/blunt_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Blunt Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/breaking_bedrock.png" width="36" height="36" style="border-radius:4px;"/> | `Breaking Bedrock` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/briar_patch.png" width="36" height="36" style="border-radius:4px;"/> | `Briar Patch` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/bridge_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Bridge Axe` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/brimstone_rend.png" width="36" height="36" style="border-radius:4px;"/> | `Brimstone Rend` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/brimstone_rend.png" width="36" height="36" style="border-radius:4px;"/> | `Brimstone Rend` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/caldera.png" width="36" height="36" style="border-radius:4px;"/> | `Caldera` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/carnelian_cleaver.png" width="36" height="36" style="border-radius:4px;"/> | `Carnelian Cleaver` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/castle_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Castle Axe` | "diamond_axe", "netherite_axe", "trident" |
@@ -3280,8 +3280,8 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dark_double_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Dark Double Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/decaying_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Decaying Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/descending_void.png" width="36" height="36" style="border-radius:4px;"/> | `Descending Void` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Anchor` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Mace` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/diamond_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Anchor` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/diamond_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Diamond Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/double_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Double Axe` | "diamond_axe", "netherite_axe", "iron_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/double_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Double Halberd` | "diamond_axe", "netherite_axe", "iron_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/double_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Double Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
@@ -3289,10 +3289,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/dragon_born.png" width="36" height="36" style="border-radius:4px;"/> | `Dragon Born` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_battle_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Drowned Battle Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Axe` | "diamond_axe", "netherite_axe", "iron_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/diamond_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/diamond_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Diamond Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Golden Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/mace.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Dungeons Netherite Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_bludgeon.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Bludgeon` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/emerald_gandasa.png" width="36" height="36" style="border-radius:4px;"/> | `Emerald Gandasa` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/empress_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Empress Halberd` | "diamond_axe", "netherite_axe", "trident" |
@@ -3301,29 +3301,29 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ender_saw.png" width="36" height="36" style="border-radius:4px;"/> | `Ender Saw` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/energy_mauve.png" width="36" height="36" style="border-radius:4px;"/> | `Energy Mauve` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/erupting_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Erupting Mace` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/eternal_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/eternal_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Eternal Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/evil_queen_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Evil Queen Axe` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/executioner.png" width="36" height="36" style="border-radius:4px;"/> | `Executioner` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fimbulwinter.png" width="36" height="36" style="border-radius:4px;"/> | `Fimbulwinter` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/fire_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Fire Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/firebrand.png" width="36" height="36" style="border-radius:4px;"/> | `Firebrand` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/firebrand.png" width="36" height="36" style="border-radius:4px;"/> | `Firebrand` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/flail.png" width="36" height="36" style="border-radius:4px;"/> | `Flail` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flame_hatchet.png" width="36" height="36" style="border-radius:4px;"/> | `Flame Hatchet` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flame_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Flame Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/flanged_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Flanged Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/foreboding_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Foreboding Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/fortune_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/fortune_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Fortune Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frost_breaker.png" width="36" height="36" style="border-radius:4px;"/> | `Frost Breaker` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frostbitten.png" width="36" height="36" style="border-radius:4px;"/> | `Frostbitten` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/frozen_voices.png" width="36" height="36" style="border-radius:4px;"/> | `Frozen Voices` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gandasa.png" width="36" height="36" style="border-radius:4px;"/> | `Gandasa` | "diamond_axe", "netherite_axe", "iron_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/geomagnetic_club.png" width="36" height="36" style="border-radius:4px;"/> | `Geomagnetic Club` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/geomagnetic_club.png" width="36" height="36" style="border-radius:4px;"/> | `Geomagnetic Club` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/giant_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Giant Axe` | "diamond_axe", "netherite_axe", "iron_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/giant_battle_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Giant Battle Axe` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gilded_morningstar.png" width="36" height="36" style="border-radius:4px;"/> | `Gilded Morningstar` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/gilded_netherite/gilded_netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Gilded Netherite Axe` | "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/global_orbiter.png" width="36" height="36" style="border-radius:4px;"/> | `Global Orbiter` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/glow_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Glow Cutter` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/glow_cutter.png" width="36" height="36" style="border-radius:4px;"/> | `Glow Cutter` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/goal_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Goal Axe` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/golden_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Golden Mace` | "diamond_axe", "netherite_axe", "mace" |
@@ -3332,7 +3332,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/gravity_gandasa.png" width="36" height="36" style="border-radius:4px;"/> | `Gravity Gandasa` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/great_bardiche.png" width="36" height="36" style="border-radius:4px;"/> | `Great Bardiche` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/growing_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Growing Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/guiding_prism.png" width="36" height="36" style="border-radius:4px;"/> | `Guiding Prism` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/guiding_prism.png" width="36" height="36" style="border-radius:4px;"/> | `Guiding Prism` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Halberd` | "diamond_axe", "netherite_axe", "iron_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/harp_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Harp Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hatchet.png" width="36" height="36" style="border-radius:4px;"/> | `Hatchet` | "diamond_axe", "netherite_axe", "iron_axe" |
@@ -3340,7 +3340,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/high_tide_mace.png" width="36" height="36" style="border-radius:4px;"/> | `High Tide Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/highland_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Highland Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hollow_tomahawk.png" width="36" height="36" style="border-radius:4px;"/> | `Hollow Tomahawk` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/hope_bisector.png" width="36" height="36" style="border-radius:4px;"/> | `Hope Bisector` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/hope_bisector.png" width="36" height="36" style="border-radius:4px;"/> | `Hope Bisector` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/icefall_meltdown.png" width="36" height="36" style="border-radius:4px;"/> | `Icefall Meltdown` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/imperial_bludgeon.png" width="36" height="36" style="border-radius:4px;"/> | `Imperial Bludgeon` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/imperial_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Imperial Halberd` | "diamond_axe", "netherite_axe", "trident" |
@@ -3360,7 +3360,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lament_of_lapis.png" width="36" height="36" style="border-radius:4px;"/> | `Lament of Lapis` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lazuli_cleaver.png" width="36" height="36" style="border-radius:4px;"/> | `Lazuli Cleaver` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lumen_fuchsia.png" width="36" height="36" style="border-radius:4px;"/> | `Lumen Fuchsia` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/luminous_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Anchor` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/luminous_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Luminous Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunar_carver.png" width="36" height="36" style="border-radius:4px;"/> | `Lunar Carver` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/lunation.png" width="36" height="36" style="border-radius:4px;"/> | `Lunation` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/maelstrom.png" width="36" height="36" style="border-radius:4px;"/> | `Maelstrom` | "diamond_axe", "netherite_axe" |
@@ -3369,9 +3369,9 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/malefic_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Malefic Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/marauders_bane.png" width="36" height="36" style="border-radius:4px;"/> | `Marauder's Bane` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mausoleum_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Mausoleum Mace` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mechanical_saw.png" width="36" height="36" style="border-radius:4px;"/> | `Mechanical Saw` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/mechanical_saw.png" width="36" height="36" style="border-radius:4px;"/> | `Mechanical Saw` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/molten_netherite/molten_netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Molten Netherite Axe` | "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/monsoon_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Monsoon Mace` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/monsoon_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Monsoon Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/moon_resonator.png" width="36" height="36" style="border-radius:4px;"/> | `Moon Resonator` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/morningstar.png" width="36" height="36" style="border-radius:4px;"/> | `Morningstar` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/mystic_thorns.png" width="36" height="36" style="border-radius:4px;"/> | `Mystic Thorns` | "diamond_axe", "netherite_axe", "mace" |
@@ -3379,10 +3379,10 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nameless_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Nameless Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/necromancer_saw.png" width="36" height="36" style="border-radius:4px;"/> | `Necromancer Saw` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nefarious_edge.png" width="36" height="36" style="border-radius:4px;"/> | `Nefarious Edge` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/netherite_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Mace` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/night_terror.png" width="36" height="36" style="border-radius:4px;"/> | `Night Terror` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/netherite_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Netherite Mace` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/night_terror.png" width="36" height="36" style="border-radius:4px;"/> | `Night Terror` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/nonpareil.png" width="36" height="36" style="border-radius:4px;"/> | `Nonpareil` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/northern_labrys.png" width="36" height="36" style="border-radius:4px;"/> | `Northern Labrys` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/northern_labrys.png" width="36" height="36" style="border-radius:4px;"/> | `Northern Labrys` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/obsidian_giant.png" width="36" height="36" style="border-radius:4px;"/> | `Obsidian Giant` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ominous_saw.png" width="36" height="36" style="border-radius:4px;"/> | `Ominous Saw` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/opulent_netherite/opulent_netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Opulent Netherite Axe` | "netherite_axe" |
@@ -3392,16 +3392,16 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pirate_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Pirate Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/poleaxe.png" width="36" height="36" style="border-radius:4px;"/> | `Poleaxe` | "diamond_axe", "netherite_axe", "iron_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prestige.png" width="36" height="36" style="border-radius:4px;"/> | `Prestige` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prism_labrys.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Labrys` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/prism_labrys.png" width="36" height="36" style="border-radius:4px;"/> | `Prism Labrys` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/story_mode/prismarine_soldier_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Prismarine Soldier Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/prismatic_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Prismatic Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pronged_bludgeon.png" width="36" height="36" style="border-radius:4px;"/> | `Pronged Bludgeon` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/pumpkin_feast.png" width="36" height="36" style="border-radius:4px;"/> | `Pumpkin Feast` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/quartz_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Quartz Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/radioactive_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Radioactive Axe` | "diamond_axe", "netherite_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/raging_volcano_storm.png" width="36" height="36" style="border-radius:4px;"/> | `Raging Volcano Storm` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/radioactive_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Radioactive Axe` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/raging_volcano_storm.png" width="36" height="36" style="border-radius:4px;"/> | `Raging Volcano Storm` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/rampart_rumbler.png" width="36" height="36" style="border-radius:4px;"/> | `Rampart Rumbler` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/reactor_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Reactor Mace` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/reactor_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Reactor Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/red_anilius.png" width="36" height="36" style="border-radius:4px;"/> | `Red Anilius` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/red_viper.png" width="36" height="36" style="border-radius:4px;"/> | `Red Viper` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/redstone_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Redstone Axe` | "diamond_axe", "netherite_axe" |
@@ -3414,19 +3414,19 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/rubedo_dentition.png" width="36" height="36" style="border-radius:4px;"/> | `Rubedo Dentition` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruby_ravager.png" width="36" height="36" style="border-radius:4px;"/> | `Ruby Ravager` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ruby_tomahawk.png" width="36" height="36" style="border-radius:4px;"/> | `Ruby Tomahawk` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/rune_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Rune Halberd` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/rune_halberd.png" width="36" height="36" style="border-radius:4px;"/> | `Rune Halberd` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/saw.png" width="36" height="36" style="border-radius:4px;"/> | `Saw` | "diamond_axe", "netherite_axe", "iron_axe" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/scarlet_slicer.png" width="36" height="36" style="border-radius:4px;"/> | `Scarlet Slicer` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/scarlet_slicer.png" width="36" height="36" style="border-radius:4px;"/> | `Scarlet Slicer` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/screaming_whisper.png" width="36" height="36" style="border-radius:4px;"/> | `Screaming Whisper` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/set_of_eyes.png" width="36" height="36" style="border-radius:4px;"/> | `Set of Eyes` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shadowcaster.png" width="36" height="36" style="border-radius:4px;"/> | `Shadowcaster` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shrieking_hatchet.png" width="36" height="36" style="border-radius:4px;"/> | `Shrieking Hatchet` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/shrieking_hatchet.png" width="36" height="36" style="border-radius:4px;"/> | `Shrieking Hatchet` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/shroomlight_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Shroomlight Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/silent_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Silent Axe` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sleepless_smasher.png" width="36" height="36" style="border-radius:4px;"/> | `Sleepless Smasher` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/soaring_midnight.png" width="36" height="36" style="border-radius:4px;"/> | `Soaring Midnight` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/solar_flare.png" width="36" height="36" style="border-radius:4px;"/> | `Solar Flare` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/solarblade.png" width="36" height="36" style="border-radius:4px;"/> | `Solarblade` | "diamond_axe", "netherite_axe" |
+| <img src="docs/previews/solarblade.png" width="36" height="36" style="border-radius:4px;"/> | `Solarblade` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/solemnity_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Solemnity Mace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Soulblaze Netherite Axe` | "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sparth_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Sparth Axe` | "diamond_axe", "netherite_axe", "iron_axe" |
@@ -3440,21 +3440,21 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/stipule_tomahawk.png" width="36" height="36" style="border-radius:4px;"/> | `Stipule Tomahawk` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/stockless_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Stockless Anchor` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/stone_cold.png" width="36" height="36" style="border-radius:4px;"/> | `Stone Cold` | "diamond_axe", "netherite_axe", "trident" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/subspace_tear.png" width="36" height="36" style="border-radius:4px;"/> | `Subspace Tear` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/subspace_tear.png" width="36" height="36" style="border-radius:4px;"/> | `Subspace Tear` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/summoning_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Summoning Anchor` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/sunbeam_bullion.png" width="36" height="36" style="border-radius:4px;"/> | `Sunbeam Bullion` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/suns_grace.png" width="36" height="36" style="border-radius:4px;"/> | `Sun's Grace` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/sunbeam_bullion.png" width="36" height="36" style="border-radius:4px;"/> | `Sunbeam Bullion` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/suns_grace.png" width="36" height="36" style="border-radius:4px;"/> | `Sun's Grace` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/superstorm.png" width="36" height="36" style="border-radius:4px;"/> | `Superstorm` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tabar.png" width="36" height="36" style="border-radius:4px;"/> | `Tabar` | "diamond_axe", "netherite_axe", "iron_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tarnished_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Tarnished Anchor` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thermal_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Thermal Anchor` | "diamond_axe", "netherite_axe", "mace" |
+| <img src="docs/previews/thermal_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Thermal Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thorned_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Thorned Mace` | "diamond_axe", "netherite_axe", "iron_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thorned_rose.png" width="36" height="36" style="border-radius:4px;"/> | `Thorned Rose` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/thunderclap.png" width="36" height="36" style="border-radius:4px;"/> | `Thunderclap` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tomahawk.png" width="36" height="36" style="border-radius:4px;"/> | `Tomahawk` | "diamond_axe", "netherite_axe", "iron_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/tomb_seeker.png" width="36" height="36" style="border-radius:4px;"/> | `Tomb Seeker` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/torrential_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Torrential Anchor` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/story_mode/ultimate_diamond_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Axe` | "diamond_axe" |
+| <img src="docs/previews/ultimate_diamond_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimate Axe` | "diamond_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/ultimatum.png" width="36" height="36" style="border-radius:4px;"/> | `Ultimatum` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/undead_axe.png" width="36" height="36" style="border-radius:4px;"/> | `Undead Axe` | "diamond_axe", "netherite_axe" |
@@ -3473,7 +3473,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/weighted_shroomlight.png" width="36" height="36" style="border-radius:4px;"/> | `Weighted Shroomlight` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/minecraft_dungeons/icons_melee/whirlwind.png" width="36" height="36" style="border-radius:4px;"/> | `Whirlwind` | "diamond_axe", "netherite_axe" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/windswept_mace.png" width="36" height="36" style="border-radius:4px;"/> | `Windswept Mace` | "diamond_axe", "netherite_axe", "mace" |
-| <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/winter_airglow.png" width="36" height="36" style="border-radius:4px;"/> | `Winter Airglow` | "diamond_axe", "netherite_axe", "trident" |
+| <img src="docs/previews/winter_airglow.png" width="36" height="36" style="border-radius:4px;"/> | `Winter Airglow` | "diamond_axe", "netherite_axe", "trident" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/withering_star.png" width="36" height="36" style="border-radius:4px;"/> | `Withering Star` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/world_anchor.png" width="36" height="36" style="border-radius:4px;"/> | `World Anchor` | "diamond_axe", "netherite_axe", "mace" |
 | <img src="assets/minecraft/optifine/cit/icons/new_default_plus_dungeons/icons_melee/world_axe.png" width="36" height="36" style="border-radius:4px;"/> | `World Axe` | "diamond_axe", "netherite_axe" |
