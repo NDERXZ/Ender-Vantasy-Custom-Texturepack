@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_a4f78b92e900400d8afd552483f04ef5~mv2.png/v1/fill/w_162,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_PickAxe_Steel_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Dungeons Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
@@ -164,6 +168,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_b68b51687b6e4f4cbe00a66b72e40111~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_UltimateNetheritePickaxe_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Ultimate Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 | <img src="https://static.wixstatic.com/media/73bea7_f4f899d52d3b4882b389d3a0d439c8dd~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_PrismarineSoldierPickaxe_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Prismarine Soldier Pickaxe` | "diamond_pickaxe", "netherite_pickaxe" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

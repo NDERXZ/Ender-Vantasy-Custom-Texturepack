@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_4f5e60e5dab54fb99f961baa6d15b3db~mv2.png/v1/fill/w_160,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_DungeonsTrident_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Dungeons Trident` | "trident" |
@@ -280,6 +284,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_9ea69eeb4b9140dbb24806f8db07f238~mv2.png/v1/fill/w_167,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_Hammer_Unique1_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Stormlander` | "trident" |
 | <img src="https://static.wixstatic.com/media/73bea7_fda52abc85c24fa18858617068e590ae~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T__Icon%20-%20Copy%20(35).png" width="64" height="64" style="border-radius:4px;"/> | `Thrashing Thunder` | "trident" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

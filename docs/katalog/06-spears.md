@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_813692678dee471aba4b76915c2c4ae9~mv2.png/v1/fill/w_160,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_Spear_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Dungeons Spear` | "diamond_sword", "netherite_sword", "trident" |
@@ -318,6 +322,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_5a9bf3498634406d9c6327cdc698075b~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T__Icon%20-%20Copy%20(74).png" width="64" height="64" style="border-radius:4px;"/> | `Infernal Core` | "diamond_sword", "netherite_sword", "trident" |
 | <img src="https://static.wixstatic.com/media/73bea7_36949a1260514eafb103e7b46178c6b0~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T__Icon%20-%20Copy%20(75).png" width="64" height="64" style="border-radius:4px;"/> | `Gleaming Core` | "diamond_sword", "netherite_sword", "trident" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

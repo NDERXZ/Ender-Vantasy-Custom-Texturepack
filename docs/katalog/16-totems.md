@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_03a4a7e152cd487ea6cf500793e6023e~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_TotemOfRegeneration_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Totem of Regeneration` | "totem_of_undying" |
@@ -55,6 +59,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_c233de6915aa44be82c26be33589c749~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_EnchantmentScroll_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Enchantment Scroll` | "totem_of_undying" |
 | <img src="https://static.wixstatic.com/media/73bea7_78456ffbb6d34fa181b354689cde42e5~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_ScrollOfHeroism_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Scroll of Heroism` | "totem_of_undying" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

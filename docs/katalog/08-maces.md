@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_5b32df838d4e413c82a54731c7d91648~mv2.png/v1/fill/w_164,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_Mace_Unique1_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Dungeons Mace` | "mace" |
@@ -192,6 +196,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_5a024e11a93a4c388578d86eb2933ec6~mv2.png/v1/fill/w_168,h_169,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_TerminalMarrow_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Terminal Marrow` | "mace" |
 | <img src="https://static.wixstatic.com/media/73bea7_1d57d6a0ef8a47afa28f9852467be135~mv2.png/v1/fill/w_168,h_169,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_TheNutcracker_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `The Nutcracker` | "mace" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

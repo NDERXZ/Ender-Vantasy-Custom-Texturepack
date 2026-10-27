@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_fee2d65c8f1f4bd2b0b70a3556a6d44f~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_LeatherWoodShield_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Leather Wood Shield` | "shield" |
@@ -148,6 +152,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_3882f1ba9bba483ba676d0dbfb7ca9bf~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_GladiatorShield_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Gladiator Shield` | "shield" |
 | <img src="https://static.wixstatic.com/media/73bea7_c04f1fef134448f7a8b63306c9766a2d~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_RadarShield_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Radar Shield` | "shield" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

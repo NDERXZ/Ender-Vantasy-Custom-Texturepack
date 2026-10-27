@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_65d5552abc40460398c6ddf72b0d0fc7~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_ShockPowder_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Shock Powder` | "bundle" |
@@ -30,6 +34,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_93f450fa18b04207b2a5c0aee5f2afc0~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_ArmorMysteryBox_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Armor Mystery Box` | "bundle" |
 | <img src="https://static.wixstatic.com/media/73bea7_cd4ff1dc0b08425288f4a966683cf7db~mv2.png/v1/fill/w_168,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_ArtifactMysteryBox_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Artifact Mystery Box` | "bundle" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)

@@ -8,6 +8,10 @@
 
 > Place the base item in an **Anvil** and rename it to the exact text in the **Anvil Rename** column to change its appearance.
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
+
 | Item Preview | Anvil Rename | Base Item / Material |
 | :---: | :--- | :--- |
 | <img src="https://static.wixstatic.com/media/73bea7_f8f8198aa411440d86ada3d795d58965~mv2.png/v1/fill/w_161,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T__Icon%20-%20Copy%20(4).png" width="64" height="64" style="border-radius:4px;"/> | `Dungeons Shovel` | "diamond_shovel", "netherite_shovel" |
@@ -116,6 +120,8 @@
 | <img src="https://static.wixstatic.com/media/73bea7_05f152d6994a4d1e8a6bb63637f30790~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_UltimateNetheriteShovel_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Ultimate Shovel` | "diamond_shovel", "netherite_shovel" |
 | <img src="https://static.wixstatic.com/media/73bea7_beaad6ec08584237bdf179116742fd1f~mv2.png/v1/fill/w_168,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/T_PrismarineSoldierShovel_Icon.png" width="64" height="64" style="border-radius:4px;"/> | `Prismarine Soldier Shovel` | "diamond_shovel", "netherite_shovel" |
 
----
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
+</p>
 
 [Back to Main README](../../README.md)
