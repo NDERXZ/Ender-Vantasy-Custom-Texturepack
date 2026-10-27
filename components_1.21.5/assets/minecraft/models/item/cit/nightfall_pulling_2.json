@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/nightfall_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/nightfall_pulling_2"
+  }
+}

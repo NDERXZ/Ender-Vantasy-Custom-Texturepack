@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/warped_dimension",
+  "textures": {
+    "layer0": "minecraft:item/cit/warped_dimension_pulling_2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings"],
+	"modelPrefix": "icons/new_default_plus_dungeons/drowned_necromancer_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Drowned Necromancer Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

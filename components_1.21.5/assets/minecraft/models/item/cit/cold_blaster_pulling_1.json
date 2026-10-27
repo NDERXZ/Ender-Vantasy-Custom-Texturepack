@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/cold_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/cold_blaster_pulling_1"
+  }
+}

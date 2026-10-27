@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/compound_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/compound_bow_pulling_1"
+  }
+}

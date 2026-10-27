@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/burst_gale_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/burst_gale_bow_pulling_2"
+  }
+}

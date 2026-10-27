@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/hurricane_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/hurricane_bow_pulling_0"
+  }
+}

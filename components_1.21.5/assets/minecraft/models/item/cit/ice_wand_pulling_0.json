@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ice_wand",
+  "textures": {
+    "layer0": "minecraft:item/cit/ice_wand"
+  }
+}

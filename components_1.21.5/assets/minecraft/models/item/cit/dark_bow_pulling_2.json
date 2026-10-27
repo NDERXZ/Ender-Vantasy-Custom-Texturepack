@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/dark_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/dark_bow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/icons/story_mode/please_dont_hit_me_helmet"
+  }
+}

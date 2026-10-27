@@ -1,0 +1,27 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Enchanted Flint and Steel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/enchanted_flint_and_steel"
+                }
+            },
+            {
+                "when": "Glowing Flint and Steel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/glowing_flint_and_steel"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/flint_and_steel"
+        }
+    }
+}

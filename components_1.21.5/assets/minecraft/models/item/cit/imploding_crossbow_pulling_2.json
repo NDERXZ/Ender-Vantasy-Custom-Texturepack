@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/imploding_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/imploding_crossbow_pulling_2"
+  }
+}

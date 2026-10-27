@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/the_blue_jester",
+  "textures": {
+    "layer0": "minecraft:item/cit/the_blue_jester_pulling_0"
+  }
+}

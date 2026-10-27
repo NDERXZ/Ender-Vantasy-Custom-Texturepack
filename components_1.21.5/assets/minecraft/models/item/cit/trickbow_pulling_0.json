@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/trickbow",
+  "textures": {
+    "layer0": "minecraft:item/cit/trickbow_pulling_0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/angel_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/angel_crossbow_firework"
+  }
+}

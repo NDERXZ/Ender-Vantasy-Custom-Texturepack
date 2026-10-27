@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/immaculate",
+  "textures": {
+    "layer0": "minecraft:item/cit/immaculate_pulling_0"
+  }
+}

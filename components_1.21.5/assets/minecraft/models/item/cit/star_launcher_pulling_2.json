@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/star_launcher",
+  "textures": {
+    "layer0": "minecraft:item/cit/star_launcher_pulling_2"
+  }
+}

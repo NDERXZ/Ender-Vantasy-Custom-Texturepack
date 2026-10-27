@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/hunting_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/hunting_bow_pulling_1"
+  }
+}

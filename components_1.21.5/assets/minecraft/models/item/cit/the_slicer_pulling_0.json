@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/the_slicer_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/the_slicer_pulling_0"
+  }
+}

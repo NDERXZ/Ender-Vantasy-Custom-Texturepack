@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/cyclone_fan",
+  "textures": {
+    "layer0": "minecraft:item/cit/cyclone_fan_pulling_2"
+  }
+}

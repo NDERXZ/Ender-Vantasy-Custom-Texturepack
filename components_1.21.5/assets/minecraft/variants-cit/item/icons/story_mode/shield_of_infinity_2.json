@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings"],
+	"modelPrefix": "icons/story_mode/shield_of_infinity_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Shield of Infinity Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

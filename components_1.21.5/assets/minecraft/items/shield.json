@@ -1,0 +1,2234 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
+        "on_false": {
+            "type": "minecraft:select",
+            "base": "item/shield",
+            "model": {
+                "type": "minecraft:shield"
+            },
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Leather Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/leather_shield",
+                        "model": "item/cit/leather_shield"
+                    }
+                },
+                {
+                    "when": "Stone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stone_shield",
+                        "model": "item/cit/stone_shield"
+                    }
+                },
+                {
+                    "when": "Golden Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/golden_shield",
+                        "model": "item/cit/golden_shield"
+                    }
+                },
+                {
+                    "when": "Diamond Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/diamond_shield",
+                        "model": "item/cit/diamond_shield"
+                    }
+                },
+                {
+                    "when": "Netherite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/netherite_shield",
+                        "model": "item/cit/netherite_shield"
+                    }
+                },
+                {
+                    "when": "Vanguard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/vanguard_shield",
+                        "model": "item/cit/vanguard_shield"
+                    }
+                },
+                {
+                    "when": "Necromancer Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/necromancer_shield",
+                        "model": "item/cit/necromancer_shield"
+                    }
+                },
+                {
+                    "when": "Nameless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nameless_shield",
+                        "model": "item/cit/nameless_shield"
+                    }
+                },
+                {
+                    "when": "Wraith Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wraith_shield",
+                        "model": "item/cit/wraith_shield"
+                    }
+                },
+                {
+                    "when": "Wretched Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wretched_shield",
+                        "model": "item/cit/wretched_shield"
+                    }
+                },
+                {
+                    "when": "Headstone Hunter",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/headstone_hunter",
+                        "model": "item/cit/headstone_hunter"
+                    }
+                },
+                {
+                    "when": "Maroon Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/maroon_defender",
+                        "model": "item/cit/maroon_defender"
+                    }
+                },
+                {
+                    "when": "Shield of Darkness",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_darkness",
+                        "model": "item/cit/shield_of_darkness"
+                    }
+                },
+                {
+                    "when": "Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guard_shield",
+                        "model": "item/cit/guard_shield"
+                    }
+                },
+                {
+                    "when": "Royal Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/royal_guard_shield",
+                        "model": "item/cit/royal_guard_shield"
+                    }
+                },
+                {
+                    "when": "Castle Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/castle_shield",
+                        "model": "item/cit/castle_shield"
+                    }
+                },
+                {
+                    "when": "Arch-Illager Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/arch-illager_shield",
+                        "model": "item/cit/arch-illager_shield"
+                    }
+                },
+                {
+                    "when": "Shield of Undying",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_undying",
+                        "model": "item/cit/shield_of_undying"
+                    }
+                },
+                {
+                    "when": "Imperial Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/imperial_shield",
+                        "model": "item/cit/imperial_shield"
+                    }
+                },
+                {
+                    "when": "Majesty Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/majesty_shield",
+                        "model": "item/cit/majesty_shield"
+                    }
+                },
+                {
+                    "when": "Silhouette Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/silhouette_shield",
+                        "model": "item/cit/silhouette_shield"
+                    }
+                },
+                {
+                    "when": "Tower Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tower_guard_shield",
+                        "model": "item/cit/tower_guard_shield"
+                    }
+                },
+                {
+                    "when": "Aqua Tower Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aqua_tower_shield",
+                        "model": "item/cit/aqua_tower_shield"
+                    }
+                },
+                {
+                    "when": "Shield of the Tower",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_tower",
+                        "model": "item/cit/shield_of_the_tower"
+                    }
+                },
+                {
+                    "when": "End City Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/end_city_shield",
+                        "model": "item/cit/end_city_shield"
+                    }
+                },
+                {
+                    "when": "Pillager Outpost Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pillager_outpost_shield",
+                        "model": "item/cit/pillager_outpost_shield"
+                    }
+                },
+                {
+                    "when": "Nether Fortress Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nether_fortress_shield",
+                        "model": "item/cit/nether_fortress_shield"
+                    }
+                },
+                {
+                    "when": "Trial Chambers Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/trial_chambers_shield",
+                        "model": "item/cit/trial_chambers_shield"
+                    }
+                },
+                {
+                    "when": "Stronghold Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stronghold_shield",
+                        "model": "item/cit/stronghold_shield"
+                    }
+                },
+                {
+                    "when": "Heater Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/heater_shield",
+                        "model": "item/cit/heater_shield"
+                    }
+                },
+                {
+                    "when": "Shield of Courage",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_courage",
+                        "model": "item/cit/shield_of_courage"
+                    }
+                },
+                {
+                    "when": "Prismarine Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/prismarine_shield",
+                        "model": "item/cit/prismarine_shield"
+                    }
+                },
+                {
+                    "when": "Magic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magic_shield",
+                        "model": "item/cit/magic_shield"
+                    }
+                },
+                {
+                    "when": "Thunder Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/thunder_shield",
+                        "model": "item/cit/thunder_shield"
+                    }
+                },
+                {
+                    "when": "Ritual Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ritual_shield",
+                        "model": "item/cit/ritual_shield"
+                    }
+                },
+                {
+                    "when": "Jade Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/jade_shield",
+                        "model": "item/cit/jade_shield"
+                    }
+                },
+                {
+                    "when": "Rising Ash",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rising_ash",
+                        "model": "item/cit/rising_ash"
+                    }
+                },
+                {
+                    "when": "Resisting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/resisting_shield",
+                        "model": "item/cit/resisting_shield"
+                    }
+                },
+                {
+                    "when": "Fire Withstander",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/fire_withstander",
+                        "model": "item/cit/fire_withstander"
+                    }
+                },
+                {
+                    "when": "Cresting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cresting_shield",
+                        "model": "item/cit/cresting_shield"
+                    }
+                },
+                {
+                    "when": "Minacious Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/minacious_shield",
+                        "model": "item/cit/minacious_shield"
+                    }
+                },
+                {
+                    "when": "Cryoshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cryoshield",
+                        "model": "item/cit/cryoshield"
+                    }
+                },
+                {
+                    "when": "Starless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/starless_shield",
+                        "model": "item/cit/starless_shield"
+                    }
+                },
+                {
+                    "when": "Nightdream",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nightdream",
+                        "model": "item/cit/nightdream"
+                    }
+                },
+                {
+                    "when": "Stalwart Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stalwart_shield",
+                        "model": "item/cit/stalwart_shield"
+                    }
+                },
+                {
+                    "when": "Medieval Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/medieval_shield",
+                        "model": "item/cit/medieval_shield"
+                    }
+                },
+                {
+                    "when": "Highblock Flag Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/highblock_flag_shield",
+                        "model": "item/cit/highblock_flag_shield"
+                    }
+                },
+                {
+                    "when": "Great Hall Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/great_hall_shield",
+                        "model": "item/cit/great_hall_shield"
+                    }
+                },
+                {
+                    "when": "Admin Romeo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_romeo_shield",
+                        "model": "item/cit/admin_romeo_shield"
+                    }
+                },
+                {
+                    "when": "Admin Xara Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_xara_shield",
+                        "model": "item/cit/admin_xara_shield"
+                    }
+                },
+                {
+                    "when": "Admin Fred Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_fred_shield",
+                        "model": "item/cit/admin_fred_shield"
+                    }
+                },
+                {
+                    "when": "Glow Wings Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/glow_wings_shield",
+                        "model": "item/cit/glow_wings_shield"
+                    }
+                },
+                {
+                    "when": "World Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/world_shield",
+                        "model": "item/cit/world_shield"
+                    }
+                },
+                {
+                    "when": "Battlement Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/battlement_shield",
+                        "model": "item/cit/battlement_shield"
+                    }
+                },
+                {
+                    "when": "The Last Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/the_last_defender",
+                        "model": "item/cit/the_last_defender"
+                    }
+                },
+                {
+                    "when": "Frozen Flame",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/frozen_flame",
+                        "model": "item/cit/frozen_flame"
+                    }
+                },
+                {
+                    "when": "Cerise Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerise_shield",
+                        "model": "item/cit/cerise_shield"
+                    }
+                },
+                {
+                    "when": "Veiled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/veiled_shield",
+                        "model": "item/cit/veiled_shield"
+                    }
+                },
+                {
+                    "when": "Landscaper",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/landscaper",
+                        "model": "item/cit/landscaper"
+                    }
+                },
+                {
+                    "when": "Chthonic",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/chthonic",
+                        "model": "item/cit/chthonic"
+                    }
+                },
+                {
+                    "when": "Phantom Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/phantom_shield",
+                        "model": "item/cit/phantom_shield"
+                    }
+                },
+                {
+                    "when": "Kite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/kite_shield",
+                        "model": "item/cit/kite_shield"
+                    }
+                },
+                {
+                    "when": "Lantern Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lantern_shield",
+                        "model": "item/cit/lantern_shield"
+                    }
+                },
+                {
+                    "when": "Lucent Orchid",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lucent_orchid",
+                        "model": "item/cit/lucent_orchid"
+                    }
+                },
+                {
+                    "when": "Basil Essence",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/basil_essence",
+                        "model": "item/cit/basil_essence"
+                    }
+                },
+                {
+                    "when": "Shield of the Silenced",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_silenced",
+                        "model": "item/cit/shield_of_the_silenced"
+                    }
+                },
+                {
+                    "when": "Nosferatu",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nosferatu",
+                        "model": "item/cit/nosferatu"
+                    }
+                },
+                {
+                    "when": "Harp Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/harp_shield",
+                        "model": "item/cit/harp_shield"
+                    }
+                },
+                {
+                    "when": "Red Mamba",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/red_mamba",
+                        "model": "item/cit/red_mamba"
+                    }
+                },
+                {
+                    "when": "Iron Metal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iron_metal_shield",
+                        "model": "item/cit/iron_metal_shield"
+                    }
+                },
+                {
+                    "when": "Russet Copper Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/russet_copper_shield",
+                        "model": "item/cit/russet_copper_shield"
+                    }
+                },
+                {
+                    "when": "Redstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/redstone_shield",
+                        "model": "item/cit/redstone_shield"
+                    }
+                },
+                {
+                    "when": "Lapis Lazuli Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lapis_lazuli_shield",
+                        "model": "item/cit/lapis_lazuli_shield"
+                    }
+                },
+                {
+                    "when": "Ancient Darkshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ancient_darkshield",
+                        "model": "item/cit/ancient_darkshield"
+                    }
+                },
+                {
+                    "when": "Flame Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/flame_shield",
+                        "model": "item/cit/flame_shield"
+                    }
+                },
+                {
+                    "when": "Cobalt Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cobalt_shield",
+                        "model": "item/cit/cobalt_shield"
+                    }
+                },
+                {
+                    "when": "Warrior Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/warrior_shield",
+                        "model": "item/cit/warrior_shield"
+                    }
+                },
+                {
+                    "when": "Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/buckler",
+                        "model": "item/cit/buckler"
+                    }
+                },
+                {
+                    "when": "Hero Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hero_shield",
+                        "model": "item/cit/hero_shield"
+                    }
+                },
+                {
+                    "when": "Acoustic Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/acoustic_buckler",
+                        "model": "item/cit/acoustic_buckler"
+                    }
+                },
+                {
+                    "when": "Greenwood Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/greenwood_shield",
+                        "model": "item/cit/greenwood_shield"
+                    }
+                },
+                {
+                    "when": "Accretion Disk",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/accretion_disk",
+                        "model": "item/cit/accretion_disk"
+                    }
+                },
+                {
+                    "when": "Dreamcatcher",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dreamcatcher",
+                        "model": "item/cit/dreamcatcher"
+                    }
+                },
+                {
+                    "when": "Lava Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lava_shield",
+                        "model": "item/cit/lava_shield"
+                    }
+                },
+                {
+                    "when": "Corrupted Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/corrupted_shield",
+                        "model": "item/cit/corrupted_shield"
+                    }
+                },
+                {
+                    "when": "Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hoplon",
+                        "model": "item/cit/hoplon"
+                    }
+                },
+                {
+                    "when": "Aeroshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aeroshield",
+                        "model": "item/cit/aeroshield"
+                    }
+                },
+                {
+                    "when": "Pasture Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pasture_hoplon",
+                        "model": "item/cit/pasture_hoplon"
+                    }
+                },
+                {
+                    "when": "Superlative",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/superlative",
+                        "model": "item/cit/superlative"
+                    }
+                },
+                {
+                    "when": "Mixing Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mixing_hoplon",
+                        "model": "item/cit/mixing_hoplon"
+                    }
+                },
+                {
+                    "when": "Dueling Crescents",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dueling_crescents",
+                        "model": "item/cit/dueling_crescents"
+                    }
+                },
+                {
+                    "when": "Tethered Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tethered_hoplon",
+                        "model": "item/cit/tethered_hoplon"
+                    }
+                },
+                {
+                    "when": "Galaxy Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/galaxy_hoplon",
+                        "model": "item/cit/galaxy_hoplon"
+                    }
+                },
+                {
+                    "when": "Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/targe",
+                        "model": "item/cit/targe"
+                    }
+                },
+                {
+                    "when": "Iridescent Sunshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iridescent_sunshield",
+                        "model": "item/cit/iridescent_sunshield"
+                    }
+                },
+                {
+                    "when": "Rhodolite Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rhodolite_targe",
+                        "model": "item/cit/rhodolite_targe"
+                    }
+                },
+                {
+                    "when": "Oceanic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/oceanic_shield",
+                        "model": "item/cit/oceanic_shield"
+                    }
+                },
+                {
+                    "when": "Shroomlight Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shroomlight_targe",
+                        "model": "item/cit/shroomlight_targe"
+                    }
+                },
+                {
+                    "when": "Guarding Pearl",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guarding_pearl",
+                        "model": "item/cit/guarding_pearl"
+                    }
+                },
+                {
+                    "when": "Void Guardian",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_guardian",
+                        "model": "item/cit/void_guardian"
+                    }
+                },
+                {
+                    "when": "Bedrock Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/bedrock_targe",
+                        "model": "item/cit/bedrock_targe"
+                    }
+                },
+                {
+                    "when": "Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dipylon",
+                        "model": "item/cit/dipylon"
+                    }
+                },
+                {
+                    "when": "Wildfire Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wildfire_dipylon",
+                        "model": "item/cit/wildfire_dipylon"
+                    }
+                },
+                {
+                    "when": "Shivering Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shivering_shield",
+                        "model": "item/cit/shivering_shield"
+                    }
+                },
+                {
+                    "when": "Scaled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scaled_shield",
+                        "model": "item/cit/scaled_shield"
+                    }
+                },
+                {
+                    "when": "Uranium Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/uranium_dipylon",
+                        "model": "item/cit/uranium_dipylon"
+                    }
+                },
+                {
+                    "when": "Drowned Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/drowned_dipylon",
+                        "model": "item/cit/drowned_dipylon"
+                    }
+                },
+                {
+                    "when": "Magnetic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magnetic_shield",
+                        "model": "item/cit/magnetic_shield"
+                    }
+                },
+                {
+                    "when": "Star Protector",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/star_protector",
+                        "model": "item/cit/star_protector"
+                    }
+                },
+                {
+                    "when": "Mineral Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mineral_shield",
+                        "model": "item/cit/mineral_shield"
+                    }
+                },
+                {
+                    "when": "Eternal Diamond",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/eternal_diamond",
+                        "model": "item/cit/eternal_diamond"
+                    }
+                },
+                {
+                    "when": "Aureate Gold",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aureate_gold",
+                        "model": "item/cit/aureate_gold"
+                    }
+                },
+                {
+                    "when": "Opulent Emerald",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/opulent_emerald",
+                        "model": "item/cit/opulent_emerald"
+                    }
+                },
+                {
+                    "when": "Carmine Ruby",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/carmine_ruby",
+                        "model": "item/cit/carmine_ruby"
+                    }
+                },
+                {
+                    "when": "Violet Amethyst",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/violet_amethyst",
+                        "model": "item/cit/violet_amethyst"
+                    }
+                },
+                {
+                    "when": "Boundless Gravity",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/boundless_gravity",
+                        "model": "item/cit/boundless_gravity"
+                    }
+                },
+                {
+                    "when": "Constancy Construct",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/constancy_construct",
+                        "model": "item/cit/constancy_construct"
+                    }
+                },
+                {
+                    "when": "Dungeon Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dungeon_shield",
+                        "model": "item/cit/dungeon_shield"
+                    }
+                },
+                {
+                    "when": "Gilded Bastion",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gilded_bastion",
+                        "model": "item/cit/gilded_bastion"
+                    }
+                },
+                {
+                    "when": "Spawner Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/spawner_shield",
+                        "model": "item/cit/spawner_shield"
+                    }
+                },
+                {
+                    "when": "Temple Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/temple_shield",
+                        "model": "item/cit/temple_shield"
+                    }
+                },
+                {
+                    "when": "Pyramid Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pyramid_shield",
+                        "model": "item/cit/pyramid_shield"
+                    }
+                },
+                {
+                    "when": "Igloo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/igloo_shield",
+                        "model": "item/cit/igloo_shield"
+                    }
+                },
+                {
+                    "when": "Witch Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/witch_shield",
+                        "model": "item/cit/witch_shield"
+                    }
+                },
+                {
+                    "when": "Mansion Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mansion_shield",
+                        "model": "item/cit/mansion_shield"
+                    }
+                },
+                {
+                    "when": "Ornamental Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ornamental_shield",
+                        "model": "item/cit/ornamental_shield"
+                    }
+                },
+                {
+                    "when": "Evergreen Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/evergreen_shield",
+                        "model": "item/cit/evergreen_shield"
+                    }
+                },
+                {
+                    "when": "Scarlet Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scarlet_shield",
+                        "model": "item/cit/scarlet_shield"
+                    }
+                },
+                {
+                    "when": "Cerulean Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerulean_shield",
+                        "model": "item/cit/cerulean_shield"
+                    }
+                },
+                {
+                    "when": "Void Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_shield",
+                        "model": "item/cit/void_shield"
+                    }
+                },
+                {
+                    "when": "Sun Drop Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/sun_drop_shield",
+                        "model": "item/cit/sun_drop_shield"
+                    }
+                },
+                {
+                    "when": "Gemstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gemstone_shield",
+                        "model": "item/cit/gemstone_shield"
+                    }
+                },
+                {
+                    "when": "Crystal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/crystal_shield",
+                        "model": "item/cit/crystal_shield"
+                    }
+                },
+                {
+                    "when": "Snow Globe Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/snow_globe_shield",
+                        "model": "item/cit/snow_globe_shield"
+                    }
+                },
+                {
+                    "when": "Purity Ward",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/purity_ward",
+                        "model": "item/cit/purity_ward"
+                    }
+                },
+                {
+                    "when": "Gladiator Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gladiator_shield",
+                        "model": "item/cit/gladiator_shield"
+                    }
+                },
+                {
+                    "when": "Radar Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/radar_shield",
+                        "model": "item/cit/radar_shield"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:special",
+                "base": "item/shield",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        },
+        "on_true": {
+            "type": "minecraft:select",
+            "base": "item/shield_blocking",
+            "model": {
+                "type": "minecraft:shield"
+            },
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Leather Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/leather_shield_blocking",
+                        "model": "item/cit/leather_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Stone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stone_shield_blocking",
+                        "model": "item/cit/stone_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Golden Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/golden_shield_blocking",
+                        "model": "item/cit/golden_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Diamond Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/diamond_shield_blocking",
+                        "model": "item/cit/diamond_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Netherite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/netherite_shield_blocking",
+                        "model": "item/cit/netherite_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Vanguard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/vanguard_shield_blocking",
+                        "model": "item/cit/vanguard_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Necromancer Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/necromancer_shield_blocking",
+                        "model": "item/cit/necromancer_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Nameless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nameless_shield_blocking",
+                        "model": "item/cit/nameless_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Wraith Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wraith_shield_blocking",
+                        "model": "item/cit/wraith_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Wretched Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wretched_shield_blocking",
+                        "model": "item/cit/wretched_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Headstone Hunter",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/headstone_hunter_blocking",
+                        "model": "item/cit/headstone_hunter_blocking"
+                    }
+                },
+                {
+                    "when": "Maroon Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/maroon_defender_blocking",
+                        "model": "item/cit/maroon_defender_blocking"
+                    }
+                },
+                {
+                    "when": "Shield of Darkness",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_darkness_blocking",
+                        "model": "item/cit/shield_of_darkness_blocking"
+                    }
+                },
+                {
+                    "when": "Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guard_shield_blocking",
+                        "model": "item/cit/guard_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Royal Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/royal_guard_shield_blocking",
+                        "model": "item/cit/royal_guard_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Castle Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/castle_shield_blocking",
+                        "model": "item/cit/castle_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Arch-Illager Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/arch-illager_shield_blocking",
+                        "model": "item/cit/arch-illager_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Shield of Undying",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_undying_blocking",
+                        "model": "item/cit/shield_of_undying_blocking"
+                    }
+                },
+                {
+                    "when": "Imperial Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/imperial_shield_blocking",
+                        "model": "item/cit/imperial_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Majesty Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/majesty_shield_blocking",
+                        "model": "item/cit/majesty_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Silhouette Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/silhouette_shield_blocking",
+                        "model": "item/cit/silhouette_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Tower Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tower_guard_shield_blocking",
+                        "model": "item/cit/tower_guard_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Aqua Tower Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aqua_tower_shield_blocking",
+                        "model": "item/cit/aqua_tower_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Shield of the Tower",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_tower_blocking",
+                        "model": "item/cit/shield_of_the_tower_blocking"
+                    }
+                },
+                {
+                    "when": "End City Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/end_city_shield_blocking",
+                        "model": "item/cit/end_city_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Pillager Outpost Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pillager_outpost_shield_blocking",
+                        "model": "item/cit/pillager_outpost_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Nether Fortress Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nether_fortress_shield_blocking",
+                        "model": "item/cit/nether_fortress_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Trial Chambers Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/trial_chambers_shield_blocking",
+                        "model": "item/cit/trial_chambers_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Stronghold Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stronghold_shield_blocking",
+                        "model": "item/cit/stronghold_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Heater Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/heater_shield_blocking",
+                        "model": "item/cit/heater_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Shield of Courage",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_courage_blocking",
+                        "model": "item/cit/shield_of_courage_blocking"
+                    }
+                },
+                {
+                    "when": "Prismarine Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/prismarine_shield_blocking",
+                        "model": "item/cit/prismarine_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Magic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magic_shield_blocking",
+                        "model": "item/cit/magic_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Thunder Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/thunder_shield_blocking",
+                        "model": "item/cit/thunder_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Ritual Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ritual_shield_blocking",
+                        "model": "item/cit/ritual_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Jade Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/jade_shield_blocking",
+                        "model": "item/cit/jade_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Rising Ash",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rising_ash_blocking",
+                        "model": "item/cit/rising_ash_blocking"
+                    }
+                },
+                {
+                    "when": "Resisting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/resisting_shield_blocking",
+                        "model": "item/cit/resisting_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Fire Withstander",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/fire_withstander_blocking",
+                        "model": "item/cit/fire_withstander_blocking"
+                    }
+                },
+                {
+                    "when": "Cresting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cresting_shield_blocking",
+                        "model": "item/cit/cresting_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Minacious Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/minacious_shield_blocking",
+                        "model": "item/cit/minacious_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Cryoshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cryoshield_blocking",
+                        "model": "item/cit/cryoshield_blocking"
+                    }
+                },
+                {
+                    "when": "Starless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/starless_shield_blocking",
+                        "model": "item/cit/starless_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Nightdream",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nightdream_blocking",
+                        "model": "item/cit/nightdream_blocking"
+                    }
+                },
+                {
+                    "when": "Stalwart Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stalwart_shield_blocking",
+                        "model": "item/cit/stalwart_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Medieval Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/medieval_shield_blocking",
+                        "model": "item/cit/medieval_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Highblock Flag Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/highblock_flag_shield_blocking",
+                        "model": "item/cit/highblock_flag_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Great Hall Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/great_hall_shield_blocking",
+                        "model": "item/cit/great_hall_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Admin Romeo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_romeo_shield_blocking",
+                        "model": "item/cit/admin_romeo_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Admin Xara Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_xara_shield_blocking",
+                        "model": "item/cit/admin_xara_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Admin Fred Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_fred_shield_blocking",
+                        "model": "item/cit/admin_fred_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Glow Wings Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/glow_wings_shield_blocking",
+                        "model": "item/cit/glow_wings_shield_blocking"
+                    }
+                },
+                {
+                    "when": "World Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/world_shield_blocking",
+                        "model": "item/cit/world_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Battlement Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/battlement_shield_blocking",
+                        "model": "item/cit/battlement_shield_blocking"
+                    }
+                },
+                {
+                    "when": "The Last Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/the_last_defender_blocking",
+                        "model": "item/cit/the_last_defender_blocking"
+                    }
+                },
+                {
+                    "when": "Frozen Flame",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/frozen_flame_blocking",
+                        "model": "item/cit/frozen_flame_blocking"
+                    }
+                },
+                {
+                    "when": "Cerise Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerise_shield_blocking",
+                        "model": "item/cit/cerise_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Veiled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/veiled_shield_blocking",
+                        "model": "item/cit/veiled_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Landscaper",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/landscaper_blocking",
+                        "model": "item/cit/landscaper_blocking"
+                    }
+                },
+                {
+                    "when": "Chthonic",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/chthonic_blocking",
+                        "model": "item/cit/chthonic_blocking"
+                    }
+                },
+                {
+                    "when": "Phantom Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/phantom_shield_blocking",
+                        "model": "item/cit/phantom_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Kite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/kite_shield_blocking",
+                        "model": "item/cit/kite_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Lantern Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lantern_shield_blocking",
+                        "model": "item/cit/lantern_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Lucent Orchid",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lucent_orchid_blocking",
+                        "model": "item/cit/lucent_orchid_blocking"
+                    }
+                },
+                {
+                    "when": "Basil Essence",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/basil_essence_blocking",
+                        "model": "item/cit/basil_essence_blocking"
+                    }
+                },
+                {
+                    "when": "Shield of the Silenced",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_silenced_blocking",
+                        "model": "item/cit/shield_of_the_silenced_blocking"
+                    }
+                },
+                {
+                    "when": "Nosferatu",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nosferatu_blocking",
+                        "model": "item/cit/nosferatu_blocking"
+                    }
+                },
+                {
+                    "when": "Harp Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/harp_shield_blocking",
+                        "model": "item/cit/harp_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Red Mamba",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/red_mamba_blocking",
+                        "model": "item/cit/red_mamba_blocking"
+                    }
+                },
+                {
+                    "when": "Iron Metal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iron_metal_shield_blocking",
+                        "model": "item/cit/iron_metal_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Russet Copper Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/russet_copper_shield_blocking",
+                        "model": "item/cit/russet_copper_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Redstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/redstone_shield_blocking",
+                        "model": "item/cit/redstone_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Lapis Lazuli Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lapis_lazuli_shield_blocking",
+                        "model": "item/cit/lapis_lazuli_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Ancient Darkshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ancient_darkshield_blocking",
+                        "model": "item/cit/ancient_darkshield_blocking"
+                    }
+                },
+                {
+                    "when": "Flame Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/flame_shield_blocking",
+                        "model": "item/cit/flame_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Cobalt Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cobalt_shield_blocking",
+                        "model": "item/cit/cobalt_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Warrior Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/warrior_shield_blocking",
+                        "model": "item/cit/warrior_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/buckler_blocking",
+                        "model": "item/cit/buckler_blocking"
+                    }
+                },
+                {
+                    "when": "Hero Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hero_shield_blocking",
+                        "model": "item/cit/hero_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Acoustic Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/acoustic_buckler_blocking",
+                        "model": "item/cit/acoustic_buckler_blocking"
+                    }
+                },
+                {
+                    "when": "Greenwood Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/greenwood_shield_blocking",
+                        "model": "item/cit/greenwood_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Accretion Disk",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/accretion_disk_blocking",
+                        "model": "item/cit/accretion_disk_blocking"
+                    }
+                },
+                {
+                    "when": "Dreamcatcher",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dreamcatcher_blocking",
+                        "model": "item/cit/dreamcatcher_blocking"
+                    }
+                },
+                {
+                    "when": "Lava Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lava_shield_blocking",
+                        "model": "item/cit/lava_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Corrupted Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/corrupted_shield_blocking",
+                        "model": "item/cit/corrupted_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hoplon_blocking",
+                        "model": "item/cit/hoplon_blocking"
+                    }
+                },
+                {
+                    "when": "Aeroshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aeroshield_blocking",
+                        "model": "item/cit/aeroshield_blocking"
+                    }
+                },
+                {
+                    "when": "Pasture Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pasture_hoplon_blocking",
+                        "model": "item/cit/pasture_hoplon_blocking"
+                    }
+                },
+                {
+                    "when": "Superlative",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/superlative_blocking",
+                        "model": "item/cit/superlative_blocking"
+                    }
+                },
+                {
+                    "when": "Mixing Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mixing_hoplon_blocking",
+                        "model": "item/cit/mixing_hoplon_blocking"
+                    }
+                },
+                {
+                    "when": "Dueling Crescents",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dueling_crescents_blocking",
+                        "model": "item/cit/dueling_crescents_blocking"
+                    }
+                },
+                {
+                    "when": "Tethered Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tethered_hoplon_blocking",
+                        "model": "item/cit/tethered_hoplon_blocking"
+                    }
+                },
+                {
+                    "when": "Galaxy Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/galaxy_hoplon_blocking",
+                        "model": "item/cit/galaxy_hoplon_blocking"
+                    }
+                },
+                {
+                    "when": "Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/targe_blocking",
+                        "model": "item/cit/targe_blocking"
+                    }
+                },
+                {
+                    "when": "Iridescent Sunshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iridescent_sunshield_blocking",
+                        "model": "item/cit/iridescent_sunshield_blocking"
+                    }
+                },
+                {
+                    "when": "Rhodolite Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rhodolite_targe_blocking",
+                        "model": "item/cit/rhodolite_targe_blocking"
+                    }
+                },
+                {
+                    "when": "Oceanic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/oceanic_shield_blocking",
+                        "model": "item/cit/oceanic_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Shroomlight Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shroomlight_targe_blocking",
+                        "model": "item/cit/shroomlight_targe_blocking"
+                    }
+                },
+                {
+                    "when": "Guarding Pearl",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guarding_pearl_blocking",
+                        "model": "item/cit/guarding_pearl_blocking"
+                    }
+                },
+                {
+                    "when": "Void Guardian",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_guardian_blocking",
+                        "model": "item/cit/void_guardian_blocking"
+                    }
+                },
+                {
+                    "when": "Bedrock Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/bedrock_targe_blocking",
+                        "model": "item/cit/bedrock_targe_blocking"
+                    }
+                },
+                {
+                    "when": "Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dipylon_blocking",
+                        "model": "item/cit/dipylon_blocking"
+                    }
+                },
+                {
+                    "when": "Wildfire Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wildfire_dipylon_blocking",
+                        "model": "item/cit/wildfire_dipylon_blocking"
+                    }
+                },
+                {
+                    "when": "Shivering Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shivering_shield_blocking",
+                        "model": "item/cit/shivering_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Scaled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scaled_shield_blocking",
+                        "model": "item/cit/scaled_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Uranium Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/uranium_dipylon_blocking",
+                        "model": "item/cit/uranium_dipylon_blocking"
+                    }
+                },
+                {
+                    "when": "Drowned Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/drowned_dipylon_blocking",
+                        "model": "item/cit/drowned_dipylon_blocking"
+                    }
+                },
+                {
+                    "when": "Magnetic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magnetic_shield_blocking",
+                        "model": "item/cit/magnetic_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Star Protector",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/star_protector_blocking",
+                        "model": "item/cit/star_protector_blocking"
+                    }
+                },
+                {
+                    "when": "Mineral Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mineral_shield_blocking",
+                        "model": "item/cit/mineral_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Eternal Diamond",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/eternal_diamond_blocking",
+                        "model": "item/cit/eternal_diamond_blocking"
+                    }
+                },
+                {
+                    "when": "Aureate Gold",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aureate_gold_blocking",
+                        "model": "item/cit/aureate_gold_blocking"
+                    }
+                },
+                {
+                    "when": "Opulent Emerald",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/opulent_emerald_blocking",
+                        "model": "item/cit/opulent_emerald_blocking"
+                    }
+                },
+                {
+                    "when": "Carmine Ruby",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/carmine_ruby_blocking",
+                        "model": "item/cit/carmine_ruby_blocking"
+                    }
+                },
+                {
+                    "when": "Violet Amethyst",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/violet_amethyst_blocking",
+                        "model": "item/cit/violet_amethyst_blocking"
+                    }
+                },
+                {
+                    "when": "Boundless Gravity",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/boundless_gravity_blocking",
+                        "model": "item/cit/boundless_gravity_blocking"
+                    }
+                },
+                {
+                    "when": "Constancy Construct",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/constancy_construct_blocking",
+                        "model": "item/cit/constancy_construct_blocking"
+                    }
+                },
+                {
+                    "when": "Dungeon Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dungeon_shield_blocking",
+                        "model": "item/cit/dungeon_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Gilded Bastion",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gilded_bastion_blocking",
+                        "model": "item/cit/gilded_bastion_blocking"
+                    }
+                },
+                {
+                    "when": "Spawner Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/spawner_shield_blocking",
+                        "model": "item/cit/spawner_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Temple Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/temple_shield_blocking",
+                        "model": "item/cit/temple_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Pyramid Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pyramid_shield_blocking",
+                        "model": "item/cit/pyramid_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Igloo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/igloo_shield_blocking",
+                        "model": "item/cit/igloo_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Witch Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/witch_shield_blocking",
+                        "model": "item/cit/witch_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Mansion Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mansion_shield_blocking",
+                        "model": "item/cit/mansion_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Ornamental Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ornamental_shield_blocking",
+                        "model": "item/cit/ornamental_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Evergreen Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/evergreen_shield_blocking",
+                        "model": "item/cit/evergreen_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Scarlet Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scarlet_shield_blocking",
+                        "model": "item/cit/scarlet_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Cerulean Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerulean_shield_blocking",
+                        "model": "item/cit/cerulean_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Void Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_shield_blocking",
+                        "model": "item/cit/void_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Sun Drop Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/sun_drop_shield_blocking",
+                        "model": "item/cit/sun_drop_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Gemstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gemstone_shield_blocking",
+                        "model": "item/cit/gemstone_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Crystal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/crystal_shield_blocking",
+                        "model": "item/cit/crystal_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Snow Globe Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/snow_globe_shield_blocking",
+                        "model": "item/cit/snow_globe_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Purity Ward",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/purity_ward_blocking",
+                        "model": "item/cit/purity_ward_blocking"
+                    }
+                },
+                {
+                    "when": "Gladiator Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gladiator_shield_blocking",
+                        "model": "item/cit/gladiator_shield_blocking"
+                    }
+                },
+                {
+                    "when": "Radar Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/radar_shield_blocking",
+                        "model": "item/cit/radar_shield_blocking"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:special",
+                "base": "item/shield_blocking",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        }
+    }
+}

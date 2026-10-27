@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/optimum_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/optimum_pulling_0"
+  }
+}

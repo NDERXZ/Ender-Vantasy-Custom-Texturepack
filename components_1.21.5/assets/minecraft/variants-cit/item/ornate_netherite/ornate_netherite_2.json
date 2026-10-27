@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_leggings"],
+	"modelPrefix": "ornate_netherite/ornate_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Ornate Netherite Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

@@ -1,0 +1,419 @@
+{
+"model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Battle Robe Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/battle_robe_chestplate"
+                }
+            },
+            {
+                "when": "Beenest Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_chestplate"
+                }
+            },
+            {
+                "when": "Blue Mystery Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_chestplate"
+                }
+            },
+            {
+                "when": "Champion's Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/champions_armor_chestplate"
+                }
+            },
+            {
+                "when": "Climbing Gear Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/climbing_gear_chestplate"
+                }
+            },
+            {
+                "when": "Dark Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/dark_armor_chestplate"
+                }
+            },
+            {
+                "when": "Emerald Gear Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/emerald_gear_chestplate"
+                }
+            },
+            {
+                "when": "Entertainer's Garb Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/entertainers_garb_chestplate"
+                }
+            },
+            {
+                "when": "Evocation Robe Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/evocation_robe_chestplate"
+                }
+            },
+            {
+                "when": "Ghostly Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghostly_armor_chestplate"
+                }
+            },
+            {
+                "when": "Golden Piglin Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/golden_piglin_armor_chestplate"
+                }
+            },
+            {
+                "when": "Green Mystery Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/green_mystery_armor_chestplate"
+                }
+            },
+            {
+                "when": "Grim Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/grim_armor_chestplate"
+                }
+            },
+            {
+                "when": "Guard's Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/guards_armor_chestplate"
+                }
+            },
+            {
+                "when": "Hunter's Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hunters_armor_chestplate"
+                }
+            },
+            {
+                "when": "Mercenary Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/mercenary_armor_chestplate"
+                }
+            },
+            {
+                "when": "Ocelot Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ocelot_armor_chestplate"
+                }
+            },
+            {
+                "when": "Phantom Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/phantom_armor_chestplate"
+                }
+            },
+            {
+                "when": "Piglin Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/piglin_armor_chestplate"
+                }
+            },
+            {
+                "when": "Plate Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/plate_armor_chestplate"
+                }
+            },
+            {
+                "when": "Purple Mystery Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/purple_mystery_armor_chestplate"
+                }
+            },
+            {
+                "when": "Red Mystery Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/red_mystery_armor_chestplate"
+                }
+            },
+            {
+                "when": "Reinforced Mail Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/reinforced_mail_chestplate"
+                }
+            },
+            {
+                "when": "Root Rot Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/root_rot_armor_chestplate"
+                }
+            },
+            {
+                "when": "Scale Mail Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/scale_mail_chestplate"
+                }
+            },
+            {
+                "when": "Shulker Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shulker_armor_chestplate"
+                }
+            },
+            {
+                "when": "Snow Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/snow_armor_chestplate"
+                }
+            },
+            {
+                "when": "Soul Robe Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/soul_robe_chestplate"
+                }
+            },
+            {
+                "when": "Spelunker Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spelunker_armor_chestplate"
+                }
+            },
+            {
+                "when": "Sprout Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sprout_armor_chestplate"
+                }
+            },
+            {
+                "when": "Squid Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/squid_armor_chestplate"
+                }
+            },
+            {
+                "when": "Teleportation Robes Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/teleportation_robes_chestplate"
+                }
+            },
+            {
+                "when": "Thief Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/thief_armor_chestplate"
+                }
+            },
+            {
+                "when": "Turtle Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/turtle_armor_chestplate"
+                }
+            },
+            {
+                "when": "White Mystery Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/white_mystery_armor_chestplate"
+                }
+            },
+            {
+                "when": "Wolf Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wolf_armor_chestplate"
+                }
+            },
+            {
+                "when": "Iron Energy Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_energy_armor_chestplate"
+                }
+            },
+            {
+                "when": "Merchant Armor Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/merchant_armor_chestplate"
+                }
+            },
+            {
+                "when": "Armor Number 7 Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/armor_number_7_chestplate"
+                }
+            },
+            {
+                "when": "Dented Danger Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dented_danger_chestplate"
+                }
+            },
+            {
+                "when": "Feelin' Cute Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/feelin_cute_chestplate"
+                }
+            },
+            {
+                "when": "Goofball Glory Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/goofball_glory_chestplate"
+                }
+            },
+            {
+                "when": "Llama Brown-ish Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/llama_brown-ish_chestplate"
+                }
+            },
+            {
+                "when": "Please Don't Hit Me Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/please_dont_hit_me_chestplate"
+                }
+            },
+            {
+                "when": "Straps 'n' Straps Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/straps_n_straps_chestplate"
+                }
+            },
+            {
+                "when": "The Tooth Chipper Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/the_tooth_chipper_chestplate"
+                }
+            }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:trim_material",
+
+      "cases": [
+        {
+          "when": "minecraft:quartz",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_quartz_trim"
+          }
+        },
+        {
+          "when": "minecraft:iron",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_iron_trim"
+          }
+        },
+        {
+          "when": "minecraft:netherite",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_netherite_trim"
+          }
+        },
+        {
+          "when": "minecraft:redstone",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_redstone_trim"
+          }
+        },
+        {
+          "when": "minecraft:copper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_copper_trim"
+          }
+        },
+        {
+          "when": "minecraft:gold",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_gold_trim"
+          }
+        },
+        {
+          "when": "minecraft:emerald",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_emerald_trim"
+          }
+        },
+        {
+          "when": "minecraft:diamond",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_diamond_trim"
+          }
+        },
+        {
+          "when": "minecraft:lapis",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_lapis_trim"
+          }
+        },
+        {
+          "when": "minecraft:amethyst",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_amethyst_trim"
+          }
+        },
+        {
+          "when": "minecraft:resin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_chestplate_resin_trim"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/iron_chestplate"
+      }
+    }
+  }
+}

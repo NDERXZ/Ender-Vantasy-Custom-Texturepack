@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ghost_lighter",
+  "textures": {
+    "layer0": "minecraft:item/cit/ghost_lighter_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/snowplow_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/snowplow_blaster_pulling_1"
+  }
+}

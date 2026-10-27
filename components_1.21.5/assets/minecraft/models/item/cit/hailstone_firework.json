@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/hailstone_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/hailstone_firework"
+  }
+}

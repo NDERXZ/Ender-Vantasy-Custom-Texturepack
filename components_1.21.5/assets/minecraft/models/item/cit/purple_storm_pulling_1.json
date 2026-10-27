@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/purple_storm",
+  "textures": {
+    "layer0": "minecraft:item/cit/purple_storm_pulling_1"
+  }
+}

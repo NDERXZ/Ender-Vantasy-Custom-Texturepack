@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bubble_burster",
+  "textures": {
+    "layer0": "minecraft:item/cit/bubble_burster_pulling_2"
+  }
+}

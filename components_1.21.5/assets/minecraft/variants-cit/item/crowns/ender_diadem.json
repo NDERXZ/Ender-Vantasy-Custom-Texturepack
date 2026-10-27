@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_helmet", "netherite_helmet", "turtle_helmet"],
+	"modelPrefix": "crowns/ender_diadem",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Ender Diadem",
+            "substitution": "",
+			"lowercase": true
+	    }
+    }
+}

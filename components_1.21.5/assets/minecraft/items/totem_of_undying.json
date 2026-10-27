@@ -1,0 +1,339 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Totem of Regeneration",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/totem_of_regeneration"
+                }
+            },
+            {
+                "when": "Regeneration Rock",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/regeneration_rock"
+                }
+            },
+            {
+                "when": "Totem of Shielding",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/totem_of_shielding"
+                }
+            },
+            {
+                "when": "Totem of Soul Protection",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/totem_of_soul_protection"
+                }
+            },
+            {
+                "when": "Totem of Casting",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/totem_of_casting"
+                }
+            },
+            {
+                "when": "Iron Hide Amulet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/iron_hide_amulet"
+                }
+            },
+            {
+                "when": "Love Medalion",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/love_medalion"
+                }
+            },
+            {
+                "when": "Soul Healer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_healer"
+                }
+            },
+            {
+                "when": "Beta Soul Healer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/beta_soul_healer"
+                }
+            },
+            {
+                "when": "Shadow Shifter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shadow_shifter"
+                }
+            },
+            {
+                "when": [
+						"Caller's Bane",
+						"Callers Bane"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/callers_bane"
+                }
+            },
+            {
+                "when": [
+						"The Order's Amulet",
+						"The Orders Amulet"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/the_orders_amulet"
+                }
+            },
+            {
+                "when": "Death Cap Mushroom",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/death_cap_mushroom"
+                }
+            },
+            {
+                "when": "Light Feather",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/light_feather"
+                }
+            },
+            {
+                "when": "Tasty Bone",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tasty_bone"
+                }
+            },
+            {
+                "when": "Enchanted Grass",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/enchanted_grass"
+                }
+            },
+            {
+                "when": [
+						"Dungeons Rabbit's Foot",
+						"Dungeons Rabbits Foot"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rabbits_foot"
+                }
+            },
+            {
+                "when": "Sanctuary Grail",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sanctuary_grail"
+                }
+            },
+            {
+                "when": "Corrupted Beacon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_beacon"
+                }
+            },
+            {
+                "when": "Corrupted Pumpkin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_pumpkin"
+                }
+            },
+            {
+                "when": "Eye of the Guardian",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/eye_of_the_guardian"
+                }
+            },
+            {
+                "when": "Super TNT",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/super_tnt"
+                }
+            },
+            {
+                "when": "Formidi-Bomb",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/formidi-bomb"
+                }
+            },
+            {
+                "when": "Redstone Heart",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/redstone_heart"
+                }
+            },
+            {
+                "when": "Blast Fungus",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/blast_fungus"
+                }
+            },
+            {
+                "when": "Scatter Mines",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scatter_mines"
+                }
+            },
+            {
+                "when": "Harvester",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/harvester"
+                }
+            },
+            {
+                "when": [
+						"Blightbearer",
+						"Blight Bearer"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/blightbearer"
+                }
+            },
+            {
+                "when": "Gong of Weakening",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gong_of_weakening"
+                }
+            },
+            {
+                "when": "Powershaker",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/powershaker"
+                }
+            },
+            {
+                "when": "Soul Lantern",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_lantern"
+                }
+            },
+            {
+                "when": [
+						"Enchanter's Tome",
+						"Enchanters Tome"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/enchanters_tome"
+                }
+            },
+            {
+                "when": "Tome of Duplication",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tome_of_duplication"
+                }
+            },
+            {
+                "when": "Updraft Tome",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/updraft_tome"
+                }
+            },
+            {
+                "when": "Command Block Book",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/command_block_book"
+                }
+            },
+            {
+                "when": "Portal Atlas",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/portal_atlas"
+                }
+            },
+            {
+                "when": [
+						"Fred's Journal",
+						"Freds Journal"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/freds_journal"
+                }
+            },
+            {
+                "when": "Vexing Chant",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/vexing_chant"
+                }
+            },
+            {
+                "when": "Treasure Map",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/treasure_map"
+                }
+            },
+            {
+                "when": "Scroll",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scroll"
+                }
+            },
+            {
+                "when": "Fire Scroll",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/fire_scroll"
+                }
+            },
+            {
+                "when": "Alternate Fire Scroll",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/alternate_fire_scroll"
+                }
+            },
+            {
+                "when": "Enchantment Scroll",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/enchantment_scroll"
+                }
+            },
+            {
+                "when": "Scroll of Heroism",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scroll_of_heroism"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/totem_of_undying"
+        }
+    }
+}

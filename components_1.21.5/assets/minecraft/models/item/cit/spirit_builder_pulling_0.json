@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/spirit_builder",
+  "textures": {
+    "layer0": "minecraft:item/cit/spirit_builder_pulling_0"
+  }
+}

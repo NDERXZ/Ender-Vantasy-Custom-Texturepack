@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/feral_soul_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/feral_soul_crossbow_pulling_2"
+  }
+}

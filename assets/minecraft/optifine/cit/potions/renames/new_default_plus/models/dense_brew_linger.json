@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/potions/renames/new_default_plus/dense_brew/dense_brew_overlay",
+        "layer1": "optifine/cit/potions/renames/new_default_plus/dense_brew/dense_brew_linger"
+    }
+}

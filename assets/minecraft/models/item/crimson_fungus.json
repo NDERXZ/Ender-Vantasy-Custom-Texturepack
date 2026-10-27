@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/crimson_fungus_handheld",
+    "textures": {
+        "layer0": "minecraft:block/crimson_fungus"
+    }
+}

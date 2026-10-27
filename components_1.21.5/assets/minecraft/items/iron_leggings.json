@@ -1,0 +1,419 @@
+{
+"model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Battle Robe Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/battle_robe_leggings"
+                }
+            },
+            {
+                "when": "Beenest Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_leggings"
+                }
+            },
+            {
+                "when": "Blue Mystery Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_leggings"
+                }
+            },
+            {
+                "when": "Champion's Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/champions_armor_leggings"
+                }
+            },
+            {
+                "when": "Climbing Gear Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/climbing_gear_leggings"
+                }
+            },
+            {
+                "when": "Dark Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/dark_armor_leggings"
+                }
+            },
+            {
+                "when": "Emerald Gear Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/emerald_gear_leggings"
+                }
+            },
+            {
+                "when": "Entertainer's Garb Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/entertainers_garb_leggings"
+                }
+            },
+            {
+                "when": "Evocation Robe Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/evocation_robe_leggings"
+                }
+            },
+            {
+                "when": "Ghostly Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghostly_armor_leggings"
+                }
+            },
+            {
+                "when": "Golden Piglin Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/golden_piglin_armor_leggings"
+                }
+            },
+            {
+                "when": "Green Mystery Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/green_mystery_armor_leggings"
+                }
+            },
+            {
+                "when": "Grim Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/grim_armor_leggings"
+                }
+            },
+            {
+                "when": "Guard's Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/guards_armor_leggings"
+                }
+            },
+            {
+                "when": "Hunter's Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hunters_armor_leggings"
+                }
+            },
+            {
+                "when": "Mercenary Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/mercenary_armor_leggings"
+                }
+            },
+            {
+                "when": "Ocelot Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ocelot_armor_leggings"
+                }
+            },
+            {
+                "when": "Phantom Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/phantom_armor_leggings"
+                }
+            },
+            {
+                "when": "Piglin Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/piglin_armor_leggings"
+                }
+            },
+            {
+                "when": "Plate Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/plate_armor_leggings"
+                }
+            },
+            {
+                "when": "Purple Mystery Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/purple_mystery_armor_leggings"
+                }
+            },
+            {
+                "when": "Red Mystery Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/red_mystery_armor_leggings"
+                }
+            },
+            {
+                "when": "Reinforced Mail Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/reinforced_mail_leggings"
+                }
+            },
+            {
+                "when": "Root Rot Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/root_rot_armor_leggings"
+                }
+            },
+            {
+                "when": "Scale Mail Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/scale_mail_leggings"
+                }
+            },
+            {
+                "when": "Shulker Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shulker_armor_leggings"
+                }
+            },
+            {
+                "when": "Snow Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/snow_armor_leggings"
+                }
+            },
+            {
+                "when": "Soul Robe Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/soul_robe_leggings"
+                }
+            },
+            {
+                "when": "Spelunker Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spelunker_armor_leggings"
+                }
+            },
+            {
+                "when": "Sprout Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sprout_armor_leggings"
+                }
+            },
+            {
+                "when": "Squid Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/squid_armor_leggings"
+                }
+            },
+            {
+                "when": "Teleportation Robes Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/teleportation_robes_leggings"
+                }
+            },
+            {
+                "when": "Thief Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/thief_armor_leggings"
+                }
+            },
+            {
+                "when": "Turtle Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/turtle_armor_leggings"
+                }
+            },
+            {
+                "when": "White Mystery Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/white_mystery_armor_leggings"
+                }
+            },
+            {
+                "when": "Wolf Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wolf_armor_leggings"
+                }
+            },
+            {
+                "when": "Iron Energy Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_energy_armor_leggings"
+                }
+            },
+            {
+                "when": "Merchant Armor Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/merchant_armor_leggings"
+                }
+            },
+            {
+                "when": "Armor Number 7 Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/armor_number_7_leggings"
+                }
+            },
+            {
+                "when": "Dented Danger Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dented_danger_leggings"
+                }
+            },
+            {
+                "when": "Feelin' Cute Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/feelin_cute_leggings"
+                }
+            },
+            {
+                "when": "Goofball Glory Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/goofball_glory_leggings"
+                }
+            },
+            {
+                "when": "Llama Brown-ish Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/llama_brown-ish_leggings"
+                }
+            },
+            {
+                "when": "Please Don't Hit Me Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/please_dont_hit_me_leggings"
+                }
+            },
+            {
+                "when": "Straps 'n' Straps Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/straps_n_straps_leggings"
+                }
+            },
+            {
+                "when": "The Tooth Chipper Leggings",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/the_tooth_chipper_leggings"
+                }
+            }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:trim_material",
+
+      "cases": [
+        {
+          "when": "minecraft:quartz",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_quartz_trim"
+          }
+        },
+        {
+          "when": "minecraft:iron",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_iron_trim"
+          }
+        },
+        {
+          "when": "minecraft:netherite",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_netherite_trim"
+          }
+        },
+        {
+          "when": "minecraft:redstone",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_redstone_trim"
+          }
+        },
+        {
+          "when": "minecraft:copper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_copper_trim"
+          }
+        },
+        {
+          "when": "minecraft:gold",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_gold_trim"
+          }
+        },
+        {
+          "when": "minecraft:emerald",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_emerald_trim"
+          }
+        },
+        {
+          "when": "minecraft:diamond",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_diamond_trim"
+          }
+        },
+        {
+          "when": "minecraft:lapis",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_lapis_trim"
+          }
+        },
+        {
+          "when": "minecraft:amethyst",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_amethyst_trim"
+          }
+        },
+        {
+          "when": "minecraft:resin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_leggings_resin_trim"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/iron_leggings"
+      }
+    }
+  }
+}

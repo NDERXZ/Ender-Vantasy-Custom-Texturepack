@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_overlay",
+        "layer1": "optifine/cit/potions/renames/new_default_plus/dungeons_night_vision_potion/dungeons_night_vision_splash"
+    }
+}

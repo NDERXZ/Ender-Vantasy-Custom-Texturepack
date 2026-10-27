@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/coil_blaster_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/coil_blaster_firework"
+  }
+}

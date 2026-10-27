@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/story_mode/white_pumpkin_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "White Pumpkin Armor Boots|White Pumpkin Armor Chestplate|White Pumpkin Armor Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "crowns/sculk_crown"
+      }
+    ]
+  }
+}

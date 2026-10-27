@@ -1,0 +1,42 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "on_false": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Wind Horn",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/wind_horn"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/goat_horn"
+            }
+        },
+        "on_true": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Wind Horn",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/tooting_wind_horn"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/tooting_goat_horn"
+            }
+        },
+        "property": "minecraft:using_item"
+    }
+}

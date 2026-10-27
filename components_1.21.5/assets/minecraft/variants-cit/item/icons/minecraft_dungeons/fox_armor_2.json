@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings"],
+	"modelPrefix": "icons/minecraft_dungeons/fox_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Fox Armor Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

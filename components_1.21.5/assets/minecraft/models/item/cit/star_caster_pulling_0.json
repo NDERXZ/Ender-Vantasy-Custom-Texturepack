@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/star_caster",
+  "textures": {
+    "layer0": "minecraft:item/cit/star_caster_pulling_0"
+  }
+}

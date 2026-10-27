@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/shortbow",
+  "textures": {
+    "layer0": "minecraft:item/cit/shortbow_pulling_0"
+  }
+}

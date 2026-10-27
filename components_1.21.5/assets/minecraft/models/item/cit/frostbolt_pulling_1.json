@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/frostbolt_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/frostbolt_pulling_1"
+  }
+}

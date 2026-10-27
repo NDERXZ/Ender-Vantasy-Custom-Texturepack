@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/red_snake",
+  "textures": {
+    "layer0": "minecraft:item/cit/red_snake_pulling_1"
+  }
+}

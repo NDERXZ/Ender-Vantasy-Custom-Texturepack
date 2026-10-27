@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/hunters_promise",
+  "textures": {
+    "layer0": "minecraft:item/cit/hunters_promise_pulling_2"
+  }
+}

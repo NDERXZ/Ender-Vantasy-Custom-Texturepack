@@ -1,0 +1,599 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "cases": [
+            {
+                "model": {
+                    "type": "minecraft:condition",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:component",
+                        "component": "minecraft:custom_name",
+                        "cases": [
+                            {
+                                "when": "Shock Powder",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/shock_powder"
+                                }
+                            },
+                            {
+                                "when": "Corrupted Seeds",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/corrupted_seeds"
+                                }
+                            },
+                            {
+                                "when": "Satchel of Elements",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/satchel_of_elements"
+                                }
+                            },
+                            {
+                                "when": "Satchel of Snacks",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/satchel_of_snacks"
+                                }
+                            },
+                            {
+                                "when": "Satchel of Elixirs",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/satchel_of_elixirs"
+                                }
+                            },
+                            {
+                                "when": "Diamond Dust",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/diamond_dust"
+                                }
+                            },
+                            {
+                                "when": "Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/quiver"
+                                }
+                            },
+                            {
+                                "when": "Flaming Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/flaming_quiver"
+                                }
+                            },
+                            {
+                                "when": "Beta Flaming Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/beta_flaming_quiver"
+                                }
+                            },
+                            {
+                                "when": "Torment Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/torment_quiver"
+                                }
+                            },
+                            {
+                                "when": "Fireworks Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/fireworks_quiver"
+                                }
+                            },
+                            {
+                                "when": "Thundering Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/thundering_quiver"
+                                }
+                            },
+                            {
+                                "when": "Harpoon Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/harpoon_quiver"
+                                }
+                            },
+                            {
+                                "when": "Void Quiver",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/void_quiver"
+                                }
+                            },
+                            {
+                                "when": "Mystery Box",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/mystery_box"
+                                }
+                            },
+                            {
+                                "when": "Melee Mystery Box",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/melee_mystery_box"
+                                }
+                            },
+                            {
+                                "when": "Ranged Mystery Box",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/ranged_mystery_box"
+                                }
+                            },
+                            {
+                                "when": "Armor Mystery Box",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/armor_mystery_box"
+                                }
+                            },
+                            {
+                                "when": "Artifact Mystery Box",
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/cit/artifact_mystery_box"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bundle"
+                        }
+                    },
+                    "on_true": {
+                        "type": "minecraft:composite",
+                        "models": [
+                            {
+                                "type": "minecraft:select",
+                                "property": "minecraft:component",
+                                "component": "minecraft:custom_name",
+                                "cases": [
+                                    {
+                                        "when": "Shock Powder",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/shock_powder"
+                                        }
+                                    },
+                                    {
+                                        "when": "Corrupted Seeds",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/corrupted_seeds"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Elements",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_elements"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Snacks",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_snacks"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Elixirs",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_elixirs"
+                                        }
+                                    },
+                                    {
+                                        "when": "Diamond Dust",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/diamond_dust"
+                                        }
+                                    },
+                                    {
+                                        "when": "Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Flaming Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/flaming_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Beta Flaming Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/beta_flaming_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Torment Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/torment_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Fireworks Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/fireworks_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Thundering Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/thundering_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Harpoon Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/harpoon_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Void Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/void_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Melee Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/melee_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Ranged Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/ranged_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Armor Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/armor_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Artifact Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/artifact_mystery_box"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/bundle_open_back"
+                                }
+                            },
+                            {
+                                "type": "minecraft:bundle/selected_item"
+                            },
+                            {
+                                "type": "minecraft:select",
+                                "property": "minecraft:component",
+                                "component": "minecraft:custom_name",
+                                "cases": [
+                                    {
+                                        "when": "Shock Powder",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/shock_powder"
+                                        }
+                                    },
+                                    {
+                                        "when": "Corrupted Seeds",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/corrupted_seeds"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Elements",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_elements"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Snacks",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_snacks"
+                                        }
+                                    },
+                                    {
+                                        "when": "Satchel of Elixirs",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/satchel_of_elixirs"
+                                        }
+                                    },
+                                    {
+                                        "when": "Diamond Dust",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/diamond_dust"
+                                        }
+                                    },
+                                    {
+                                        "when": "Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Flaming Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/flaming_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Beta Flaming Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/beta_flaming_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Torment Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/torment_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Fireworks Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/fireworks_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Thundering Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/thundering_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Harpoon Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/harpoon_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Void Quiver",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/void_quiver"
+                                        }
+                                    },
+                                    {
+                                        "when": "Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Melee Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/melee_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Ranged Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/ranged_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Armor Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/armor_mystery_box"
+                                        }
+                                    },
+                                    {
+                                        "when": "Artifact Mystery Box",
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/cit/artifact_mystery_box"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/bundle_open_front"
+                                }
+                            }
+                        ]
+                    },
+                    "property": "minecraft:bundle/has_selected_item"
+                },
+                "when": "gui"
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Shock Powder",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/shock_powder"
+                    }
+                },
+                {
+                    "when": "Corrupted Seeds",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/corrupted_seeds"
+                    }
+                },
+                {
+                    "when": "Satchel of Elements",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/satchel_of_elements"
+                    }
+                },
+                {
+                    "when": "Satchel of Snacks",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/satchel_of_snacks"
+                    }
+                },
+                {
+                    "when": "Satchel of Elixirs",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/satchel_of_elixirs"
+                    }
+                },
+                {
+                    "when": "Diamond Dust",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/diamond_dust"
+                    }
+                },
+                {
+                    "when": "Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/quiver"
+                    }
+                },
+                {
+                    "when": "Flaming Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/flaming_quiver"
+                    }
+                },
+                {
+                    "when": "Beta Flaming Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/beta_flaming_quiver"
+                    }
+                },
+                {
+                    "when": "Torment Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/torment_quiver"
+                    }
+                },
+                {
+                    "when": "Fireworks Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/fireworks_quiver"
+                    }
+                },
+                {
+                    "when": "Thundering Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/thundering_quiver"
+                    }
+                },
+                {
+                    "when": "Harpoon Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/harpoon_quiver"
+                    }
+                },
+                {
+                    "when": "Void Quiver",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/void_quiver"
+                    }
+                },
+                {
+                    "when": "Mystery Box",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/mystery_box"
+                    }
+                },
+                {
+                    "when": "Melee Mystery Box",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/melee_mystery_box"
+                    }
+                },
+                {
+                    "when": "Ranged Mystery Box",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/ranged_mystery_box"
+                    }
+                },
+                {
+                    "when": "Armor Mystery Box",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/armor_mystery_box"
+                    }
+                },
+                {
+                    "when": "Artifact Mystery Box",
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/artifact_mystery_box"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bundle"
+            }
+        },
+        "property": "minecraft:display_context"
+    }
+}

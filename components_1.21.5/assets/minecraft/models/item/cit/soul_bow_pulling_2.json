@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/soul_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/soul_bow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/midnight_wing",
+  "textures": {
+    "layer0": "minecraft:item/cit/midnight_wing_pulling_2"
+  }
+}

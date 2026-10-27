@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet",  "iron_boots", "iron_chestplate", "iron_helmet"],
+	"modelPrefix": "icons/story_mode/the_tooth_chipper_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "The Tooth Chipper Boots|The Tooth Chipper Chestplate|The Tooth Chipper Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

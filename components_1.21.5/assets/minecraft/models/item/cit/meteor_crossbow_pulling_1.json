@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/meteor_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/meteor_crossbow_pulling_1"
+  }
+}

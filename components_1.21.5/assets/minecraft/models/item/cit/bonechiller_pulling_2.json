@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bonechiller",
+  "textures": {
+    "layer0": "minecraft:item/cit/bonechiller_pulling_2"
+  }
+}

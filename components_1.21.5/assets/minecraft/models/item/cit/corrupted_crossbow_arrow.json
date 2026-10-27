@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/corrupted_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/corrupted_crossbow_arrow"
+  }
+}

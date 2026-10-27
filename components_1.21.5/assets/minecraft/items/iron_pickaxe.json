@@ -1,0 +1,167 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Dungeons Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pickaxe"
+                }
+            },
+            {
+                "when": "Composite Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/composite_pickaxe"
+                }
+            },
+            {
+                "when": "Combat Pick",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/combat_pick"
+                }
+            },
+            {
+                "when": "Mandrill",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mandrill"
+                }
+            },
+            {
+                "when": "Mattock",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mattock"
+                }
+            },
+            {
+                "when": "Mountaineer Pick",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mountaineer_pick"
+                }
+            },
+            {
+                "when": "Split Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/split_pickaxe"
+                }
+            },
+            {
+                "when": "Dual Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dual_pickaxe"
+                }
+            },
+            {
+                "when": "Heavy Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/heavy_pickaxe"
+                }
+            },
+            {
+                "when": "Serrated Pick",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/serrated_pick"
+                }
+            },
+            {
+                "when": "Horseshoe Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/horseshoe_pickaxe"
+                }
+            },
+            {
+                "when": "Long Pick",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/long_pick"
+                }
+            },
+            {
+                "when": "Mechanized Pickaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mechanized_pickaxe"
+                }
+            },
+            {
+                "when": "Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hammer"
+                }
+            },
+            {
+                "when": "Mallet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mallet"
+                }
+            },
+            {
+                "when": "Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sledgehammer"
+                }
+            },
+            {
+                "when": "Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gavel"
+                }
+            },
+            {
+                "when": "Great Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/great_hammer"
+                }
+            },
+            {
+                "when": "Maul",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/maul"
+                }
+            },
+            {
+                "when": "Drill",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/drill"
+                }
+            },
+            {
+                "when": "Bec de Corbin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bec_de_corbin"
+                }
+            },
+            {
+                "when": "War Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_hammer"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_pickaxe"
+        }
+    }
+}

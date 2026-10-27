@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/icons/story_mode/gladiator_capital_t_armor_boots"
+  }
+}

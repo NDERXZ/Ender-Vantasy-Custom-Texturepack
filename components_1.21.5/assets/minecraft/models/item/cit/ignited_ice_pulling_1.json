@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ignited_ice_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/ignited_ice_pulling_1"
+  }
+}

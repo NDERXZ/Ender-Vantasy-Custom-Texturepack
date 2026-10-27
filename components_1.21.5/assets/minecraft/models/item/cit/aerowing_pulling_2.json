@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/aerowing",
+  "textures": {
+    "layer0": "minecraft:item/cit/aerowing_pulling_2"
+  }
+}

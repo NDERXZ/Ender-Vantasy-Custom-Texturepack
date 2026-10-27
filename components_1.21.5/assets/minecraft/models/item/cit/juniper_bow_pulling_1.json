@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/juniper_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/juniper_bow_pulling_1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/unending",
+  "textures": {
+    "layer0": "minecraft:item/cit/unending_pulling_2"
+  }
+}

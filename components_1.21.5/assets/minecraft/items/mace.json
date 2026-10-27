@@ -1,0 +1,1311 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Jade Butcher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jade_butcher"
+                }
+            },
+            {
+                "when": "Subspace Tear",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/subspace_tear"
+                }
+            },
+            {
+                "when": "Lazuli Cleaver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lazuli_cleaver"
+                }
+            },
+            {
+                "when": "Lunar Carver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lunar_carver"
+                }
+            },
+            {
+                "when": "Caldera",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/caldera"
+                }
+            },
+            {
+                "when": "Crystalline Cleaver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/crystalline_cleaver"
+                }
+            },
+            {
+                "when": "Carnelian Cleaver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/carnelian_cleaver"
+                }
+            },
+            {
+                "when": "Smithing Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/smithing_hammer"
+                }
+            },
+            {
+                "when": "Cobalt Slammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobalt_slammer"
+                }
+            },
+            {
+                "when": "Nameless Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nameless_hammer"
+                }
+            },
+            {
+                "when": "Amethyst Annihilator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/amethyst_annihilator"
+                }
+            },
+            {
+                "when": "Crypt Vanquisher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/crypt_vanquisher"
+                }
+            },
+            {
+                "when": "Vital Leecher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/vital_leecher"
+                }
+            },
+            {
+                "when": "Blind Spot",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/blind_spot"
+                }
+            },
+            {
+                "when": "Copper Crusher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/copper_crusher"
+                }
+            },
+            {
+                "when": "Vermilion Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/vermilion_hammer"
+                }
+            },
+            {
+                "when": "Jade Breaker",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jade_breaker"
+                }
+            },
+            {
+                "when": "Prismarine Pulverizer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prismarine_pulverizer"
+                }
+            },
+            {
+                "when": "Thrashing Thunder",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/thrashing_thunder"
+                }
+            },
+            {
+                "when": "Diamond Demolisher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/diamond_demolisher"
+                }
+            },
+            {
+                "when": "Gravity Mallet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gravity_mallet"
+                }
+            },
+            {
+                "when": "Plutonium Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/plutonium_sledgehammer"
+                }
+            },
+            {
+                "when": "Ruby Desecrator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ruby_desecrator"
+                }
+            },
+            {
+                "when": "Spacial Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spacial_sledgehammer"
+                }
+            },
+            {
+                "when": "Netherite Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/netherite_sledgehammer"
+                }
+            },
+            {
+                "when": "Dead of Night",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dead_of_night"
+                }
+            },
+            {
+                "when": "Dragon Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dragon_hammer"
+                }
+            },
+            {
+                "when": "Typhoon Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/typhoon_sledgehammer"
+                }
+            },
+            {
+                "when": "Super Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/super_gavel"
+                }
+            },
+            {
+                "when": "Ultra Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ultra_gavel"
+                }
+            },
+            {
+                "when": "Obsidian Fragmenter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/obsidian_fragmenter"
+                }
+            },
+            {
+                "when": "Garden Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/garden_gavel"
+                }
+            },
+            {
+                "when": "Luminous Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/luminous_gavel"
+                }
+            },
+            {
+                "when": "Starless Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/starless_hammer"
+                }
+            },
+            {
+                "when": "Bat Batter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bat_batter"
+                }
+            },
+            {
+                "when": "Stormlander",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/stormlander"
+                }
+            },
+            {
+                "when": "Hammer of Gravity",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hammer_of_gravity"
+                }
+            },
+            {
+                "when": "Bonehead Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bonehead_hammer"
+                }
+            },
+            {
+                "when": "Ember Mallet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ember_mallet"
+                }
+            },
+            {
+                "when": "Creation Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/creation_hammer"
+                }
+            },
+            {
+                "when": "Chief Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chief_hammer"
+                }
+            },
+            {
+                "when": "Soul Sledge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_sledge"
+                }
+            },
+            {
+                "when": "Geode Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/geode_gavel"
+                }
+            },
+            {
+                "when": "Mesa Smasher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mesa_smasher"
+                }
+            },
+            {
+                "when": "Mushroom Masher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mushroom_masher"
+                }
+            },
+            {
+                "when": "Polaroid Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/polaroid_hammer"
+                }
+            },
+            {
+                "when": "Singing Wrecker",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/singing_wrecker"
+                }
+            },
+            {
+                "when": "Astral Obliterator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/astral_obliterator"
+                }
+            },
+            {
+                "when": "Warden Slayer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/warden_slayer"
+                }
+            },
+            {
+                "when": [
+						"Sun's Grace",
+						"Suns Grace"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/suns_grace"
+                }
+            },
+            {
+                "when": "Flail",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flail"
+                }
+            },
+            {
+                "when": "Magma Flail",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/magma_flail"
+                }
+            },
+            {
+                "when": "Shadowcaster",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shadowcaster"
+                }
+            },
+            {
+                "when": "Pumpkin Feast",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pumpkin_feast"
+                }
+            },
+            {
+                "when": "Reactor Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/reactor_mace"
+                }
+            },
+            {
+                "when": "Cerise Smasher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cerise_smasher"
+                }
+            },
+            {
+                "when": "Diamond Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/diamond_mace"
+                }
+            },
+            {
+                "when": "Jade Tirade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jade_tirade"
+                }
+            },
+            {
+                "when": "Global Orbiter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/global_orbiter"
+                }
+            },
+            {
+                "when": "Flame Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flame_mace"
+                }
+            },
+            {
+                "when": "Crepuscule",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/crepuscule"
+                }
+            },
+            {
+                "when": "Red Anilius",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/red_anilius"
+                }
+            },
+            {
+                "when": "Nameless Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nameless_mace"
+                }
+            },
+            {
+                "when": "Star Pulsar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/star_pulsar"
+                }
+            },
+            {
+                "when": "Gilded Morningstar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gilded_morningstar"
+                }
+            },
+            {
+                "when": "Monsoon Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/monsoon_mace"
+                }
+            },
+            {
+                "when": "Sporiferous Morningstar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sporiferous_morningstar"
+                }
+            },
+            {
+                "when": "Withering Star",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/withering_star"
+                }
+            },
+            {
+                "when": "Celestial Sphere",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/celestial_sphere"
+                }
+            },
+            {
+                "when": "Cryoconite",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cryoconite"
+                }
+            },
+            {
+                "when": "Copper Morningstar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/copper_morningstar"
+                }
+            },
+            {
+                "when": "Venomous Fangs",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/venomous_fangs"
+                }
+            },
+            {
+                "when": "Netherite Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/netherite_mace"
+                }
+            },
+            {
+                "when": "Descending Void",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/descending_void"
+                }
+            },
+            {
+                "when": "Rampart Rumbler",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rampart_rumbler"
+                }
+            },
+            {
+                "when": "Constancy Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/constancy_mace"
+                }
+            },
+            {
+                "when": "Thorned Rose",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/thorned_rose"
+                }
+            },
+            {
+                "when": "Corrupted Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_mace"
+                }
+            },
+            {
+                "when": "Briar Patch",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/briar_patch"
+                }
+            },
+            {
+                "when": "Weighted Shroomlight",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/weighted_shroomlight"
+                }
+            },
+            {
+                "when": "Screaming Whisper",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/screaming_whisper"
+                }
+            },
+            {
+                "when": "Mausoleum Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mausoleum_mace"
+                }
+            },
+            {
+                "when": "Windswept Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/windswept_mace"
+                }
+            },
+            {
+                "when": "Redstone Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/redstone_mace"
+                }
+            },
+            {
+                "when": "Lament of Lapis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lament_of_lapis"
+                }
+            },
+            {
+                "when": "Arboriculture",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/arboriculture"
+                }
+            },
+            {
+                "when": "Nonpareil",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nonpareil"
+                }
+            },
+            {
+                "when": "Lumen Fuchsia",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lumen_fuchsia"
+                }
+            },
+            {
+                "when": "Verdure Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/verdure_mace"
+                }
+            },
+            {
+                "when": "Spirit and Soul",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spirit_and_soul"
+                }
+            },
+            {
+                "when": "Inseverable Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/inseverable_mace"
+                }
+            },
+            {
+                "when": "Icefall Meltdown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icefall_meltdown"
+                }
+            },
+            {
+                "when": "Cumulus Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cumulus_mace"
+                }
+            },
+            {
+                "when": "Erupting Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/erupting_mace"
+                }
+            },
+            {
+                "when": "Bedrock Crumbler",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bedrock_crumbler"
+                }
+            },
+            {
+                "when": "High Tide Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/high_tide_mace"
+                }
+            },
+            {
+                "when": "Golden Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/golden_mace"
+                }
+            },
+            {
+                "when": "Solemnity Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/solemnity_mace"
+                }
+            },
+            {
+                "when": "Cathedral Geode",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cathedral_geode"
+                }
+            },
+            {
+                "when": "Geomagnetic Club",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/geomagnetic_club"
+                }
+            },
+            {
+                "when": "Ruby Ravager",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ruby_ravager"
+                }
+            },
+            {
+                "when": "Mystic Thorns",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mystic_thorns"
+                }
+            },
+            {
+                "when": "Sleepless Smasher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sleepless_smasher"
+                }
+            },
+            {
+                "when": "Warrior Club",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/warrior_club"
+                }
+            },
+            {
+                "when": "Magmatic Menace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/magmatic_menace"
+                }
+            },
+            {
+                "when": "Imperial Bludgeon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/imperial_bludgeon"
+                }
+            },
+            {
+                "when": "Dragon Born",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dragon_born"
+                }
+            },
+            {
+                "when": "Emerald Bludgeon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/emerald_bludgeon"
+                }
+            },
+            {
+                "when": "Angel Bludgeon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/angel_bludgeon"
+                }
+            },
+            {
+                "when": "Regal Revolter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/regal_revolter"
+                }
+            },
+            {
+                "when": "Auburn Amasser",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/auburn_amasser"
+                }
+            },
+            {
+                "when": "Cobalt Compeller",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobalt_compeller"
+                }
+            },
+            {
+                "when": "Moon Resonator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/moon_resonator"
+                }
+            },
+            {
+                "when": "Prismatic Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prismatic_mace"
+                }
+            },
+            {
+                "when": "Sunbeam Bullion",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sunbeam_bullion"
+                }
+            },
+            {
+                "when": "Set of Eyes",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/set_of_eyes"
+                }
+            },
+            {
+                "when": "Dark Double Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dark_double_mace"
+                }
+            },
+            {
+                "when": "Static Discharge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/static_discharge"
+                }
+            },
+            {
+                "when": "Contorting Cinders",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/contorting_cinders"
+                }
+            },
+            {
+                "when": "Encrusted Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/encrusted_anchor"
+                }
+            },
+            {
+                "when": "Undead Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/undead_anchor"
+                }
+            },
+            {
+                "when": "Thermal Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/thermal_anchor"
+                }
+            },
+            {
+                "when": "Summoning Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/summoning_anchor"
+                }
+            },
+            {
+                "when": "Diamond Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/diamond_anchor"
+                }
+            },
+            {
+                "when": "Colossus",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/colossus"
+                }
+            },
+            {
+                "when": "Rubedo Dentition",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rubedo_dentition"
+                }
+            },
+            {
+                "when": "Golden Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/golden_anchor"
+                }
+            },
+            {
+                "when": "Tarnished Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tarnished_anchor"
+                }
+            },
+            {
+                "when": "Kelp Keeper",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/kelp_keeper"
+                }
+            },
+            {
+                "when": "Frost Breaker",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/frost_breaker"
+                }
+            },
+            {
+                "when": "Torrential Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/torrential_anchor"
+                }
+            },
+            {
+                "when": "Malefic Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/malefic_anchor"
+                }
+            },
+            {
+                "when": "Arachnid Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/arachnid_anchor"
+                }
+            },
+            {
+                "when": "Guiding Prism",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/guiding_prism"
+                }
+            },
+            {
+                "when": "World Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/world_anchor"
+                }
+            },
+            {
+                "when": "Pirate Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pirate_anchor"
+                }
+            },
+            {
+                "when": "Rhodolite Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rhodolite_anchor"
+                }
+            },
+            {
+                "when": "Luminous Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/luminous_anchor"
+                }
+            },
+            {
+                "when": "Solar Flare",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/solar_flare"
+                }
+            },
+            {
+                "when": "Harp Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/harp_anchor"
+                }
+            },
+            {
+                "when": "Slate Crusher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/slate_crusher"
+                }
+            },
+            {
+                "when": "Shard Smasher",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shard_smasher"
+                }
+            },
+            {
+                "when": "Leviathan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/leviathan"
+                }
+            },
+            {
+                "when": "Dragon Bone Sword",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dragon_bone_sword"
+                }
+            },
+            {
+                "when": "Alpha Basin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/alpha_basin"
+                }
+            },
+            {
+                "when": "Omega Crater",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/omega_crater"
+                }
+            },
+            {
+                "when": "Delta Ozone",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/delta_ozone"
+                }
+            },
+            {
+                "when": "Bone Cudgel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bone_cudgel"
+                }
+            },
+            {
+                "when": "Bone Cudgel Reverse",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bone_cudgel_reverse"
+                }
+            },
+            {
+                "when": "Tempest Longsword",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tempest_longsword"
+                }
+            },
+            {
+                "when": "Tempest Longsword Reverse",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tempest_longsword_reverse"
+                }
+            },
+            {
+                "when": "Golem Blackthorn",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/golem_blackthorn"
+                }
+            },
+            {
+                "when": "Golem Blackthorn Reverse",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/golem_blackthorn_reverse"
+                }
+            },
+            {
+                "when": "Terminal Marrow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/terminal_marrow"
+                }
+            },
+            {
+                "when": "Terminal Marrow Reverse",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/terminal_marrow_reverse"
+                }
+            },
+            {
+                "when": "The Nutcracker",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/the_nutcracker"
+                }
+            },
+            {
+                "when": "The Nutcracker Reverse",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/the_nutcracker_reverse"
+                }
+            },
+            {
+                "when": "Cleaver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cleaver"
+                }
+            },
+            {
+                "when": "Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hammer"
+                }
+            },
+            {
+                "when": "Mallet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mallet"
+                }
+            },
+            {
+                "when": "Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sledgehammer"
+                }
+            },
+            {
+                "when": "Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gavel"
+                }
+            },
+            {
+                "when": "Great Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/great_hammer"
+                }
+            },
+            {
+                "when": "Maul",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/maul"
+                }
+            },
+            {
+                "when": "Dungeons Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mace"
+                }
+            },
+            {
+                "when": "Thorned Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/thorned_mace"
+                }
+            },
+            {
+                "when": "Morningstar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/morningstar"
+                }
+            },
+            {
+                "when": "Barbed Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/barbed_mace"
+                }
+            },
+            {
+                "when": "Heavy Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/heavy_mace"
+                }
+            },
+            {
+                "when": "Blunt Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/blunt_mace"
+                }
+            },
+            {
+                "when": "Flanged Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flanged_mace"
+                }
+            },
+            {
+                "when": "Spiked Club",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spiked_club"
+                }
+            },
+            {
+                "when": "Pronged Bludgeon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pronged_bludgeon"
+                }
+            },
+            {
+                "when": "Double Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/double_mace"
+                }
+            },
+            {
+                "when": "Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/anchor"
+                }
+            },
+            {
+                "when": "Grapnel Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/grapnel_anchor"
+                }
+            },
+            {
+                "when": "Stockless Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/stockless_anchor"
+                }
+            },
+            {
+                "when": "Bec de Corbin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bec_de_corbin"
+                }
+            },
+            {
+                "when": "War Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_hammer"
+                }
+            },
+            {
+                "when": "Corrupted Combat",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_combat"
+                }
+            },
+            {
+                "when": "Elucidate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/elucidate"
+                }
+            },
+            {
+                "when": "Gravity War Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gravity_war_hammer"
+                }
+            },
+            {
+                "when": "Lifestealer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lifestealer"
+                }
+            },
+            {
+                "when": "Might of the Warrior",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/might_of_the_warrior"
+                }
+            },
+            {
+                "when": "World Forger",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/world_forger"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/mace"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/despairing_void",
+  "textures": {
+    "layer0": "minecraft:item/cit/despairing_void_pulling_2"
+  }
+}

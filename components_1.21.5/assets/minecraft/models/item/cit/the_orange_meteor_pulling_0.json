@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/the_orange_meteor",
+  "textures": {
+    "layer0": "minecraft:item/cit/the_orange_meteor_pulling_0"
+  }
+}

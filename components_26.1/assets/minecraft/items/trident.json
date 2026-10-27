@@ -1,0 +1,4724 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Dungeons Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear_throwing",
+                        "base": "item/cit/spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear",
+                        "base": "item/cit/spear"
+                    }
+                }
+            },
+            {
+                "when": "Whispering Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/whispering_spear_throwing",
+                        "base": "item/cit/whispering_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/whispering_spear",
+                        "base": "item/cit/whispering_spear"
+                    }
+                }
+            },
+            {
+                "when": "Fortune Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fortune_spear_throwing",
+                        "base": "item/cit/fortune_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fortune_spear",
+                        "base": "item/cit/fortune_spear"
+                    }
+                }
+            },
+            {
+                "when": "Spine-Chill Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spine-chill_spear_throwing",
+                        "base": "item/cit/spine-chill_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spine-chill_spear",
+                        "base": "item/cit/spine-chill_spear"
+                    }
+                }
+            },
+            {
+                "when": "Lynx",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lynx_throwing",
+                        "base": "item/cit/lynx_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lynx",
+                        "base": "item/cit/lynx"
+                    }
+                }
+            },
+            {
+                "when": "Dripstone Pike",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dripstone_pike_throwing",
+                        "base": "item/cit/dripstone_pike_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dripstone_pike",
+                        "base": "item/cit/dripstone_pike"
+                    }
+                }
+            },
+            {
+                "when": "Bayou Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bayou_spear_throwing",
+                        "base": "item/cit/bayou_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bayou_spear",
+                        "base": "item/cit/bayou_spear"
+                    }
+                }
+            },
+            {
+                "when": "Tower Polearm",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tower_polearm_throwing",
+                        "base": "item/cit/tower_polearm_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tower_polearm",
+                        "base": "item/cit/tower_polearm"
+                    }
+                }
+            },
+            {
+                "when": "Guard Steeple",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/guard_steeple_throwing",
+                        "base": "item/cit/guard_steeple_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/guard_steeple",
+                        "base": "item/cit/guard_steeple"
+                    }
+                }
+            },
+            {
+                "when": "Aerostream",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/aerostream_throwing",
+                        "base": "item/cit/aerostream_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/aerostream",
+                        "base": "item/cit/aerostream"
+                    }
+                }
+            },
+            {
+                "when": "Imperial Polearm",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/imperial_polearm_throwing",
+                        "base": "item/cit/imperial_polearm_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/imperial_polearm",
+                        "base": "item/cit/imperial_polearm"
+                    }
+                }
+            },
+            {
+                "when": "Blackout",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blackout_throwing",
+                        "base": "item/cit/blackout_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blackout",
+                        "base": "item/cit/blackout"
+                    }
+                }
+            },
+            {
+                "when": "Cryopathy",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cryopathy_throwing",
+                        "base": "item/cit/cryopathy_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cryopathy",
+                        "base": "item/cit/cryopathy"
+                    }
+                }
+            },
+            {
+                "when": "Fabled Blade",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fabled_blade_throwing",
+                        "base": "item/cit/fabled_blade_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fabled_blade",
+                        "base": "item/cit/fabled_blade"
+                    }
+                }
+            },
+            {
+                "when": "Cobalt Dancer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cobalt_dancer_throwing",
+                        "base": "item/cit/cobalt_dancer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cobalt_dancer",
+                        "base": "item/cit/cobalt_dancer"
+                    }
+                }
+            },
+            {
+                "when": "Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glaive_throwing",
+                        "base": "item/cit/glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glaive",
+                        "base": "item/cit/glaive"
+                    }
+                }
+            },
+            {
+                "when": "Grave Bane",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/grave_bane_throwing",
+                        "base": "item/cit/grave_bane_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/grave_bane",
+                        "base": "item/cit/grave_bane"
+                    }
+                }
+            },
+            {
+                "when": "Venom Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/venom_glaive_throwing",
+                        "base": "item/cit/venom_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/venom_glaive",
+                        "base": "item/cit/venom_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Cackling Broom",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cackling_broom_throwing",
+                        "base": "item/cit/cackling_broom_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cackling_broom",
+                        "base": "item/cit/cackling_broom"
+                    }
+                }
+            },
+            {
+                "when": "Twin Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/twin_glaive_throwing",
+                        "base": "item/cit/twin_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/twin_glaive",
+                        "base": "item/cit/twin_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Binding Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/binding_glaive_throwing",
+                        "base": "item/cit/binding_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/binding_glaive",
+                        "base": "item/cit/binding_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Tidal Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tidal_glaive_throwing",
+                        "base": "item/cit/tidal_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tidal_glaive",
+                        "base": "item/cit/tidal_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Undead Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/undead_glaive_throwing",
+                        "base": "item/cit/undead_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/undead_glaive",
+                        "base": "item/cit/undead_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Nebula Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nebula_glaive_throwing",
+                        "base": "item/cit/nebula_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nebula_glaive",
+                        "base": "item/cit/nebula_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/staff_throwing",
+                        "base": "item/cit/staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/staff",
+                        "base": "item/cit/staff"
+                    }
+                }
+            },
+            {
+                "when": "Wind Caller Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wind_caller_staff_throwing",
+                        "base": "item/cit/wind_caller_staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wind_caller_staff",
+                        "base": "item/cit/wind_caller_staff"
+                    }
+                }
+            },
+            {
+                "when": "False Orb of Dominance",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/false_orb_of_dominance_throwing",
+                        "base": "item/cit/false_orb_of_dominance_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/false_orb_of_dominance",
+                        "base": "item/cit/false_orb_of_dominance"
+                    }
+                }
+            },
+            {
+                "when": "Geomancer Cane",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/geomancer_cane_throwing",
+                        "base": "item/cit/geomancer_cane_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/geomancer_cane",
+                        "base": "item/cit/geomancer_cane"
+                    }
+                }
+            },
+            {
+                "when": "Necromancer Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/necromancer_staff_throwing",
+                        "base": "item/cit/necromancer_staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/necromancer_staff",
+                        "base": "item/cit/necromancer_staff"
+                    }
+                }
+            },
+            {
+                "when": "False Nameless One Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/false_nameless_one_staff_throwing",
+                        "base": "item/cit/false_nameless_one_staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/false_nameless_one_staff",
+                        "base": "item/cit/false_nameless_one_staff"
+                    }
+                }
+            },
+            {
+                "when": "Command Block Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/command_block_staff_throwing",
+                        "base": "item/cit/command_block_staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/command_block_staff",
+                        "base": "item/cit/command_block_staff"
+                    }
+                }
+            },
+            {
+                "when": "Game Icon Staff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/game_icon_staff_throwing",
+                        "base": "item/cit/game_icon_staff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/game_icon_staff",
+                        "base": "item/cit/game_icon_staff"
+                    }
+                }
+            },
+            {
+                "when": "Scepter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scepter_throwing",
+                        "base": "item/cit/scepter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scepter",
+                        "base": "item/cit/scepter"
+                    }
+                }
+            },
+            {
+                "when": "Rhodolite Scepter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_scepter_throwing",
+                        "base": "item/cit/rhodolite_scepter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_scepter",
+                        "base": "item/cit/rhodolite_scepter"
+                    }
+                }
+            },
+            {
+                "when": "Conduit Scepter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/conduit_scepter_throwing",
+                        "base": "item/cit/conduit_scepter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/conduit_scepter",
+                        "base": "item/cit/conduit_scepter"
+                    }
+                }
+            },
+            {
+                "when": "Crystal Beam",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/crystal_beam_throwing",
+                        "base": "item/cit/crystal_beam_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/crystal_beam",
+                        "base": "item/cit/crystal_beam"
+                    }
+                }
+            },
+            {
+                "when": "Golden Phoenix",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/golden_phoenix_throwing",
+                        "base": "item/cit/golden_phoenix_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/golden_phoenix",
+                        "base": "item/cit/golden_phoenix"
+                    }
+                }
+            },
+            {
+                "when": "Winding Tide",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/winding_tide_throwing",
+                        "base": "item/cit/winding_tide_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/winding_tide",
+                        "base": "item/cit/winding_tide"
+                    }
+                }
+            },
+            {
+                "when": "Moon Scepter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/moon_scepter_throwing",
+                        "base": "item/cit/moon_scepter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/moon_scepter",
+                        "base": "item/cit/moon_scepter"
+                    }
+                }
+            },
+            {
+                "when": "Sonic Scepter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sonic_scepter_throwing",
+                        "base": "item/cit/sonic_scepter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sonic_scepter",
+                        "base": "item/cit/sonic_scepter"
+                    }
+                }
+            },
+            {
+                "when": "Poleaxe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/poleaxe_throwing",
+                        "base": "item/cit/poleaxe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/poleaxe",
+                        "base": "item/cit/poleaxe"
+                    }
+                }
+            },
+            {
+                "when": "Blending Boil",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blending_boil_throwing",
+                        "base": "item/cit/blending_boil_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blending_boil",
+                        "base": "item/cit/blending_boil"
+                    }
+                }
+            },
+            {
+                "when": "Superstorm",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/superstorm_throwing",
+                        "base": "item/cit/superstorm_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/superstorm",
+                        "base": "item/cit/superstorm"
+                    }
+                }
+            },
+            {
+                "when": "Ringing Poleaxe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ringing_poleaxe_throwing",
+                        "base": "item/cit/ringing_poleaxe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ringing_poleaxe",
+                        "base": "item/cit/ringing_poleaxe"
+                    }
+                }
+            },
+            {
+                "when": "Star Seance",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/star_seance_throwing",
+                        "base": "item/cit/star_seance_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/star_seance",
+                        "base": "item/cit/star_seance"
+                    }
+                }
+            },
+            {
+                "when": "Aeroaxe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/aeroaxe_throwing",
+                        "base": "item/cit/aeroaxe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/aeroaxe",
+                        "base": "item/cit/aeroaxe"
+                    }
+                }
+            },
+            {
+                "when": "Red Viper",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/red_viper_throwing",
+                        "base": "item/cit/red_viper_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/red_viper",
+                        "base": "item/cit/red_viper"
+                    }
+                }
+            },
+            {
+                "when": "Constancy Poleaxe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/constancy_poleaxe_throwing",
+                        "base": "item/cit/constancy_poleaxe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/constancy_poleaxe",
+                        "base": "item/cit/constancy_poleaxe"
+                    }
+                }
+            },
+            {
+                "when": "Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/halberd_throwing",
+                        "base": "item/cit/halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/halberd",
+                        "base": "item/cit/halberd"
+                    }
+                }
+            },
+            {
+                "when": "Vampire Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/vampire_halberd_throwing",
+                        "base": "item/cit/vampire_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/vampire_halberd",
+                        "base": "item/cit/vampire_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Imperial Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/imperial_halberd_throwing",
+                        "base": "item/cit/imperial_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/imperial_halberd",
+                        "base": "item/cit/imperial_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Empress Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/empress_halberd_throwing",
+                        "base": "item/cit/empress_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/empress_halberd",
+                        "base": "item/cit/empress_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Evil Queen Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/evil_queen_axe_throwing",
+                        "base": "item/cit/evil_queen_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/evil_queen_axe",
+                        "base": "item/cit/evil_queen_axe"
+                    }
+                }
+            },
+            {
+                "when": "Rune Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rune_halberd_throwing",
+                        "base": "item/cit/rune_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rune_halberd",
+                        "base": "item/cit/rune_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Creation Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/creation_axe_throwing",
+                        "base": "item/cit/creation_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/creation_axe",
+                        "base": "item/cit/creation_axe"
+                    }
+                }
+            },
+            {
+                "when": "Rhodolite Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_halberd_throwing",
+                        "base": "item/cit/rhodolite_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_halberd",
+                        "base": "item/cit/rhodolite_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Stormlander",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stormlander_throwing",
+                        "base": "item/cit/stormlander_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stormlander",
+                        "base": "item/cit/stormlander"
+                    }
+                }
+            },
+            {
+                "when": "Thrashing Thunder",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/thrashing_thunder_throwing",
+                        "base": "item/cit/thrashing_thunder_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/thrashing_thunder",
+                        "base": "item/cit/thrashing_thunder"
+                    }
+                }
+            },
+            {
+                "when": "Gold Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gold_trident_throwing",
+                        "base": "item/cit/gold_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gold_trident",
+                        "base": "item/cit/gold_trident"
+                    }
+                }
+            },
+            {
+                "when": "Plant Wrapped Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/plant_wrapped_trident_throwing",
+                        "base": "item/cit/plant_wrapped_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/plant_wrapped_trident",
+                        "base": "item/cit/plant_wrapped_trident"
+                    }
+                }
+            },
+            {
+                "when": "Skull Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/skull_trident_throwing",
+                        "base": "item/cit/skull_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/skull_trident",
+                        "base": "item/cit/skull_trident"
+                    }
+                }
+            },
+            {
+                "when": "Sea Prism Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sea_prism_trident_throwing",
+                        "base": "item/cit/sea_prism_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sea_prism_trident",
+                        "base": "item/cit/sea_prism_trident"
+                    }
+                }
+            },
+            {
+                "when": "Bone Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bone_trident_throwing",
+                        "base": "item/cit/bone_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bone_trident",
+                        "base": "item/cit/bone_trident"
+                    }
+                }
+            },
+            {
+                "when": "Rubedo Canines",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_canines_throwing",
+                        "base": "item/cit/rubedo_canines_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_canines",
+                        "base": "item/cit/rubedo_canines"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Emperor's Reign",
+                    "Emperors Reign"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emperors_reign_throwing",
+                        "base": "item/cit/emperors_reign_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emperors_reign",
+                        "base": "item/cit/emperors_reign"
+                    }
+                }
+            },
+            {
+                "when": "Emerald Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emerald_trident_throwing",
+                        "base": "item/cit/emerald_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emerald_trident",
+                        "base": "item/cit/emerald_trident"
+                    }
+                }
+            },
+            {
+                "when": "Steel Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/steel_trident_throwing",
+                        "base": "item/cit/steel_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/steel_trident",
+                        "base": "item/cit/steel_trident"
+                    }
+                }
+            },
+            {
+                "when": "Tears of the Deep",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tears_of_the_deep_throwing",
+                        "base": "item/cit/tears_of_the_deep_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tears_of_the_deep",
+                        "base": "item/cit/tears_of_the_deep"
+                    }
+                }
+            },
+            {
+                "when": "Nether Geode",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nether_geode_throwing",
+                        "base": "item/cit/nether_geode_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nether_geode",
+                        "base": "item/cit/nether_geode"
+                    }
+                }
+            },
+            {
+                "when": "Hydra",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/hydra_throwing",
+                        "base": "item/cit/hydra_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/hydra",
+                        "base": "item/cit/hydra"
+                    }
+                }
+            },
+            {
+                "when": "Crystal Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/crystal_trident_throwing",
+                        "base": "item/cit/crystal_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/crystal_trident",
+                        "base": "item/cit/crystal_trident"
+                    }
+                }
+            },
+            {
+                "when": "Transpicuous Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/transpicuous_trident_throwing",
+                        "base": "item/cit/transpicuous_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/transpicuous_trident",
+                        "base": "item/cit/transpicuous_trident"
+                    }
+                }
+            },
+            {
+                "when": "Trident of the Lyre",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_the_lyre_throwing",
+                        "base": "item/cit/trident_of_the_lyre_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_the_lyre",
+                        "base": "item/cit/trident_of_the_lyre"
+                    }
+                }
+            },
+            {
+                "when": "Lazuli Liberator",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lazuli_liberator_throwing",
+                        "base": "item/cit/lazuli_liberator_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lazuli_liberator",
+                        "base": "item/cit/lazuli_liberator"
+                    }
+                }
+            },
+            {
+                "when": "Combat Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/combat_trident_throwing",
+                        "base": "item/cit/combat_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/combat_trident",
+                        "base": "item/cit/combat_trident"
+                    }
+                }
+            },
+            {
+                "when": "Diamond Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diamond_trident_throwing",
+                        "base": "item/cit/diamond_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diamond_trident",
+                        "base": "item/cit/diamond_trident"
+                    }
+                }
+            },
+            {
+                "when": "Master Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/master_trident_throwing",
+                        "base": "item/cit/master_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/master_trident",
+                        "base": "item/cit/master_trident"
+                    }
+                }
+            },
+            {
+                "when": "Void Vaulter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/void_vaulter_throwing",
+                        "base": "item/cit/void_vaulter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/void_vaulter",
+                        "base": "item/cit/void_vaulter"
+                    }
+                }
+            },
+            {
+                "when": "Barbed Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/barbed_trident_throwing",
+                        "base": "item/cit/barbed_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/barbed_trident",
+                        "base": "item/cit/barbed_trident"
+                    }
+                }
+            },
+            {
+                "when": "Lost Shadow",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lost_shadow_throwing",
+                        "base": "item/cit/lost_shadow_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lost_shadow",
+                        "base": "item/cit/lost_shadow"
+                    }
+                }
+            },
+            {
+                "when": "Consecrator",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/consecrator_throwing",
+                        "base": "item/cit/consecrator_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/consecrator",
+                        "base": "item/cit/consecrator"
+                    }
+                }
+            },
+            {
+                "when": "Trident of Charms",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_charms_throwing",
+                        "base": "item/cit/trident_of_charms_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_charms",
+                        "base": "item/cit/trident_of_charms"
+                    }
+                }
+            },
+            {
+                "when": "Quindent",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quindent_throwing",
+                        "base": "item/cit/quindent_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quindent",
+                        "base": "item/cit/quindent"
+                    }
+                }
+            },
+            {
+                "when": "Smouldering Snowveil",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/smouldering_snowveil_throwing",
+                        "base": "item/cit/smouldering_snowveil_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/smouldering_snowveil",
+                        "base": "item/cit/smouldering_snowveil"
+                    }
+                }
+            },
+            {
+                "when": "Dragon Claw",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dragon_claw_throwing",
+                        "base": "item/cit/dragon_claw_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dragon_claw",
+                        "base": "item/cit/dragon_claw"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "The Queen's Relic",
+                    "The Queens Relic"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/the_queens_relic_throwing",
+                        "base": "item/cit/the_queens_relic_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/the_queens_relic",
+                        "base": "item/cit/the_queens_relic"
+                    }
+                }
+            },
+            {
+                "when": "Dangpa",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dangpa_throwing",
+                        "base": "item/cit/dangpa_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dangpa",
+                        "base": "item/cit/dangpa"
+                    }
+                }
+            },
+            {
+                "when": "Ruby Reverence",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_reverence_throwing",
+                        "base": "item/cit/ruby_reverence_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_reverence",
+                        "base": "item/cit/ruby_reverence"
+                    }
+                }
+            },
+            {
+                "when": "Paramount",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/paramount_throwing",
+                        "base": "item/cit/paramount_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/paramount",
+                        "base": "item/cit/paramount"
+                    }
+                }
+            },
+            {
+                "when": "Diatonic Druse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diatonic_druse_throwing",
+                        "base": "item/cit/diatonic_druse_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diatonic_druse",
+                        "base": "item/cit/diatonic_druse"
+                    }
+                }
+            },
+            {
+                "when": "Bident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bident_throwing",
+                        "base": "item/cit/bident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bident",
+                        "base": "item/cit/bident"
+                    }
+                }
+            },
+            {
+                "when": "Forked Lightning",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/forked_lightning_throwing",
+                        "base": "item/cit/forked_lightning_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/forked_lightning",
+                        "base": "item/cit/forked_lightning"
+                    }
+                }
+            },
+            {
+                "when": "Verdigris Bident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/verdigris_bident_throwing",
+                        "base": "item/cit/verdigris_bident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/verdigris_bident",
+                        "base": "item/cit/verdigris_bident"
+                    }
+                }
+            },
+            {
+                "when": "Corrupted Bident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_bident_throwing",
+                        "base": "item/cit/corrupted_bident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_bident",
+                        "base": "item/cit/corrupted_bident"
+                    }
+                }
+            },
+            {
+                "when": "Royal Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/royal_trident_throwing",
+                        "base": "item/cit/royal_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/royal_trident",
+                        "base": "item/cit/royal_trident"
+                    }
+                }
+            },
+            {
+                "when": "Kingdom Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/kingdom_trident_throwing",
+                        "base": "item/cit/kingdom_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/kingdom_trident",
+                        "base": "item/cit/kingdom_trident"
+                    }
+                }
+            },
+            {
+                "when": "Trident of Chaos",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_chaos_throwing",
+                        "base": "item/cit/trident_of_chaos_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_chaos",
+                        "base": "item/cit/trident_of_chaos"
+                    }
+                }
+            },
+            {
+                "when": "Healing Grace",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/healing_grace_throwing",
+                        "base": "item/cit/healing_grace_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/healing_grace",
+                        "base": "item/cit/healing_grace"
+                    }
+                }
+            },
+            {
+                "when": "Pike",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pike_throwing",
+                        "base": "item/cit/pike_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pike",
+                        "base": "item/cit/pike"
+                    }
+                }
+            },
+            {
+                "when": "Spear of the Ring",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear_of_the_ring_throwing",
+                        "base": "item/cit/spear_of_the_ring_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear_of_the_ring",
+                        "base": "item/cit/spear_of_the_ring"
+                    }
+                }
+            },
+            {
+                "when": "Constancy Pike",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/constancy_pike_throwing",
+                        "base": "item/cit/constancy_pike_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/constancy_pike",
+                        "base": "item/cit/constancy_pike"
+                    }
+                }
+            },
+            {
+                "when": "Burning Boughs",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/burning_boughs_throwing",
+                        "base": "item/cit/burning_boughs_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/burning_boughs",
+                        "base": "item/cit/burning_boughs"
+                    }
+                }
+            },
+            {
+                "when": "Voulge",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/voulge_throwing",
+                        "base": "item/cit/voulge_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/voulge",
+                        "base": "item/cit/voulge"
+                    }
+                }
+            },
+            {
+                "when": "Nefarious Edge",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nefarious_edge_throwing",
+                        "base": "item/cit/nefarious_edge_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nefarious_edge",
+                        "base": "item/cit/nefarious_edge"
+                    }
+                }
+            },
+            {
+                "when": "Warrior Voulge",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/warrior_voulge_throwing",
+                        "base": "item/cit/warrior_voulge_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/warrior_voulge",
+                        "base": "item/cit/warrior_voulge"
+                    }
+                }
+            },
+            {
+                "when": "Lunation",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lunation_throwing",
+                        "base": "item/cit/lunation_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lunation",
+                        "base": "item/cit/lunation"
+                    }
+                }
+            },
+            {
+                "when": "Partisan",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/partisan_throwing",
+                        "base": "item/cit/partisan_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/partisan",
+                        "base": "item/cit/partisan"
+                    }
+                }
+            },
+            {
+                "when": "Flame Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/flame_spear_throwing",
+                        "base": "item/cit/flame_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/flame_spear",
+                        "base": "item/cit/flame_spear"
+                    }
+                }
+            },
+            {
+                "when": "Noctivagant",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/noctivagant_throwing",
+                        "base": "item/cit/noctivagant_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/noctivagant",
+                        "base": "item/cit/noctivagant"
+                    }
+                }
+            },
+            {
+                "when": "Copper Conductor",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/copper_conductor_throwing",
+                        "base": "item/cit/copper_conductor_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/copper_conductor",
+                        "base": "item/cit/copper_conductor"
+                    }
+                }
+            },
+            {
+                "when": "Harpoon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/harpoon_throwing",
+                        "base": "item/cit/harpoon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/harpoon",
+                        "base": "item/cit/harpoon"
+                    }
+                }
+            },
+            {
+                "when": "Magenta Mire",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/magenta_mire_throwing",
+                        "base": "item/cit/magenta_mire_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/magenta_mire",
+                        "base": "item/cit/magenta_mire"
+                    }
+                }
+            },
+            {
+                "when": "Interlinked Harpoon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/interlinked_harpoon_throwing",
+                        "base": "item/cit/interlinked_harpoon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/interlinked_harpoon",
+                        "base": "item/cit/interlinked_harpoon"
+                    }
+                }
+            },
+            {
+                "when": "Red Sidewinder",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/red_sidewinder_throwing",
+                        "base": "item/cit/red_sidewinder_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/red_sidewinder",
+                        "base": "item/cit/red_sidewinder"
+                    }
+                }
+            },
+            {
+                "when": "Pudao",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pudao_throwing",
+                        "base": "item/cit/pudao_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pudao",
+                        "base": "item/cit/pudao"
+                    }
+                }
+            },
+            {
+                "when": "Mind Bender",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mind_bender_throwing",
+                        "base": "item/cit/mind_bender_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mind_bender",
+                        "base": "item/cit/mind_bender"
+                    }
+                }
+            },
+            {
+                "when": "Glaive of Jade",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glaive_of_jade_throwing",
+                        "base": "item/cit/glaive_of_jade_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glaive_of_jade",
+                        "base": "item/cit/glaive_of_jade"
+                    }
+                }
+            },
+            {
+                "when": "Unbreakable Edge",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/unbreakable_edge_throwing",
+                        "base": "item/cit/unbreakable_edge_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/unbreakable_edge",
+                        "base": "item/cit/unbreakable_edge"
+                    }
+                }
+            },
+            {
+                "when": "Ranseur",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ranseur_throwing",
+                        "base": "item/cit/ranseur_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ranseur",
+                        "base": "item/cit/ranseur"
+                    }
+                }
+            },
+            {
+                "when": "Riven Fire",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/riven_fire_throwing",
+                        "base": "item/cit/riven_fire_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/riven_fire",
+                        "base": "item/cit/riven_fire"
+                    }
+                }
+            },
+            {
+                "when": "Desert Defender",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/desert_defender_throwing",
+                        "base": "item/cit/desert_defender_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/desert_defender",
+                        "base": "item/cit/desert_defender"
+                    }
+                }
+            },
+            {
+                "when": "All Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/all_spear_throwing",
+                        "base": "item/cit/all_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/all_spear",
+                        "base": "item/cit/all_spear"
+                    }
+                }
+            },
+            {
+                "when": "Soul Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_trident_throwing",
+                        "base": "item/cit/soul_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_trident",
+                        "base": "item/cit/soul_trident"
+                    }
+                }
+            },
+            {
+                "when": "Netherite Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/netherite_trident_throwing",
+                        "base": "item/cit/netherite_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/netherite_trident",
+                        "base": "item/cit/netherite_trident"
+                    }
+                }
+            },
+            {
+                "when": "World Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/world_trident_throwing",
+                        "base": "item/cit/world_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/world_trident",
+                        "base": "item/cit/world_trident"
+                    }
+                }
+            },
+            {
+                "when": "Cerise Regalia",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cerise_regalia_throwing",
+                        "base": "item/cit/cerise_regalia_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cerise_regalia",
+                        "base": "item/cit/cerise_regalia"
+                    }
+                }
+            },
+            {
+                "when": "Curved Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/curved_spear_throwing",
+                        "base": "item/cit/curved_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/curved_spear",
+                        "base": "item/cit/curved_spear"
+                    }
+                }
+            },
+            {
+                "when": "Calming Reservoir",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/calming_reservoir_throwing",
+                        "base": "item/cit/calming_reservoir_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/calming_reservoir",
+                        "base": "item/cit/calming_reservoir"
+                    }
+                }
+            },
+            {
+                "when": "Spear of the Stars",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear_of_the_stars_throwing",
+                        "base": "item/cit/spear_of_the_stars_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spear_of_the_stars",
+                        "base": "item/cit/spear_of_the_stars"
+                    }
+                }
+            },
+            {
+                "when": "Gamma Point",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gamma_point_throwing",
+                        "base": "item/cit/gamma_point_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gamma_point",
+                        "base": "item/cit/gamma_point"
+                    }
+                }
+            },
+            {
+                "when": "Pitchfork",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pitchfork_throwing",
+                        "base": "item/cit/pitchfork_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/pitchfork",
+                        "base": "item/cit/pitchfork"
+                    }
+                }
+            },
+            {
+                "when": "Agroforestry",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/agroforestry_throwing",
+                        "base": "item/cit/agroforestry_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/agroforestry",
+                        "base": "item/cit/agroforestry"
+                    }
+                }
+            },
+            {
+                "when": "Veiled Fork",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/veiled_fork_throwing",
+                        "base": "item/cit/veiled_fork_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/veiled_fork",
+                        "base": "item/cit/veiled_fork"
+                    }
+                }
+            },
+            {
+                "when": "Mystic Blossom",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mystic_blossom_throwing",
+                        "base": "item/cit/mystic_blossom_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mystic_blossom",
+                        "base": "item/cit/mystic_blossom"
+                    }
+                }
+            },
+            {
+                "when": "Spetum",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spetum_throwing",
+                        "base": "item/cit/spetum_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spetum",
+                        "base": "item/cit/spetum"
+                    }
+                }
+            },
+            {
+                "when": "Accreting Frost",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/accreting_frost_throwing",
+                        "base": "item/cit/accreting_frost_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/accreting_frost",
+                        "base": "item/cit/accreting_frost"
+                    }
+                }
+            },
+            {
+                "when": "Redstone Spetum",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/redstone_spetum_throwing",
+                        "base": "item/cit/redstone_spetum_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/redstone_spetum",
+                        "base": "item/cit/redstone_spetum"
+                    }
+                }
+            },
+            {
+                "when": "Angel Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/angel_spear_throwing",
+                        "base": "item/cit/angel_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/angel_spear",
+                        "base": "item/cit/angel_spear"
+                    }
+                }
+            },
+            {
+                "when": "Dungeons Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_throwing",
+                        "base": "item/cit/trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident",
+                        "base": "item/cit/trident"
+                    }
+                }
+            },
+            {
+                "when": "Rouge Riptide",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rouge_riptide_throwing",
+                        "base": "item/cit/rouge_riptide_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rouge_riptide",
+                        "base": "item/cit/rouge_riptide"
+                    }
+                }
+            },
+            {
+                "when": "Victory of Gold",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/victory_of_gold_throwing",
+                        "base": "item/cit/victory_of_gold_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/victory_of_gold",
+                        "base": "item/cit/victory_of_gold"
+                    }
+                }
+            },
+            {
+                "when": "Cascade",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cascade_throwing",
+                        "base": "item/cit/cascade_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cascade",
+                        "base": "item/cit/cascade"
+                    }
+                }
+            },
+            {
+                "when": "Casting Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/casting_trident_throwing",
+                        "base": "item/cit/casting_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/casting_trident",
+                        "base": "item/cit/casting_trident"
+                    }
+                }
+            },
+            {
+                "when": "Drowned Necromancer Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/drowned_necromancer_trident_throwing",
+                        "base": "item/cit/drowned_necromancer_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/drowned_necromancer_trident",
+                        "base": "item/cit/drowned_necromancer_trident"
+                    }
+                }
+            },
+            {
+                "when": "Event Horizon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/event_horizon_throwing",
+                        "base": "item/cit/event_horizon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/event_horizon",
+                        "base": "item/cit/event_horizon"
+                    }
+                }
+            },
+            {
+                "when": "Trident of the Blaze",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_the_blaze_throwing",
+                        "base": "item/cit/trident_of_the_blaze_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/trident_of_the_blaze",
+                        "base": "item/cit/trident_of_the_blaze"
+                    }
+                }
+            },
+            {
+                "when": "Wretched Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wretched_trident_throwing",
+                        "base": "item/cit/wretched_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wretched_trident",
+                        "base": "item/cit/wretched_trident"
+                    }
+                }
+            },
+            {
+                "when": "Auroral Apex",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/auroral_apex_throwing",
+                        "base": "item/cit/auroral_apex_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/auroral_apex",
+                        "base": "item/cit/auroral_apex"
+                    }
+                }
+            },
+            {
+                "when": "Dwindling Dead",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dwindling_dead_throwing",
+                        "base": "item/cit/dwindling_dead_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dwindling_dead",
+                        "base": "item/cit/dwindling_dead"
+                    }
+                }
+            },
+            {
+                "when": "Quiet Glade",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quiet_glade_throwing",
+                        "base": "item/cit/quiet_glade_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quiet_glade",
+                        "base": "item/cit/quiet_glade"
+                    }
+                }
+            },
+            {
+                "when": "Broad Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/broad_trident_throwing",
+                        "base": "item/cit/broad_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/broad_trident",
+                        "base": "item/cit/broad_trident"
+                    }
+                }
+            },
+            {
+                "when": "Dark Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dark_trident_throwing",
+                        "base": "item/cit/dark_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dark_trident",
+                        "base": "item/cit/dark_trident"
+                    }
+                }
+            },
+            {
+                "when": "Tornado Trident",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tornado_trident_throwing",
+                        "base": "item/cit/tornado_trident_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tornado_trident",
+                        "base": "item/cit/tornado_trident"
+                    }
+                }
+            },
+            {
+                "when": "Sun Spire",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sun_spire_throwing",
+                        "base": "item/cit/sun_spire_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sun_spire",
+                        "base": "item/cit/sun_spire"
+                    }
+                }
+            },
+            {
+                "when": "Tomahawk",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tomahawk_throwing",
+                        "base": "item/cit/tomahawk_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/tomahawk",
+                        "base": "item/cit/tomahawk"
+                    }
+                }
+            },
+            {
+                "when": "Ruby Tomahawk",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_tomahawk_throwing",
+                        "base": "item/cit/ruby_tomahawk_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_tomahawk",
+                        "base": "item/cit/ruby_tomahawk"
+                    }
+                }
+            },
+            {
+                "when": "Soaring Midnight",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soaring_midnight_throwing",
+                        "base": "item/cit/soaring_midnight_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soaring_midnight",
+                        "base": "item/cit/soaring_midnight"
+                    }
+                }
+            },
+            {
+                "when": "Hollow Tomahawk",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/hollow_tomahawk_throwing",
+                        "base": "item/cit/hollow_tomahawk_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/hollow_tomahawk",
+                        "base": "item/cit/hollow_tomahawk"
+                    }
+                }
+            },
+            {
+                "when": "Frostbitten",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frostbitten_throwing",
+                        "base": "item/cit/frostbitten_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frostbitten",
+                        "base": "item/cit/frostbitten"
+                    }
+                }
+            },
+            {
+                "when": "Thunderclap",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/thunderclap_throwing",
+                        "base": "item/cit/thunderclap_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/thunderclap",
+                        "base": "item/cit/thunderclap"
+                    }
+                }
+            },
+            {
+                "when": "Corrupted Tomahawk",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_tomahawk_throwing",
+                        "base": "item/cit/corrupted_tomahawk_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_tomahawk",
+                        "base": "item/cit/corrupted_tomahawk"
+                    }
+                }
+            },
+            {
+                "when": "Stipule Tomahawk",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stipule_tomahawk_throwing",
+                        "base": "item/cit/stipule_tomahawk_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stipule_tomahawk",
+                        "base": "item/cit/stipule_tomahawk"
+                    }
+                }
+            },
+            {
+                "when": "Boomerang",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/boomerang_throwing",
+                        "base": "item/cit/boomerang_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/boomerang",
+                        "base": "item/cit/boomerang"
+                    }
+                }
+            },
+            {
+                "when": "Spinblade",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spinblade_throwing",
+                        "base": "item/cit/spinblade_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spinblade",
+                        "base": "item/cit/spinblade"
+                    }
+                }
+            },
+            {
+                "when": "Lush Boomerang",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lush_boomerang_throwing",
+                        "base": "item/cit/lush_boomerang_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lush_boomerang",
+                        "base": "item/cit/lush_boomerang"
+                    }
+                }
+            },
+            {
+                "when": "Lightning Crash",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lightning_crash_throwing",
+                        "base": "item/cit/lightning_crash_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lightning_crash",
+                        "base": "item/cit/lightning_crash"
+                    }
+                }
+            },
+            {
+                "when": "Weeping Twister",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/weeping_twister_throwing",
+                        "base": "item/cit/weeping_twister_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/weeping_twister",
+                        "base": "item/cit/weeping_twister"
+                    }
+                }
+            },
+            {
+                "when": "Rhodolite Boomerang",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_boomerang_throwing",
+                        "base": "item/cit/rhodolite_boomerang_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rhodolite_boomerang",
+                        "base": "item/cit/rhodolite_boomerang"
+                    }
+                }
+            },
+            {
+                "when": "Cursed Boomerang",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cursed_boomerang_throwing",
+                        "base": "item/cit/cursed_boomerang_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cursed_boomerang",
+                        "base": "item/cit/cursed_boomerang"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Daggers",
+                    "Dagger"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/daggers_throwing",
+                        "base": "item/cit/daggers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/daggers",
+                        "base": "item/cit/daggers"
+                    }
+                }
+            },
+            {
+                "when": "Fangs of Frost",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fangs_of_frost_throwing",
+                        "base": "item/cit/fangs_of_frost_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fangs_of_frost",
+                        "base": "item/cit/fangs_of_frost"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Moon Daggers",
+                    "Moon Dagger"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/moon_daggers_throwing",
+                        "base": "item/cit/moon_daggers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/moon_daggers",
+                        "base": "item/cit/moon_daggers"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Sheer Daggers",
+                    "Sheer Dagger"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sheer_daggers_throwing",
+                        "base": "item/cit/sheer_daggers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sheer_daggers",
+                        "base": "item/cit/sheer_daggers"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Rubedo Tusks",
+                    "Rubedo Tusk"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_tusks_throwing",
+                        "base": "item/cit/rubedo_tusks_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_tusks",
+                        "base": "item/cit/rubedo_tusks"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Perish Bones",
+                    "Perish Bone"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/perish_bones_throwing",
+                        "base": "item/cit/perish_bones_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/perish_bones",
+                        "base": "item/cit/perish_bones"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Blazing Blades",
+                    "Blazing Blade"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blazing_blades_throwing",
+                        "base": "item/cit/blazing_blades_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blazing_blades",
+                        "base": "item/cit/blazing_blades"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Nucleic Daggers",
+                    "Nucleic Dagger"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nucleic_daggers_throwing",
+                        "base": "item/cit/nucleic_daggers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nucleic_daggers",
+                        "base": "item/cit/nucleic_daggers"
+                    }
+                }
+            },
+            {
+                "when": [
+                    "Redstone Daggers",
+                    "Redstone Dagger"
+                ],
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/redstone_daggers_throwing",
+                        "base": "item/cit/redstone_daggers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/redstone_daggers",
+                        "base": "item/cit/redstone_daggers"
+                    }
+                }
+            },
+            {
+                "when": "Backstabber",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/backstabber_throwing",
+                        "base": "item/cit/backstabber_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/backstabber",
+                        "base": "item/cit/backstabber"
+                    }
+                }
+            },
+            {
+                "when": "Backstabber Reverse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/backstabber_throwing",
+                        "base": "item/cit/backstabber_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/backstabber_reverse",
+                        "base": "item/cit/backstabber_reverse"
+                    }
+                }
+            },
+            {
+                "when": "Swift Striker",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swift_striker_throwing",
+                        "base": "item/cit/swift_striker_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swift_striker",
+                        "base": "item/cit/swift_striker"
+                    }
+                }
+            },
+            {
+                "when": "Swift Striker Reverse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swift_striker_throwing",
+                        "base": "item/cit/swift_striker_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swift_striker_reverse",
+                        "base": "item/cit/swift_striker_reverse"
+                    }
+                }
+            },
+            {
+                "when": "Scarlet Xiphos",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scarlet_xiphos_throwing",
+                        "base": "item/cit/scarlet_xiphos_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scarlet_xiphos",
+                        "base": "item/cit/scarlet_xiphos"
+                    }
+                }
+            },
+            {
+                "when": "Scarlet Xiphos Reverse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scarlet_xiphos_throwing",
+                        "base": "item/cit/scarlet_xiphos_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/scarlet_xiphos_reverse",
+                        "base": "item/cit/scarlet_xiphos_reverse"
+                    }
+                }
+            },
+            {
+                "when": "Electro Swing",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/electro_swing_throwing",
+                        "base": "item/cit/electro_swing_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/electro_swing",
+                        "base": "item/cit/electro_swing"
+                    }
+                }
+            },
+            {
+                "when": "Soul Stabber",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_stabber_throwing",
+                        "base": "item/cit/soul_stabber_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_stabber",
+                        "base": "item/cit/soul_stabber"
+                    }
+                }
+            },
+            {
+                "when": "Soul Stabber Reverse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_stabber_throwing",
+                        "base": "item/cit/soul_stabber_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/soul_stabber_reverse",
+                        "base": "item/cit/soul_stabber_reverse"
+                    }
+                }
+            },
+            {
+                "when": "Floral Gasher",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/floral_gasher_throwing",
+                        "base": "item/cit/floral_gasher_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/floral_gasher",
+                        "base": "item/cit/floral_gasher"
+                    }
+                }
+            },
+            {
+                "when": "Floral Gasher Reverse",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/floral_gasher_throwing",
+                        "base": "item/cit/floral_gasher_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/floral_gasher_reverse",
+                        "base": "item/cit/floral_gasher_reverse"
+                    }
+                }
+            },
+            {
+                "when": "Earspoon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/earspoon_throwing",
+                        "base": "item/cit/earspoon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/earspoon",
+                        "base": "item/cit/earspoon"
+                    }
+                }
+            },
+            {
+                "when": "Javelin",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/javelin_throwing",
+                        "base": "item/cit/javelin_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/javelin",
+                        "base": "item/cit/javelin"
+                    }
+                }
+            },
+            {
+                "when": "Heavy Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/heavy_spear_throwing",
+                        "base": "item/cit/heavy_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/heavy_spear",
+                        "base": "item/cit/heavy_spear"
+                    }
+                }
+            },
+            {
+                "when": "Langdebeve",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/langdebeve_throwing",
+                        "base": "item/cit/langdebeve_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/langdebeve",
+                        "base": "item/cit/langdebeve"
+                    }
+                }
+            },
+            {
+                "when": "Sarissa",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sarissa_throwing",
+                        "base": "item/cit/sarissa_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sarissa",
+                        "base": "item/cit/sarissa"
+                    }
+                }
+            },
+            {
+                "when": "Swordstaff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swordstaff_throwing",
+                        "base": "item/cit/swordstaff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swordstaff",
+                        "base": "item/cit/swordstaff"
+                    }
+                }
+            },
+            {
+                "when": "Naginata",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/naginata_throwing",
+                        "base": "item/cit/naginata_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/naginata",
+                        "base": "item/cit/naginata"
+                    }
+                }
+            },
+            {
+                "when": "Ngao",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ngao_throwing",
+                        "base": "item/cit/ngao_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ngao",
+                        "base": "item/cit/ngao"
+                    }
+                }
+            },
+            {
+                "when": "Double Halberd",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/double_halberd_throwing",
+                        "base": "item/cit/double_halberd_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/double_halberd",
+                        "base": "item/cit/double_halberd"
+                    }
+                }
+            },
+            {
+                "when": "Bec de Corbin",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bec_de_corbin_throwing",
+                        "base": "item/cit/bec_de_corbin_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bec_de_corbin",
+                        "base": "item/cit/bec_de_corbin"
+                    }
+                }
+            },
+            {
+                "when": "Dungeons Diamond Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diamond_spear_throwing",
+                        "base": "item/cit/diamond_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diamond_spear",
+                        "base": "item/cit/diamond_spear"
+                    }
+                }
+            },
+            {
+                "when": "Dungeons Golden Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/golden_spear_throwing",
+                        "base": "item/cit/golden_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/golden_spear",
+                        "base": "item/cit/golden_spear"
+                    }
+                }
+            },
+            {
+                "when": "War Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/war_axe_throwing",
+                        "base": "item/cit/war_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/war_axe",
+                        "base": "item/cit/war_axe"
+                    }
+                }
+            },
+            {
+                "when": "War Hammer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/war_hammer_throwing",
+                        "base": "item/cit/war_hammer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/war_hammer",
+                        "base": "item/cit/war_hammer"
+                    }
+                }
+            },
+            {
+                "when": "Arcane Crystal",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/arcane_crystal_throwing",
+                        "base": "item/cit/arcane_crystal_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/arcane_crystal",
+                        "base": "item/cit/arcane_crystal"
+                    }
+                }
+            },
+            {
+                "when": "Beta Ray Breaker",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/beta_ray_breaker_throwing",
+                        "base": "item/cit/beta_ray_breaker_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/beta_ray_breaker",
+                        "base": "item/cit/beta_ray_breaker"
+                    }
+                }
+            },
+            {
+                "when": "Blitzing Thunder",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blitzing_thunder_throwing",
+                        "base": "item/cit/blitzing_thunder_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/blitzing_thunder",
+                        "base": "item/cit/blitzing_thunder"
+                    }
+                }
+            },
+            {
+                "when": "Botanical Harpoon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/botanical_harpoon_throwing",
+                        "base": "item/cit/botanical_harpoon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/botanical_harpoon",
+                        "base": "item/cit/botanical_harpoon"
+                    }
+                }
+            },
+            {
+                "when": "Bridge Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bridge_axe_throwing",
+                        "base": "item/cit/bridge_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/bridge_axe",
+                        "base": "item/cit/bridge_axe"
+                    }
+                }
+            },
+            {
+                "when": "Brimstone Rend",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/brimstone_rend_throwing",
+                        "base": "item/cit/brimstone_rend_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/brimstone_rend",
+                        "base": "item/cit/brimstone_rend"
+                    }
+                }
+            },
+            {
+                "when": "Candelabra",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/candelabra_throwing",
+                        "base": "item/cit/candelabra_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/candelabra",
+                        "base": "item/cit/candelabra"
+                    }
+                }
+            },
+            {
+                "when": "Castle Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/castle_axe_throwing",
+                        "base": "item/cit/castle_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/castle_axe",
+                        "base": "item/cit/castle_axe"
+                    }
+                }
+            },
+            {
+                "when": "Cerise Stabber",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cerise_stabber_throwing",
+                        "base": "item/cit/cerise_stabber_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/cerise_stabber",
+                        "base": "item/cit/cerise_stabber"
+                    }
+                }
+            },
+            {
+                "when": "Combining Crucible",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/combining_crucible_throwing",
+                        "base": "item/cit/combining_crucible_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/combining_crucible",
+                        "base": "item/cit/combining_crucible"
+                    }
+                }
+            },
+            {
+                "when": "Corrupted Combat",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_combat_throwing",
+                        "base": "item/cit/corrupted_combat_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/corrupted_combat",
+                        "base": "item/cit/corrupted_combat"
+                    }
+                }
+            },
+            {
+                "when": "Creation Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/creation_glaive_throwing",
+                        "base": "item/cit/creation_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/creation_glaive",
+                        "base": "item/cit/creation_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Dark Javelin",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dark_javelin_throwing",
+                        "base": "item/cit/dark_javelin_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/dark_javelin",
+                        "base": "item/cit/dark_javelin"
+                    }
+                }
+            },
+            {
+                "when": "Diaphysis Destroyer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diaphysis_destroyer_throwing",
+                        "base": "item/cit/diaphysis_destroyer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diaphysis_destroyer",
+                        "base": "item/cit/diaphysis_destroyer"
+                    }
+                }
+            },
+            {
+                "when": "Diving Falcon",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diving_falcon_throwing",
+                        "base": "item/cit/diving_falcon_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/diving_falcon",
+                        "base": "item/cit/diving_falcon"
+                    }
+                }
+            },
+            {
+                "when": "Draconis Wing",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/draconis_wing_throwing",
+                        "base": "item/cit/draconis_wing_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/draconis_wing",
+                        "base": "item/cit/draconis_wing"
+                    }
+                }
+            },
+            {
+                "when": "Drowned Sarissa",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/drowned_sarissa_throwing",
+                        "base": "item/cit/drowned_sarissa_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/drowned_sarissa",
+                        "base": "item/cit/drowned_sarissa"
+                    }
+                }
+            },
+            {
+                "when": "Elucidate",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/elucidate_throwing",
+                        "base": "item/cit/elucidate_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/elucidate",
+                        "base": "item/cit/elucidate"
+                    }
+                }
+            },
+            {
+                "when": "Emerald Partisan",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emerald_partisan_throwing",
+                        "base": "item/cit/emerald_partisan_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/emerald_partisan",
+                        "base": "item/cit/emerald_partisan"
+                    }
+                }
+            },
+            {
+                "when": "Extinguishing Torch",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/extinguishing_torch_throwing",
+                        "base": "item/cit/extinguishing_torch_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/extinguishing_torch",
+                        "base": "item/cit/extinguishing_torch"
+                    }
+                }
+            },
+            {
+                "when": "Fimbulwinter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fimbulwinter_throwing",
+                        "base": "item/cit/fimbulwinter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/fimbulwinter",
+                        "base": "item/cit/fimbulwinter"
+                    }
+                }
+            },
+            {
+                "when": "Flying Bastion",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/flying_bastion_throwing",
+                        "base": "item/cit/flying_bastion_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/flying_bastion",
+                        "base": "item/cit/flying_bastion"
+                    }
+                }
+            },
+            {
+                "when": "Forsaken Stake",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/forsaken_stake_throwing",
+                        "base": "item/cit/forsaken_stake_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/forsaken_stake",
+                        "base": "item/cit/forsaken_stake"
+                    }
+                }
+            },
+            {
+                "when": "Frost Piercer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frost_piercer_throwing",
+                        "base": "item/cit/frost_piercer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frost_piercer",
+                        "base": "item/cit/frost_piercer"
+                    }
+                }
+            },
+
+            {
+                "when": "Frozen Voices",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frozen_voices_throwing",
+                        "base": "item/cit/frozen_voices_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/frozen_voices",
+                        "base": "item/cit/frozen_voices"
+                    }
+                }
+            },
+            {
+                "when": "Giant Battle Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/giant_battle_axe_throwing",
+                        "base": "item/cit/giant_battle_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/giant_battle_axe",
+                        "base": "item/cit/giant_battle_axe"
+                    }
+                }
+            },
+            {
+                "when": "Glow Cutter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glow_cutter_throwing",
+                        "base": "item/cit/glow_cutter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/glow_cutter",
+                        "base": "item/cit/glow_cutter"
+                    }
+                }
+            },
+
+            {
+                "when": "Gnarled Gloam",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gnarled_gloam_throwing",
+                        "base": "item/cit/gnarled_gloam_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gnarled_gloam",
+                        "base": "item/cit/gnarled_gloam"
+                    }
+                }
+            },
+            {
+                "when": "Goal Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/goal_axe_throwing",
+                        "base": "item/cit/goal_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/goal_axe",
+                        "base": "item/cit/goal_axe"
+                    }
+                }
+            },
+            {
+                "when": "Gravity War Hammer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gravity_war_hammer_throwing",
+                        "base": "item/cit/gravity_war_hammer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/gravity_war_hammer",
+                        "base": "item/cit/gravity_war_hammer"
+                    }
+                }
+            },
+            {
+                "when": "Ice Fire",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ice_fire_throwing",
+                        "base": "item/cit/ice_fire_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ice_fire",
+                        "base": "item/cit/ice_fire"
+                    }
+                }
+            },
+            {
+                "when": "Incandescent Impaler",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/incandescent_impaler_throwing",
+                        "base": "item/cit/incandescent_impaler_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/incandescent_impaler",
+                        "base": "item/cit/incandescent_impaler"
+                    }
+                }
+            },
+            {
+                "when": "Intergalaxia",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/intergalaxia_throwing",
+                        "base": "item/cit/intergalaxia_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/intergalaxia",
+                        "base": "item/cit/intergalaxia"
+                    }
+                }
+            },
+            {
+                "when": "Lifestealer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lifestealer_throwing",
+                        "base": "item/cit/lifestealer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lifestealer",
+                        "base": "item/cit/lifestealer"
+                    }
+                }
+            },
+            {
+                "when": "Lunging Lapis",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lunging_lapis_throwing",
+                        "base": "item/cit/lunging_lapis_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/lunging_lapis",
+                        "base": "item/cit/lunging_lapis"
+                    }
+                }
+            },
+            {
+                "when": "Magical Glaive",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/magical_glaive_throwing",
+                        "base": "item/cit/magical_glaive_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/magical_glaive",
+                        "base": "item/cit/magical_glaive"
+                    }
+                }
+            },
+            {
+                "when": "Mana Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mana_spear_throwing",
+                        "base": "item/cit/mana_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/mana_spear",
+                        "base": "item/cit/mana_spear"
+                    }
+                }
+            },
+            {
+                "when": "Might of the Warrior",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/might_of_the_warrior_throwing",
+                        "base": "item/cit/might_of_the_warrior_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/might_of_the_warrior",
+                        "base": "item/cit/might_of_the_warrior"
+                    }
+                }
+            },
+            {
+                "when": "Nameless Axe",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nameless_axe_throwing",
+                        "base": "item/cit/nameless_axe_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nameless_axe",
+                        "base": "item/cit/nameless_axe"
+                    }
+                }
+            },
+            {
+                "when": "Nanocurrent Naginata",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nanocurrent_naginata_throwing",
+                        "base": "item/cit/nanocurrent_naginata_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/nanocurrent_naginata",
+                        "base": "item/cit/nanocurrent_naginata"
+                    }
+                }
+            },
+            {
+                "when": "Dungeons Netherite Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/netherite_spear_throwing",
+                        "base": "item/cit/netherite_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/netherite_spear",
+                        "base": "item/cit/netherite_spear"
+                    }
+                }
+            },
+            {
+                "when": "Polished Fracture",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/polished_fracture_throwing",
+                        "base": "item/cit/polished_fracture_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/polished_fracture",
+                        "base": "item/cit/polished_fracture"
+                    }
+                }
+            },
+            {
+                "when": "Prism Piercer",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/prism_piercer_throwing",
+                        "base": "item/cit/prism_piercer_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/prism_piercer",
+                        "base": "item/cit/prism_piercer"
+                    }
+                }
+            },
+            {
+                "when": "Quartz Cluster",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quartz_cluster_throwing",
+                        "base": "item/cit/quartz_cluster_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/quartz_cluster",
+                        "base": "item/cit/quartz_cluster"
+                    }
+                }
+            },
+            {
+                "when": "Raging Volcano Storm",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/raging_volcano_storm_throwing",
+                        "base": "item/cit/raging_volcano_storm_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/raging_volcano_storm",
+                        "base": "item/cit/raging_volcano_storm"
+                    }
+                }
+            },
+            {
+                "when": "Retina Ranseur",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/retina_ranseur_throwing",
+                        "base": "item/cit/retina_ranseur_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/retina_ranseur",
+                        "base": "item/cit/retina_ranseur"
+                    }
+                }
+            },
+            {
+                "when": "Rubedo Cuspid",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_cuspid_throwing",
+                        "base": "item/cit/rubedo_cuspid_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/rubedo_cuspid",
+                        "base": "item/cit/rubedo_cuspid"
+                    }
+                }
+            },
+            {
+                "when": "Ruby Faceter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_faceter_throwing",
+                        "base": "item/cit/ruby_faceter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/ruby_faceter",
+                        "base": "item/cit/ruby_faceter"
+                    }
+                }
+            },
+            {
+                "when": "Sacrament Swordstaff",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sacrament_swordstaff_throwing",
+                        "base": "item/cit/sacrament_swordstaff_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sacrament_swordstaff",
+                        "base": "item/cit/sacrament_swordstaff"
+                    }
+                }
+            },
+            {
+                "when": "Shroomlight Thruster",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/shroomlight_thruster_throwing",
+                        "base": "item/cit/shroomlight_thruster_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/shroomlight_thruster",
+                        "base": "item/cit/shroomlight_thruster"
+                    }
+                }
+            },
+            {
+                "when": "Sinopia Tethers",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sinopia_tethers_throwing",
+                        "base": "item/cit/sinopia_tethers_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sinopia_tethers",
+                        "base": "item/cit/sinopia_tethers"
+                    }
+                }
+            },
+            {
+                "when": "Spirit Hearth",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spirit_hearth_throwing",
+                        "base": "item/cit/spirit_hearth_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/spirit_hearth",
+                        "base": "item/cit/spirit_hearth"
+                    }
+                }
+            },
+            {
+                "when": "Sprawling Greens",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sprawling_greens_throwing",
+                        "base": "item/cit/sprawling_greens_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sprawling_greens",
+                        "base": "item/cit/sprawling_greens"
+                    }
+                }
+            },
+            {
+                "when": "Stone Cold",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stone_cold_throwing",
+                        "base": "item/cit/stone_cold_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/stone_cold",
+                        "base": "item/cit/stone_cold"
+                    }
+                }
+            },
+            {
+                "when": "Sundown Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sundown_spear_throwing",
+                        "base": "item/cit/sundown_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/sundown_spear",
+                        "base": "item/cit/sundown_spear"
+                    }
+                }
+            },
+            {
+                "when": "Supreme",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/supreme_throwing",
+                        "base": "item/cit/supreme_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/supreme",
+                        "base": "item/cit/supreme"
+                    }
+                }
+            },
+            {
+                "when": "Swordstaff of the Lord",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swordstaff_of_the_lord_throwing",
+                        "base": "item/cit/swordstaff_of_the_lord_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/swordstaff_of_the_lord",
+                        "base": "item/cit/swordstaff_of_the_lord"
+                    }
+                }
+            },
+            {
+                "when": "Updraft Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/updraft_spear_throwing",
+                        "base": "item/cit/updraft_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/updraft_spear",
+                        "base": "item/cit/updraft_spear"
+                    }
+                }
+            },
+            {
+                "when": "Valiant Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/valiant_spear_throwing",
+                        "base": "item/cit/valiant_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/valiant_spear",
+                        "base": "item/cit/valiant_spear"
+                    }
+                }
+            },
+            {
+                "when": "Veiled Spear",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/veiled_spear_throwing",
+                        "base": "item/cit/veiled_spear_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/veiled_spear",
+                        "base": "item/cit/veiled_spear"
+                    }
+                }
+            },
+            {
+                "when": "Vitreous Crystal",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/vitreous_crystal_throwing",
+                        "base": "item/cit/vitreous_crystal_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/vitreous_crystal",
+                        "base": "item/cit/vitreous_crystal"
+                    }
+                }
+            },
+            {
+                "when": "Voided Barbs",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/voided_barbs_throwing",
+                        "base": "item/cit/voided_barbs_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/voided_barbs",
+                        "base": "item/cit/voided_barbs"
+                    }
+                }
+            },
+            {
+                "when": "Warp Twister",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/warp_twister_throwing",
+                        "base": "item/cit/warp_twister_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/warp_twister",
+                        "base": "item/cit/warp_twister"
+                    }
+                }
+            },
+            {
+                "when": "Windcutter",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/windcutter_throwing",
+                        "base": "item/cit/windcutter_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/windcutter",
+                        "base": "item/cit/windcutter"
+                    }
+                }
+            },
+            {
+                "when": "Winter Airglow",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/winter_airglow_throwing",
+                        "base": "item/cit/winter_airglow_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/winter_airglow",
+                        "base": "item/cit/winter_airglow"
+                    }
+                }
+            },
+            {
+                "when": "World Forger",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/world_forger_throwing",
+                        "base": "item/cit/world_forger_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/world_forger",
+                        "base": "item/cit/world_forger"
+                    }
+                }
+            },
+            {
+                "when": "Worthy Regain",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/worthy_regain_throwing",
+                        "base": "item/cit/worthy_regain_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/worthy_regain",
+                        "base": "item/cit/worthy_regain"
+                    }
+                }
+            },
+            {
+                "when": "Wrath of Shadow Fire",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wrath_of_shadow_fire_throwing",
+                        "base": "item/cit/wrath_of_shadow_fire_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wrath_of_shadow_fire",
+                        "base": "item/cit/wrath_of_shadow_fire"
+                    }
+                }
+            },
+            {
+                "when": "Wyvern",
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wyvern_throwing",
+                        "base": "item/cit/wyvern_throwing"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/cit/wyvern",
+                        "base": "item/cit/wyvern"
+                    }
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:select",
+            "cases": [
+                {
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/trident"
+                    },
+                    "when": [
+                        "gui",
+                        "ground",
+                        "fixed"
+                    ]
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:condition",
+                "on_false": {
+                    "type": "minecraft:special",
+                    "base": "minecraft:item/trident_in_hand",
+                    "model": {
+                        "type": "minecraft:trident"
+                    }
+                },
+                "on_true": {
+                    "type": "minecraft:special",
+                    "base": "minecraft:item/trident_throwing",
+                    "model": {
+                        "type": "minecraft:trident"
+                    }
+                },
+                "property": "minecraft:using_item",
+      "transformation": {
+        "left_rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "right_rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "scale": [
+          1.0,
+          -1.0,
+          -1.0
+        ],
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+            },
+            "property": "minecraft:display_context"
+        }
+    }
+}

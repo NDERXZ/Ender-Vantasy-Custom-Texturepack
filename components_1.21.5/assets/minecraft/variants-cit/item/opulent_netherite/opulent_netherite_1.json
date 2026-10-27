@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "opulent_netherite/opulent_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Opulent Netherite Boots|Opulent Netherite Chestplate|Opulent Netherite Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

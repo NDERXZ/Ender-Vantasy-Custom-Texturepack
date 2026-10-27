@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/gemstone_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/gemstone_bow_pulling_2"
+  }
+}

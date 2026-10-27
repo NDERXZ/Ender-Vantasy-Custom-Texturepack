@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/stove_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/stove_blaster_pulling_1"
+  }
+}

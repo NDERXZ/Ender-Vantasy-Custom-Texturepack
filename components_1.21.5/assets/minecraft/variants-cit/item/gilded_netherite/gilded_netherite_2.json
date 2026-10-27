@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_leggings"],
+	"modelPrefix": "gilded_netherite/gilded_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Gilded Netherite Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

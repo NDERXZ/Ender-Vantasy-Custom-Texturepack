@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/crystal_launcher",
+  "textures": {
+    "layer0": "minecraft:item/cit/crystal_launcher_pulling_2"
+  }
+}

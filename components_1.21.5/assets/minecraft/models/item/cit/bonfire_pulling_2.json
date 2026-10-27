@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bonfire",
+  "textures": {
+    "layer0": "minecraft:item/cit/bonfire_pulling_2"
+  }
+}

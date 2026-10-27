@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/new_default_plus_dungeons/iron_warrior_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Iron Warrior Armor Boots|Iron Warrior Armor Helmet|Iron Warrior Armor Chestplate",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

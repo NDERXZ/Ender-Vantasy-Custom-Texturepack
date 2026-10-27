@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/the_pink_scoundrel",
+  "textures": {
+    "layer0": "minecraft:item/cit/the_pink_scoundrel_pulling_0"
+  }
+}

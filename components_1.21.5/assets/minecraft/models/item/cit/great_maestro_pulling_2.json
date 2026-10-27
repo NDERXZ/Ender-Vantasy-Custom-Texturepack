@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/great_maestro",
+  "textures": {
+    "layer0": "minecraft:item/cit/great_maestro_pulling_2"
+  }
+}

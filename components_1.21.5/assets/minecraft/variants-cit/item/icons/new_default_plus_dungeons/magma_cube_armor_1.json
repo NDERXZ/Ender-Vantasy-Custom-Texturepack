@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/new_default_plus_dungeons/magma_cube_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Magma Cube Armor Boots|Magma Cube Armor Helmet|Magma Cube Armor Chestplate",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

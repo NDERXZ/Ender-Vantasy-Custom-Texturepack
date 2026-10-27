@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_helmet"
+  }
+}

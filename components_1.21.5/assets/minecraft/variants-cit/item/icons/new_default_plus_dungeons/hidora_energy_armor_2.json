@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings"],
+	"modelPrefix": "icons/new_default_plus_dungeons/hidora_energy_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Hidora Energy Armor Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

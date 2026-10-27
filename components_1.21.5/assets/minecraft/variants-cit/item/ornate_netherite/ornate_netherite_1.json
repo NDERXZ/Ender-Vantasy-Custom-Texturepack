@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "ornate_netherite/ornate_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Ornate Netherite Boots|Ornate Netherite Chestplate|Ornate Netherite Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

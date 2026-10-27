@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/double_zap",
+  "textures": {
+    "layer0": "minecraft:item/cit/double_zap_pulling_0"
+  }
+}

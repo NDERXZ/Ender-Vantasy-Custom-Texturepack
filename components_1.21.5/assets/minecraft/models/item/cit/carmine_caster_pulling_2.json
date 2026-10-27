@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/carmine_caster",
+  "textures": {
+    "layer0": "minecraft:item/cit/carmine_caster_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/solar_curtains_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/solar_curtains_arrow"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings", "iron_leggings"],
+	"modelPrefix": "icons/story_mode/please_dont_hit_me_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Please Don't Hit Me Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

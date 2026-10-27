@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ancient_kindler_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/ancient_kindler_firework"
+  }
+}

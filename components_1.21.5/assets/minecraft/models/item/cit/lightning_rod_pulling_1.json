@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/lightning_rod",
+  "textures": {
+    "layer0": "minecraft:item/cit/lightning_rod"
+  }
+}

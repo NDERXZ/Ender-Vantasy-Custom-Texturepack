@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/floriculture",
+  "textures": {
+    "layer0": "minecraft:item/cit/floriculture_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/recurve_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/recurve_bow_pulling_2"
+  }
+}

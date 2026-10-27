@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_leggings"],
+	"modelPrefix": "soulblaze_netherite/soulblaze_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Soulblaze Netherite Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/echoing_spider_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/echoing_spider_crossbow_arrow"
+  }
+}

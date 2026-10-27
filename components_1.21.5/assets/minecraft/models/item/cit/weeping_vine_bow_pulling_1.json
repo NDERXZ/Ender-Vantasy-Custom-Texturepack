@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/weeping_vine_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/weeping_vine_bow_pulling_1"
+  }
+}

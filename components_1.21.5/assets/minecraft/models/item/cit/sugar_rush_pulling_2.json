@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/sugar_rush",
+  "textures": {
+    "layer0": "minecraft:item/cit/sugar_rush_pulling_2"
+  }
+}

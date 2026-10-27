@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "jeweled_netherite/jeweled_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Jeweled Netherite Boots|Jeweled Netherite Chestplate|Jeweled Netherite Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

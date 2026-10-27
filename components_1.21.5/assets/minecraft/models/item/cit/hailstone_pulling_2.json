@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/hailstone",
+  "textures": {
+    "layer0": "minecraft:item/cit/hailstone_pulling_2"
+  }
+}

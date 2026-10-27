@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/pride_of_the_piglins_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/pride_of_the_piglins_firework"
+  }
+}

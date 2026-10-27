@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "netherite_boots","diamond_chestplate", "netherite_chestplate", "diamond_helmet", "netherite_helmet"],
+	"modelPrefix": "icons/minecraft_dungeons/cauldron_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Cauldron Armor Helmet|Cauldron Armor Chestplate|Cauldron Armor Boots",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

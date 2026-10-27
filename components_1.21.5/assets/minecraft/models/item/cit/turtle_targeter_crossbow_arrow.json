@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/turtle_targeter_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/turtle_targeter_crossbow_arrow"
+  }
+}

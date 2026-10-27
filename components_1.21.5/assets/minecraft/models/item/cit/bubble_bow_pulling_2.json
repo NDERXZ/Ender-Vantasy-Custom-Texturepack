@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bubble_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/bubble_bow_pulling_2"
+  }
+}

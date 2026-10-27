@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_helmet", "netherite_helmet", "turtle_helmet"],
+	"modelPrefix": "crowns/lavender_crown",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Lavender Crown",
+            "substitution": "",
+			"lowercase": true
+	    }
+    }
+}

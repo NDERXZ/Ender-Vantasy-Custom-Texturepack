@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "molten_netherite/molten_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Molten Netherite Boots|Molten Netherite Chestplate|Molten Netherite Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

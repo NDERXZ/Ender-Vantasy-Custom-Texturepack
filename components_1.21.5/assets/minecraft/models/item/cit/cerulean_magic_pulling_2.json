@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/cerulean_magic",
+  "textures": {
+    "layer0": "minecraft:item/cit/cerulean_magic_pulling_2"
+  }
+}

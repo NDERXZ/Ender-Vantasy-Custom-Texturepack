@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/story_mode/gladiator_capital_t_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Gladiator Capital T Armor Boots|Gladiator Capital T Armor Chestplate|Gladiator Capital T Armor Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

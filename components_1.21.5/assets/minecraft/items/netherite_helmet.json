@@ -1,0 +1,2393 @@
+{
+"model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Battle Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/battle_robe_helmet"
+                }
+            },
+            {
+                "when": "Beenest Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_helmet"
+                }
+            },
+            {
+                "when": "Blue Mystery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_helmet"
+                }
+            },
+            {
+                "when": "Champion's Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/champions_armor_helmet"
+                }
+            },
+            {
+                "when": "Climbing Gear Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/climbing_gear_helmet"
+                }
+            },
+            {
+                "when": "Dark Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/dark_armor_helmet"
+                }
+            },
+            {
+                "when": "Emerald Gear Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/emerald_gear_helmet"
+                }
+            },
+            {
+                "when": "Entertainer's Garb Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/entertainers_garb_helmet"
+                }
+            },
+            {
+                "when": "Evocation Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/evocation_robe_helmet"
+                }
+            },
+            {
+                "when": "Ghostly Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghostly_armor_helmet"
+                }
+            },
+            {
+                "when": "Golden Piglin Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/golden_piglin_armor_helmet"
+                }
+            },
+            {
+                "when": "Green Mystery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/green_mystery_armor_helmet"
+                }
+            },
+            {
+                "when": "Grim Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/grim_armor_helmet"
+                }
+            },
+            {
+                "when": "Guard's Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/guards_armor_helmet"
+                }
+            },
+            {
+                "when": "Hunter's Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hunters_armor_helmet"
+                }
+            },
+            {
+                "when": "Mercenary Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/mercenary_armor_helmet"
+                }
+            },
+            {
+                "when": "Ocelot Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ocelot_armor_helmet"
+                }
+            },
+            {
+                "when": "Phantom Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/phantom_armor_helmet"
+                }
+            },
+            {
+                "when": "Piglin Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/piglin_armor_helmet"
+                }
+            },
+            {
+                "when": "Plate Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/plate_armor_helmet"
+                }
+            },
+            {
+                "when": "Purple Mystery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/purple_mystery_armor_helmet"
+                }
+            },
+            {
+                "when": "Red Mystery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/red_mystery_armor_helmet"
+                }
+            },
+            {
+                "when": "Reinforced Mail Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/reinforced_mail_helmet"
+                }
+            },
+            {
+                "when": "Root Rot Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/root_rot_armor_helmet"
+                }
+            },
+            {
+                "when": "Scale Mail Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/scale_mail_helmet"
+                }
+            },
+            {
+                "when": "Shulker Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shulker_armor_helmet"
+                }
+            },
+            {
+                "when": "Snow Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/snow_armor_helmet"
+                }
+            },
+            {
+                "when": "Soul Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/soul_robe_helmet"
+                }
+            },
+            {
+                "when": "Spelunker Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spelunker_armor_helmet"
+                }
+            },
+            {
+                "when": "Sprout Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sprout_armor_helmet"
+                }
+            },
+            {
+                "when": "Squid Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/squid_armor_helmet"
+                }
+            },
+            {
+                "when": "Teleportation Robes Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/teleportation_robes_helmet"
+                }
+            },
+            {
+                "when": "Thief Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/thief_armor_helmet"
+                }
+            },
+            {
+                "when": "Turtle Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/turtle_armor_helmet"
+                }
+            },
+            {
+                "when": "White Mystery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/white_mystery_armor_helmet"
+                }
+            },
+            {
+                "when": "Wolf Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wolf_armor_helmet"
+                }
+            },
+            {
+                "when": "Archer's Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/archers_armor_helmet"
+                    }
+                },
+            {
+                "when": "Arctic Fox Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_helmet"
+                    }
+                },
+            {
+                "when": "Beehive Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_helmet"
+                    }
+                },
+            {
+                "when": "Black Spot Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_helmet"
+                    }
+                },
+            {
+                "when": "Black Wolf Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_helmet"
+                    }
+                },
+            {
+                "when": "Cauldron Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cauldron_armor_helmet"
+                    }
+                },
+            {
+                "when": "Cave Crawler Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cave_crawler_helmet"
+                    }
+                },
+            {
+                "when": "Cloaked Skull Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cloaked_skull_helmet"
+                    }
+                },
+            {
+                "when": "Curious Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/curious_armor_helmet"
+                    }
+                },
+            {
+                "when": "Ember Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ember_robe_helmet"
+                    }
+                },
+            {
+                "when": "Fox Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/fox_armor_helmet"
+                    }
+                },
+            {
+                "when": "Frost Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/frost_armor_helmet"
+                    }
+                },
+            {
+                "when": "Frost Bite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/frost_bite_helmet"
+                    }
+                },
+            {
+                "when": "Full Metal Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/full_metal_armor_helmet"
+                    }
+                },
+            {
+                "when": "Ghost Kindler Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghost_kindler_helmet"
+                    }
+                },
+            {
+                "when": "Gilded Glory Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/gilded_glory_helmet"
+                    }
+                },
+            {
+                "when": "Glow Squid Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/glow_squid_armor_helmet"
+                    }
+                },
+            {
+                "when": "Goat Gear Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/goat_gear_helmet"
+                    }
+                },
+            {
+                "when": "Hero's Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/heros_armor_helmet"
+                    }
+                },
+            {
+                "when": "Highland Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/highland_armor_helmet"
+                    }
+                },
+            {
+                "when": "Hungriest Horror Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hungriest_horror_helmet"
+                    }
+                },
+            {
+                "when": "Hungry Horror Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hungry_horror_helmet"
+                    }
+                },
+            {
+                "when": "Living Vines Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/living_vines_armor_helmet"
+                    }
+                },
+            {
+                "when": "Nimble Turtle Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/nimble_turtle_armor_helmet"
+                    }
+                },
+            {
+                "when": "Opulent Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/opulent_armor_helmet"
+                    }
+                },
+            {
+                "when": "Renegade Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/renegade_armor_helmet"
+                    }
+                },
+            {
+                "when": "Rugged Climbing Gear Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/rugged_climbing_gear_helmet"
+                    }
+                },
+            {
+                "when": "Shadow Walker Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shadow_walker_helmet"
+                    }
+                },
+            {
+                "when": "Souldancer Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/souldancer_robe_helmet"
+                    }
+                },
+            {
+                "when": "Spider Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spider_armor_helmet"
+                    }
+                },
+            {
+                "when": "Splendid Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/splendid_robe_helmet"
+                    }
+                },
+            {
+                "when": "Stalwart Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/stalwart_armor_helmet"
+                    }
+                },
+            {
+                "when": "Sturdy Shulker Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sturdy_shulker_armor_helmet"
+                    }
+                },
+            {
+                "when": "Sweet Tooth Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sweet_tooth_helmet"
+                    }
+                },
+            {
+                "when": "The Gourdian Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/the_gourdian_armor_helmet"
+                    }
+                },
+            {
+                "when": "The Troubadour Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/the_troubadour_helmet"
+                    }
+                },
+            {
+                "when": "Titan's Shroud Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/titans_shroud_helmet"
+                    }
+                },
+            {
+                "when": "Unstable Robes Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/unstable_robes_helmet"
+                    }
+                },
+            {
+                "when": "Verdant Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/verdant_robe_helmet"
+                    }
+                },
+            {
+                "when": "Wither Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wither_armor_helmet"
+                    }
+                },
+            {
+                "when": "Iron Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_energy_armor_helmet"
+                }
+            },
+            {
+                "when": "Merchant Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/merchant_armor_helmet"
+                }
+            },
+            {
+                "when": "Abomination Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/abomination_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Aether Majesty Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/aether_majesty_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Alien Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/alien_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Allay Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/allay_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Amethyst Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/amethyst_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ancient Guardian Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ancient_guardian_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Arch-Illager Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/arch-illager_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Aurora Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/aurora_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Axolotl Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/axolotl_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Bat Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bat_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Bee Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Blackstone Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blackstone_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Blastling Robes Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blastling_robes_helmet"
+                }
+            },
+
+            {
+                "when": "Blood Moon Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blood_moon_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Bone Spider Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bone_spider_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Brutally Scrapped Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/brutally_scrapped_helmet"
+                }
+            },
+
+            {
+                "when": "Captain's Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/captains_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Cave Crystal Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/cave_crystal_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Cave Spider Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/cave_spider_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Chorus Flower Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/chorus_flower_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Copper Golem Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/copper_golem_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Coral Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/coral_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Creeper Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/creeper_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Dark Netherite Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dark_netherite_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Diamond Mountaineer Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_mountaineer_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Diamond Pillager Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_pillager_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Diamond Vindicator Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_vindicator_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Dolphin Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dolphin_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Dormant Sun Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dormant_sun_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Dragon Scale Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dragon_scale_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Drowned Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/drowned_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Drowned Necromancer Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/drowned_necromancer_helmet"
+                }
+            },
+
+            {
+                "when": "Elder Guardian Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/elder_guardian_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Emerald Gale Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/emerald_gale_helmet"
+                }
+            },
+
+            {
+                "when": "Enchanter's Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enchanters_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Enchantsmith Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enchantsmith_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Enderman Robes Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enderman_robes_helmet"
+                }
+            },
+
+            {
+                "when": "Endermite Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/endermite_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ender Dragon Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ender_dragon_armor_helmet"
+                }
+            },
+
+            {
+                "when": "End Portal Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/end_portal_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Eternal Drowned Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/eternal_drowned_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Festive Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/festive_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Fortified Diamond Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/fortified_diamond_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Frog Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/frog_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Geomancer Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/geomancer_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Ghast Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ghast_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ghost Cloak Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ghost_cloak_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Gift Wrapper Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/gift_wrapper_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Glare Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/glare_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Glowing Lush Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/glowing_lush_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Golden Knight Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_knight_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Golden Mountaineer Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_mountaineer_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Golden Pillager Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_pillager_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Golden Vindicator Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_vindicator_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Guardian Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/guardian_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Heart of Ender Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/heart_of_ender_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Hidora Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/hidora_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Hovering Inferno Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/hovering_inferno_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Husk Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/husk_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Iceologer Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iceologer_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Ice Illusioner Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ice_illusioner_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Icy Spider Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/icy_spider_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Igloo Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/igloo_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Illusioner Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/illusioner_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Iron Warrior Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_warrior_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Lapis Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/lapis_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Leapleaf Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/leapleaf_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Luxury Merchant Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/luxury_merchant_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Mage Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mage_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Magma Cube Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/magma_cube_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Monstrosity Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/monstrosity_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Moonlight Skull Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/moonlight_skull_helmet"
+                }
+            },
+
+            {
+                "when": "Moon Bulwark Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/moon_bulwark_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Mossy Skeleton Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mossy_skeleton_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Mountaineer Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mountaineer_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Mystery Merchant Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mystery_merchant_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Nameless Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/nameless_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Necromancer Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/necromancer_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Nether Portal Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/nether_portal_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Night Sky Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/night_sky_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ocean Depths Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ocean_depths_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Panda Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/panda_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Pharaoh's Luck Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pharaohs_luck_helmet"
+                }
+            },
+
+            {
+                "when": "Piglin Brute Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/piglin_brute_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Piglin Merchant Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/piglin_merchant_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Pink Tower Wraith Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pink_tower_wraith_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Pirate Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pirate_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Polar Bear Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/polar_bear_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Pottery Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pottery_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Psychic Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/psychic_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Queen Bee Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/queen_bee_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Quest Giver Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/quest_giver_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Radiant Coral Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/radiant_coral_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Rascal Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/rascal_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ravager Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ravager_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Redstone Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/redstone_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Redstone Golem Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/redstone_golem_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Red Torment Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/red_torment_helmet"
+                }
+            },
+
+            {
+                "when": "Regal Tiger Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/regal_tiger_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Royal Guard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/royal_guard_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Ruby Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ruby_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Sentinel Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sentinel_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Shiverburn Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/shiverburn_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Silverfish Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/silverfish_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Skeleton Wolf Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/skeleton_wolf_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Snareling Robes Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/snareling_robes_helmet"
+                }
+            },
+
+            {
+                "when": "Sniffer Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sniffer_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Soul Drowned Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/soul_drowned_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Soul Valley Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/soul_valley_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Spawner Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/spawner_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Squall Golem Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/squall_golem_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Stray Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/stray_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Strider Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/strider_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Stronghold's Treasure Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/strongholds_treasure_helmet"
+                }
+            },
+
+            {
+                "when": "Sun Paladin Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sun_paladin_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Swiftness Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/swiftness_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Tempest Golem Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tempest_golem_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Thorned Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/thorned_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Tower Guard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tower_guard_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Tower Wraith Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tower_wraith_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Treaded Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/treaded_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Vanguard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/vanguard_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Vex Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/vex_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Violet Energy Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/violet_energy_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Violet Umbra Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/violet_umbra_helmet"
+                }
+            },
+
+            {
+                "when": "Wandering Trader Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wandering_trader_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Warden Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/warden_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Whiteout Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/whiteout_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Wind Caller Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wind_caller_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Witches Robe Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/witches_robe_helmet"
+                }
+            },
+
+            {
+                "when": "Wither Boss Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wither_boss_armor_helmet"
+                }
+            },
+
+            {
+                "when": "Wraith Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wraith_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Wretched Wraith Cloak Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wretched_wraith_cloak_helmet"
+                }
+            },
+
+            {
+                "when": "Zombie Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/zombie_armor_helmet"
+                }
+            },
+            {
+                "when": "Blazing Core Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/blazing_core_helmet"
+                }
+            },
+            {
+                "when": "Slumbering Wave Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/slumbering_wave_helmet"
+                }
+            },
+            {
+                "when": "Solemn Forest Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/solemn_forest_helmet"
+                }
+            },
+            {
+                "when": "Thermion Bolt Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/thermion_bolt_helmet"
+                }
+            },
+            {
+                "when": "Wither Storm Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/wither_storm_helmet"
+                }
+            },
+            {
+                "when": "Armor Number 7 Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/armor_number_7_helmet"
+                }
+            },
+            {
+                "when": "Dented Danger Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dented_danger_helmet"
+                }
+            },
+            {
+                "when": "Feelin' Cute Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/feelin_cute_helmet"
+                }
+            },
+            {
+                "when": "Goofball Glory Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/goofball_glory_helmet"
+                }
+            },
+            {
+                "when": "Llama Brown-ish Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/llama_brown-ish_helmet"
+                }
+            },
+            {
+                "when": "Please Don't Hit Me Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/please_dont_hit_me_helmet"
+                }
+            },
+            {
+                "when": "Straps 'n' Straps Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/straps_n_straps_helmet"
+                }
+            },
+            {
+                "when": "The Tooth Chipper Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/the_tooth_chipper_helmet"
+                }
+            },
+            {
+                "when": "Chiming Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/chiming_netherite/chiming_netherite_helmet"
+                }
+            },
+            {
+                "when": "Gilded Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/gilded_netherite/gilded_netherite_helmet"
+                }
+            },
+            {
+                "when": "Jeweled Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/jeweled_netherite/jeweled_netherite_helmet"
+                }
+            },
+            {
+                "when": "Molten Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/molten_netherite/molten_netherite_helmet"
+                }
+            },
+            {
+                "when": "Opulent Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/opulent_netherite/opulent_netherite_helmet"
+                }
+            },
+            {
+                "when": "Ornate Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/ornate_netherite/ornate_netherite_helmet"
+                }
+            },
+            {
+                "when": "Soulblaze Netherite Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_helmet"
+                }
+            },
+            {
+                "when": "Adamantium Impervium Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/adamantium_impervium_helmet"
+                }
+            },
+            {
+                "when": "Admin Fred Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_fred_armor_helmet"
+                }
+            },
+            {
+                "when": "Admin Romeo Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_romeo_armor_helmet"
+                }
+            },
+            {
+                "when": "Admin Xara Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_xara_armor_helmet"
+                }
+            },
+            {
+                "when": "Aiden Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/aiden_armor_helmet"
+                }
+            },
+            {
+                "when": "Axel Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/axel_armor_helmet"
+                }
+            },
+            {
+                "when": "Champion Jack Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/champion_jack_armor_helmet"
+                }
+            },
+            {
+                "when": "Champion Petra Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/champion_petra_armor_helmet"
+                }
+            },
+            {
+                "when": "Dragonsbane Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dragonsbane_helmet"
+                }
+            },
+            {
+                "when": "Ellegaard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ellegaard_armor_helmet"
+                }
+            },
+            {
+                "when": "Enderman Soren Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/enderman_soren_armor_helmet"
+                }
+            },
+            {
+                "when": "Ender Defender Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ender_defender_helmet"
+                }
+            },
+            {
+                "when": "Fireworks Union Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/fireworks_union_armor_helmet"
+                }
+            },
+            {
+                "when": "Founder Isa Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/founder_isa_armor_helmet"
+                }
+            },
+            {
+                "when": "Gabriel Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gabriel_armor_helmet"
+                }
+            },
+            {
+                "when": "Gill Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gill_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Capital T Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_capital_t_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Clutch Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_clutch_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Facemeat Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_facemeat_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Headpunch Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_headpunch_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Meatface Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_meatface_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Shinstomper Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_shinstomper_armor_helmet"
+                }
+            },
+            {
+                "when": "Gladiator Slab Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_slab_armor_helmet"
+                }
+            },
+            {
+                "when": "Golden Apple Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/golden_apple_helmet"
+                }
+            },
+            {
+                "when": "Golden Goliath Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/golden_goliath_helmet"
+                }
+            },
+            {
+                "when": "Harper Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/harper_armor_helmet"
+                }
+            },
+            {
+                "when": "Institute Associate Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_associate_armor_helmet"
+                }
+            },
+            {
+                "when": "Institute Prisoner Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_prisoner_armor_helmet"
+                }
+            },
+            {
+                "when": "Institute Guard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_guard_armor_helmet"
+                }
+            },
+            {
+                "when": "Institute Warden Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_warden_armor_helmet"
+                }
+            },
+            {
+                "when": "Ivor Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ivor_armor_helmet"
+                }
+            },
+            {
+                "when": "Jack Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/jack_armor_helmet"
+                }
+            },
+            {
+                "when": "Lukas Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/lukas_armor_helmet"
+                }
+            },
+            {
+                "when": "Magnus Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/magnus_armor_helmet"
+                }
+            },
+            {
+                "when": "Maya Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/maya_armor_helmet"
+                }
+            },
+            {
+                "when": "Ninja Ivor Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ninja_ivor_armor_helmet"
+                }
+            },
+            {
+                "when": "Nurm Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/nurm_armor_helmet"
+                }
+            },
+            {
+                "when": "Olivia Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/olivia_armor_helmet"
+                }
+            },
+            {
+                "when": "Petra Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/petra_armor_helmet"
+                }
+            },
+            {
+                "when": "Prismarine Soldier Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/prismarine_soldier_armor_helmet"
+                }
+            },
+            {
+                "when": "Redstone Riot Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/redstone_riot_helmet"
+                }
+            },
+            {
+                "when": "Reginald Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/reginald_armor_helmet"
+                }
+            },
+            {
+                "when": "Shield of Infinity Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/shield_of_infinity_helmet"
+                }
+            },
+            {
+                "when": "Sky City Guard Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/sky_city_guard_armor_helmet"
+                }
+            },
+            {
+                "when": "Soren Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/soren_armor_helmet"
+                }
+            },
+            {
+                "when": "Star Shield Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/star_shield_helmet"
+                }
+            },
+            {
+                "when": "Swordbreaker Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/swordbreaker_helmet"
+                }
+            },
+            {
+                "when": "Tim Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/tim_armor_helmet"
+                }
+            },
+            {
+                "when": "Vos Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/vos_armor_helmet"
+                }
+            },
+            {
+                "when": "White Pumpkin Armor Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/white_pumpkin_armor_helmet"
+                }
+            },
+            {
+                "when": "Amethyst Diadem",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/amethyst_diadem"
+                }
+            },
+            {
+                "when": "Autumn Wreath",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/autumn_wreath"
+                }
+            },
+            {
+                "when": "Blackleaf Wreath",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/blackleaf_wreath"
+                }
+            },
+            {
+                "when": "Crystal Diadem",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/crystal_diadem"
+                }
+            },
+            {
+                "when": "Dandelion Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/dandelion_crown"
+                }
+            },
+            {
+                "when": "Diamond Coronet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/diamond_coronet"
+                }
+            },
+            {
+                "when": "Diving Helmet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/diving_helmet"
+                }
+            },
+            {
+                "when": "Emerald Coronet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/emerald_coronet"
+                }
+            },
+            {
+                "when": "Ender Diadem",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/ender_diadem"
+                }
+            },
+            {
+                "when": "Eversource Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/eversource_crown"
+                }
+            },
+            {
+                "when": "Harper's Headset",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/harpers_headset"
+                }
+            },
+            {
+                "when": "Flame Circlet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/flame_circlet"
+                }
+            },
+            {
+                "when": "Floral Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/floral_crown"
+                }
+            },
+            {
+                "when": "Frost Circlet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/frost_circlet"
+                }
+            },
+            {
+                "when": "Goldleaf Wreath",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/goldleaf_wreath"
+                }
+            },
+            {
+                "when": "Lapis Lazuli Coronet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/lapis_lazuli_coronet"
+                }
+            },
+            {
+                "when": "Lavender Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/lavender_crown"
+                }
+            },
+            {
+                "when": "Netherite Coronet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/netherite_coronet"
+                }
+            },
+            {
+                "when": "Renegade Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/renegade_crown"
+                }
+            },
+            {
+                "when": "Rose Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/rose_crown"
+                }
+            },
+            {
+                "when": "Royal Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/royal_crown"
+                }
+            },
+            {
+                "when": "Ruby Diadem",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/ruby_diadem"
+                }
+            },
+            {
+                "when": "Sculk Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/sculk_crown"
+                }
+            },
+            {
+                "when": "Skull Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/skull_crown"
+                }
+            },
+            {
+                "when": "Thunder Circlet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/thunder_circlet"
+                }
+            },
+            {
+                "when": "Water Circlet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/water_circlet"
+                }
+            },
+            {
+                "when": "Wreath Crown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/crowns/wreath_crown"
+                }
+            }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:trim_material",
+
+      "cases": [
+        {
+          "when": "minecraft:quartz",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_quartz_trim"
+          }
+        },
+        {
+          "when": "minecraft:iron",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_iron_trim"
+          }
+        },
+        {
+          "when": "minecraft:netherite",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_netherite_trim"
+          }
+        },
+        {
+          "when": "minecraft:redstone",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_redstone_trim"
+          }
+        },
+        {
+          "when": "minecraft:copper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_copper_trim"
+          }
+        },
+        {
+          "when": "minecraft:gold",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_gold_trim"
+          }
+        },
+        {
+          "when": "minecraft:emerald",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_emerald_trim"
+          }
+        },
+        {
+          "when": "minecraft:diamond",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_diamond_trim"
+          }
+        },
+        {
+          "when": "minecraft:lapis",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_lapis_trim"
+          }
+        },
+        {
+          "when": "minecraft:amethyst",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_amethyst_trim"
+          }
+        },
+        {
+          "when": "minecraft:resin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_helmet_resin_trim"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_helmet"
+      }
+    }
+  }
+}

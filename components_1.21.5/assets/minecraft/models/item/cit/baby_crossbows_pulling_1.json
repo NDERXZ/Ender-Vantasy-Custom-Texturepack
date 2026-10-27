@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/baby_crossbows_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/baby_crossbows_pulling_1"
+  }
+}

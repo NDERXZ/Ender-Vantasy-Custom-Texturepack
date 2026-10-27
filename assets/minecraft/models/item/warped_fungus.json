@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/warped_fungus_handheld",
+    "textures": {
+        "layer0": "minecraft:block/warped_fungus"
+    }
+}

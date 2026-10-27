@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/surging_sea",
+  "textures": {
+    "layer0": "minecraft:item/cit/surging_sea_pulling_1"
+  }
+}

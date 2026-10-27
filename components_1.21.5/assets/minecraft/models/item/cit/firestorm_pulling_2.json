@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/firestorm",
+  "textures": {
+    "layer0": "minecraft:item/cit/firestorm_pulling_2"
+  }
+}

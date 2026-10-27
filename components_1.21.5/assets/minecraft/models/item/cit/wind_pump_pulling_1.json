@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/wind_pump",
+  "textures": {
+    "layer0": "minecraft:item/cit/wind_pump_pulling_1"
+  }
+}

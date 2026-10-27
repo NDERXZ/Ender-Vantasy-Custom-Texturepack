@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/red_mushroom_handheld",
+    "textures": {
+        "layer0": "minecraft:block/red_mushroom"
+    }
+}

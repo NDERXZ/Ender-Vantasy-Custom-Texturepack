@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/stormbringer",
+  "textures": {
+    "layer0": "minecraft:item/cit/stormbringer_pulling_1"
+  }
+}

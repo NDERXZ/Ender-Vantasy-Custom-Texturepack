@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/firebird",
+  "textures": {
+    "layer0": "minecraft:item/cit/firebird_pulling_1"
+  }
+}

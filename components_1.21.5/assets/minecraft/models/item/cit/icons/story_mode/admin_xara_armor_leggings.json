@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/icons/story_mode/admin_xara_armor_leggings"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/malign_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/malign_crossbow_pulling_0"
+  }
+}

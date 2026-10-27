@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/parlor_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/parlor_blaster_pulling_0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings", "iron_leggings"],
+	"modelPrefix": "icons/new_default_plus_dungeons/merchant_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Merchant Armor Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

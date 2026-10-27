@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/amethyst_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/amethyst_bow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/golden_brute_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/golden_brute_crossbow_pulling_1"
+  }
+}

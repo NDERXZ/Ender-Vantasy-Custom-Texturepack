@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/spark_flinger",
+  "textures": {
+    "layer0": "minecraft:item/cit/spark_flinger_pulling_0"
+  }
+}

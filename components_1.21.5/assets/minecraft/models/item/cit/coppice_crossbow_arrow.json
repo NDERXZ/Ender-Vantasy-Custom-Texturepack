@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/coppice_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/coppice_crossbow_arrow"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/blizzard_caster",
+  "textures": {
+    "layer0": "minecraft:item/cit/blizzard_caster_pulling_1"
+  }
+}

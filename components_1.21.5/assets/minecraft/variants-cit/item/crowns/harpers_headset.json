@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_helmet", "netherite_helmet", "turtle_helmet"],
+	"modelPrefix": "crowns/harpers_headset",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Harper's Headset",
+            "substitution": "",
+			"lowercase": true
+	    }
+    }
+}

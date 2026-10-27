@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/pellucid_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/pellucid_bow_pulling_0"
+  }
+}

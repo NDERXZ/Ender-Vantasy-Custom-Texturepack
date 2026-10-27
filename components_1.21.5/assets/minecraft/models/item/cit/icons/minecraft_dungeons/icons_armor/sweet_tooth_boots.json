@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/icons/minecraft_dungeons/icons_armor/sweet_tooth_boots"
+  }
+}

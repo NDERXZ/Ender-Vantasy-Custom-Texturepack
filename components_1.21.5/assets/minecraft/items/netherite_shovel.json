@@ -1,0 +1,790 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Chiming Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chiming_netherite_shovel"
+                }
+            },
+            {
+                "when": "Gilded Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gilded_netherite_shovel"
+                }
+            },
+            {
+                "when": "Jeweled Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jeweled_netherite_shovel"
+                }
+            },
+            {
+                "when": "Molten Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/molten_netherite_shovel"
+                }
+            },
+            {
+                "when": "Opulent Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/opulent_netherite_shovel"
+                }
+            },
+            {
+                "when": "Ornate Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ornate_netherite_shovel"
+                }
+            },
+            {
+                "when": "Soulblaze Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soulblaze_netherite_shovel"
+                }
+            },
+            {
+                "when": "Warrior Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/warrior_shovel"
+                }
+            },
+            {
+                "when": "Fortress Former",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/fortress_former"
+                }
+            },
+            {
+                "when": "Dungeons Diamond Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/diamond_shovel"
+                }
+            },
+            {
+                "when": "Subzero Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/subzero_shovel"
+                }
+            },
+            {
+                "when": "Mystic Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mystic_shovel"
+                }
+            },
+            {
+                "when": "Rhodolite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rhodolite_shovel"
+                }
+            },
+            {
+                "when": "Sorcery Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sorcery_shovel"
+                }
+            },
+            {
+                "when": "World Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/world_shovel"
+                }
+            },
+            {
+                "when": "Soul Capsule",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_capsule"
+                }
+            },
+            {
+                "when": "Prism Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prism_shovel"
+                }
+            },
+            {
+                "when": "Raging Blaze",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/raging_blaze"
+                }
+            },
+            {
+                "when": "Cobalt Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobalt_shovel"
+                }
+            },
+            {
+                "when": "Imperial Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/imperial_shovel"
+                }
+            },
+            {
+                "when": "Gravity Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gravity_shovel"
+                }
+            },
+            {
+                "when": "Interstellar Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/interstellar_shovel"
+                }
+            },
+            {
+                "when": "Noble Excavator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/noble_excavator"
+                }
+            },
+            {
+                "when": "Shroomlight Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shroomlight_shovel"
+                }
+            },
+            {
+                "when": "Bedrock Driver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bedrock_driver"
+                }
+            },
+            {
+                "when": "Clanging Amethyst",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/clanging_amethyst"
+                }
+            },
+            {
+                "when": "Crashing Bolt",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/crashing_bolt"
+                }
+            },
+            {
+                "when": "Redstone Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/redstone_shovel"
+                }
+            },
+            {
+                "when": "Void Collector",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/void_collector"
+                }
+            },
+            {
+                "when": "Cerise Combat Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cerise_combat_shovel"
+                }
+            },
+            {
+                "when": "Faultless",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/faultless"
+                }
+            },
+            {
+                "when": "Knightly Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/knightly_shovel"
+                }
+            },
+            {
+                "when": "Nocturnal Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nocturnal_shovel"
+                }
+            },
+            {
+                "when": "Apparition Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/apparition_shovel"
+                }
+            },
+            {
+                "when": "Scorched Earth",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scorched_earth"
+                }
+            },
+            {
+                "when": "Atomic Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/atomic_spade"
+                }
+            },
+            {
+                "when": "Archaeology Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/archaeology_spade"
+                }
+            },
+            {
+                "when": "Telluric Craze",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/telluric_craze"
+                }
+            },
+            {
+                "when": "Nature Growth",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nature_growth"
+                }
+            },
+            {
+                "when": "Dungeons Netherite Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/netherite_shovel"
+                }
+            },
+            {
+                "when": "Wretched Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/wretched_spade"
+                }
+            },
+            {
+                "when": "Nameless Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nameless_spade"
+                }
+            },
+            {
+                "when": "Frost Thrower",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/frost_thrower"
+                }
+            },
+            {
+                "when": "Jade Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jade_shovel"
+                }
+            },
+            {
+                "when": "Violet Pulsate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/violet_pulsate"
+                }
+            },
+            {
+                "when": "Hail Scorch",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hail_scorch"
+                }
+            },
+            {
+                "when": "Aeroshovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/aeroshovel"
+                }
+            },
+            {
+                "when": "Star Terraformer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/star_terraformer"
+                }
+            },
+            {
+                "when": "Digging Pearl",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/digging_pearl"
+                }
+            },
+            {
+                "when": "Comet Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/comet_shovel"
+                }
+            },
+            {
+                "when": "Dissolving Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dissolving_shovel"
+                }
+            },
+            {
+                "when": "Goliath",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/goliath"
+                }
+            },
+            {
+                "when": "Wilting Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/wilting_shovel"
+                }
+            },
+            {
+                "when": "Greenhouse Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/greenhouse_shovel"
+                }
+            },
+            {
+                "when": "Liquid Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/liquid_shovel"
+                }
+            },
+            {
+                "when": "Merlot Molder",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/merlot_molder"
+                }
+            },
+            {
+                "when": "Flame Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flame_shovel"
+                }
+            },
+            {
+                "when": "Emerald Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/emerald_shovel"
+                }
+            },
+            {
+                "when": "Glistening Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/glistening_shovel"
+                }
+            },
+            {
+                "when": "Obsidian Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/obsidian_shovel"
+                }
+            },
+            {
+                "when": "Sculk Digger",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sculk_digger"
+                }
+            },
+            {
+                "when": "Ruby Extractor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ruby_extractor"
+                }
+            },
+            {
+                "when": "Undead Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/undead_shovel"
+                }
+            },
+            {
+                "when": "Eventide",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/eventide"
+                }
+            },
+            {
+                "when": "Dungeons Golden Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/golden_shovel"
+                }
+            },
+            {
+                "when": "Cold Lights",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cold_lights"
+                }
+            },
+            {
+                "when": "Constancy Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/constancy_shovel"
+                }
+            },
+            {
+                "when": "Essence Gatherer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/essence_gatherer"
+                }
+            },
+            {
+                "when": "Ocean Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ocean_shovel"
+                }
+            },
+            {
+                "when": "Angel Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/angel_shovel"
+                }
+            },
+            {
+                "when": "Rubedo Spines",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rubedo_spines"
+                }
+            },
+            {
+                "when": "Cyclone Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cyclone_shovel"
+                }
+            },
+            {
+                "when": "Sunspot Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sunspot_shovel"
+                }
+            },
+            {
+                "when": "Endless Abyss",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/endless_abyss"
+                }
+            },
+            {
+                "when": "Phantomatic",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/phantomatic"
+                }
+            },
+            {
+                "when": "Severed Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/severed_shovel"
+                }
+            },
+            {
+                "when": "Draconic Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/draconic_shovel"
+                }
+            },
+            {
+                "when": "Dark Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dark_trowel"
+                }
+            },
+            {
+                "when": "Burial Excavator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/burial_excavator"
+                }
+            },
+            {
+                "when": "Lapis Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lapis_trowel"
+                }
+            },
+            {
+                "when": "Lunar Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lunar_trowel"
+                }
+            },
+            {
+                "when": "Chef Ladle",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chef_ladle"
+                }
+            },
+            {
+                "when": "Ceremonial Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ceremonial_trowel"
+                }
+            },
+            {
+                "when": "Woodland Planter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/woodland_planter"
+                }
+            },
+            {
+                "when": "Luminous Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/luminous_trowel"
+                }
+            },
+            {
+                "when": "Veiled Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/veiled_shovel"
+                }
+            },
+            {
+                "when": "Burgundy Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/burgundy_shovel"
+                }
+            },
+            {
+                "when": "Raveled Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/raveled_shovel"
+                }
+            },
+            {
+                "when": "Corrupted Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_shovel"
+                }
+            },
+            {
+                "when": "Forestation",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/forestation"
+                }
+            },
+            {
+                "when": "Red Anaconda",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/red_anaconda"
+                }
+            },
+            {
+                "when": "Abracadabra",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/abracadabra"
+                }
+            },
+            {
+                "when": "Spoon of Fatigue",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spoon_of_fatigue"
+                }
+            },
+            {
+                "when": "Driller Night",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/driller_night"
+                }
+            },
+            {
+                "when": "Scrapped Screw",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scrapped_screw"
+                }
+            },
+            {
+                "when": "Ultimate Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ultimate_netherite_shovel"
+                }
+            },
+            {
+                "when": "Prismarine Soldier Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prismarine_soldier_shovel"
+                }
+            },
+			{
+                "when": "Dungeons Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shovel"
+                }
+            },
+            {
+                "when": "Scoop Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scoop_shovel"
+                }
+            },
+            {
+                "when": "Edging Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/edging_shovel"
+                }
+            },
+            {
+                "when": "Combat Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/combat_shovel"
+                }
+            },
+            {
+                "when": "Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spade"
+                }
+            },
+            {
+                "when": "Snow Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/snow_shovel"
+                }
+            },
+            {
+                "when": "Pointed Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pointed_shovel"
+                }
+            },
+            {
+                "when": "Trench Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/trench_shovel"
+                }
+            },
+            {
+                "when": "Army Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/army_shovel"
+                }
+            },
+            {
+                "when": "Serrated Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/serrated_shovel"
+                }
+            },
+            {
+                "when": "Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/trowel"
+                }
+            },
+            {
+                "when": "Handheld Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/handheld_shovel"
+                }
+            },
+            {
+                "when": "Spoon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spoon"
+                }
+            },
+            {
+                "when": "Drill",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/drill"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_shovel"
+        }
+    }
+}

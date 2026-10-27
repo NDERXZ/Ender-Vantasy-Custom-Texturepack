@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/voidcaller_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/voidcaller_pulling_2"
+  }
+}

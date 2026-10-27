@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/mallet_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/mallet_blaster_pulling_2"
+  }
+}

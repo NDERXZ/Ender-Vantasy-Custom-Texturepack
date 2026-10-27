@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/sangria_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/sangria_bow_pulling_0"
+  }
+}

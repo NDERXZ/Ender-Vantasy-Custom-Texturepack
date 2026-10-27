@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/love_spell_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/love_spell_bow_pulling_1"
+  }
+}

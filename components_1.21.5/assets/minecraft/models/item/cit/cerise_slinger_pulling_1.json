@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/cerise_slinger",
+  "textures": {
+    "layer0": "minecraft:item/cit/cerise_slinger_pulling_1"
+  }
+}

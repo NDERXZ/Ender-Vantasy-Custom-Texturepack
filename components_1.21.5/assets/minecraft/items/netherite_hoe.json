@@ -1,0 +1,688 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Chiming Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chiming_netherite_hoe"
+                }
+            },
+            {
+                "when": "Gilded Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gilded_netherite_hoe"
+                }
+            },
+            {
+                "when": "Jeweled Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jeweled_netherite_hoe"
+                }
+            },
+            {
+                "when": "Molten Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/molten_netherite_hoe"
+                }
+            },
+            {
+                "when": "Opulent Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/opulent_netherite_hoe"
+                }
+            },
+            {
+                "when": "Ornate Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ornate_netherite_hoe"
+                }
+            },
+            {
+                "when": "Soulblaze Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soulblaze_netherite_hoe"
+                }
+            },
+            {
+                "when": "Vineyard Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/vineyard_hoe"
+                }
+            },
+            {
+                "when": "Imperial Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/imperial_hoe"
+                }
+            },
+            {
+                "when": "Cinnabar Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cinnabar_hoe"
+                }
+            },
+            {
+                "when": "Prismarine Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prismarine_hoe"
+                }
+            },
+            {
+                "when": "Obsidian Gardener",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/obsidian_gardener"
+                }
+            },
+            {
+                "when": "Dungeons Diamond Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/diamond_hoe"
+                }
+            },
+            {
+                "when": "Constellation Creator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/constellation_creator"
+                }
+            },
+            {
+                "when": "Twisted Gardener",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/twisted_gardener"
+                }
+            },
+            {
+                "when": "Gravity Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gravity_hoe"
+                }
+            },
+            {
+                "when": "Lazuli Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/lazuli_hoe"
+                }
+            },
+            {
+                "when": "Red Python",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/red_python"
+                }
+            },
+            {
+                "when": "Withered Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/withered_hoe"
+                }
+            },
+            {
+                "when": "Mystic Plantation",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mystic_plantation"
+                }
+            },
+            {
+                "when": "Arctic Winds",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/arctic_winds"
+                }
+            },
+            {
+                "when": "Regal Gardener",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/regal_gardener"
+                }
+            },
+            {
+                "when": "Ruby Tiller",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ruby_tiller"
+                }
+            },
+            {
+                "when": "Moss Ridger",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/moss_ridger"
+                }
+            },
+            {
+                "when": "Dungeons Netherite Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/netherite_hoe"
+                }
+            },
+            {
+                "when": "Star Botany",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/star_botany"
+                }
+            },
+            {
+                "when": "Beaming Lilac",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/beaming_lilac"
+                }
+            },
+            {
+                "when": "Patinaed Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/patinaed_hoe"
+                }
+            },
+            {
+                "when": "Glimmering Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/glimmering_hoe"
+                }
+            },
+            {
+                "when": "Frost Gardener",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/frost_gardener"
+                }
+            },
+            {
+                "when": "Jade Cultivator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jade_cultivator"
+                }
+            },
+            {
+                "when": "Exemplary",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/exemplary"
+                }
+            },
+            {
+                "when": "Tower Grower",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tower_grower"
+                }
+            },
+            {
+                "when": "Flame Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flame_hoe"
+                }
+            },
+            {
+                "when": "Void Tiller",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/void_tiller"
+                }
+            },
+            {
+                "when": "Jungle Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jungle_plow"
+                }
+            },
+            {
+                "when": "Veiled Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/veiled_plow"
+                }
+            },
+            {
+                "when": "Dark Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dark_plow"
+                }
+            },
+            {
+                "when": "Shaded Shadow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shaded_shadow"
+                }
+            },
+            {
+                "when": "Corrupted Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/corrupted_plow"
+                }
+            },
+            {
+                "when": "Behemoth",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/behemoth"
+                }
+            },
+            {
+                "when": "Undead Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/undead_plow"
+                }
+            },
+            {
+                "when": "Clouded Garden",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/clouded_garden"
+                }
+            },
+            {
+                "when": "Raven Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/raven_hoe"
+                }
+            },
+            {
+                "when": "Rubedo Incisor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rubedo_incisor"
+                }
+            },
+            {
+                "when": "World Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/world_hoe"
+                }
+            },
+            {
+                "when": "Forlorn Cultivator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/forlorn_cultivator"
+                }
+            },
+            {
+                "when": "Cryostasis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cryostasis"
+                }
+            },
+            {
+                "when": "Nameless Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/nameless_hoe"
+                }
+            },
+            {
+                "when": "Redstone Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/redstone_hoe"
+                }
+            },
+            {
+                "when": "Mantle Chopper",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mantle_chopper"
+                }
+            },
+            {
+                "when": "Neutron Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/neutron_hoe"
+                }
+            },
+            {
+                "when": "Current Cutter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/current_cutter"
+                }
+            },
+            {
+                "when": "Spellcasting Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spellcasting_hoe"
+                }
+            },
+            {
+                "when": "Peal of Thunder",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/peal_of_thunder"
+                }
+            },
+            {
+                "when": "Eternal Somnum",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/eternal_somnum"
+                }
+            },
+            {
+                "when": "Geode Cultivator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/geode_cultivator"
+                }
+            },
+            {
+                "when": "Tidal Storm",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tidal_storm"
+                }
+            },
+            {
+                "when": "Galactic Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/galactic_hoe"
+                }
+            },
+            {
+                "when": "Cerise Planter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cerise_planter"
+                }
+            },
+            {
+                "when": "Cemetery Keeper",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cemetery_keeper"
+                }
+            },
+            {
+                "when": "Fiery Frost",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/fiery_frost"
+                }
+            },
+            {
+                "when": "Angel Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/angel_hoe"
+                }
+            },
+            {
+                "when": "Copper Cultivator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/copper_cultivator"
+                }
+            },
+            {
+                "when": "Heatwave Spinner",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/heatwave_spinner"
+                }
+            },
+            {
+                "when": "Emerald Duplex",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/emerald_duplex"
+                }
+            },
+            {
+                "when": "Cobalt Rotator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobalt_rotator"
+                }
+            },
+            {
+                "when": "Dual Execution",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dual_execution"
+                }
+            },
+            {
+                "when": "Dual Constancy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dual_constancy"
+                }
+            },
+            {
+                "when": "Clashing Cultivator",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/clashing_cultivator"
+                }
+            },
+            {
+                "when": [
+						"Jailor's Scythe",
+						"Jailors Scythe"
+					],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/jailors_scythe"
+                }
+            },
+            {
+                "when": "Frost Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/frost_scythe"
+                }
+            },
+            {
+                "when": "Skull Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/skull_scythe"
+                }
+            },
+            {
+                "when": "Scythe of Wells",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scythe_of_wells"
+                }
+            },
+            {
+                "when": "Overgrown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/overgrown"
+                }
+            },
+            {
+                "when": "Moon Light",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/moon_light"
+                }
+            },
+            {
+                "when": "Mayhem Berserk",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mayhem_berserk"
+                }
+            },
+            {
+                "when": "Celestial Reaper",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/celestial_reaper"
+                }
+            },
+            {
+                "when": "Amethyst Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/amethyst_scythe"
+                }
+            },
+            {
+                "when": "Sculk Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sculk_scythe"
+                }
+            },
+            {
+                "when": "Dreadwing",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dreadwing"
+                }
+            },
+            {
+                "when": "Scorched Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scorched_scythe"
+                }
+            },
+            {
+                "when": "Archaic Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/archaic_scythe"
+                }
+            },
+            {
+                "when": "Ultimate Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ultimate_netherite_hoe"
+                }
+            },
+            {
+                "when": "Prismarine Soldier Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/prismarine_soldier_hoe"
+                }
+            },
+			{
+                "when": "Dungeons Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hoe"
+                }
+            },
+            {
+                "when": "Cobra Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobra_hoe"
+                }
+            },
+            {
+                "when": "Ridging Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ridging_hoe"
+                }
+            },
+            {
+                "when": "Combat Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/combat_hoe"
+                }
+            },
+            {
+                "when": "Hand Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hand_plow"
+                }
+            },
+            {
+                "when": "Draw Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/draw_hoe"
+                }
+            },
+            {
+                "when": "Chopping Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chopping_hoe"
+                }
+            },
+            {
+                "when": "Onion Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/onion_hoe"
+                }
+            },
+            {
+                "when": "Dual Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dual_hoe"
+                }
+            },
+            {
+                "when": "Soul Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_scythe"
+                }
+            },
+            {
+                "when": "Serrated Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/serrated_scythe"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_hoe"
+        }
+    }
+}

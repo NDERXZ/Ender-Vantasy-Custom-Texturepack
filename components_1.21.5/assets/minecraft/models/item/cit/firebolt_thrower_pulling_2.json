@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/firebolt_thrower_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/firebolt_thrower_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/soul_spark",
+  "textures": {
+    "layer0": "minecraft:item/cit/soul_spark_pulling_1"
+  }
+}

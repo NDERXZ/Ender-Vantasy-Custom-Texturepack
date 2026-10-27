@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/abominable_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/abominable_blaster_pulling_2"
+  }
+}

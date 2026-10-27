@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/gamma_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/gamma_bow_pulling_1"
+  }
+}

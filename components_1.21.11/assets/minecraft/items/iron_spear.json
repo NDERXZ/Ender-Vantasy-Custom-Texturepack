@@ -1,0 +1,443 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Tower Polearm",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tower_polearm_jab"
+                }
+            },
+            {
+                "when": "Glaive",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/glaive_jab"
+                }
+            },
+            {
+                "when": "Dungeons Spear",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spear_jab"
+                }
+            },
+            {
+                "when": "Gold Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/gold_trident_jab"
+                }
+            },
+            {
+                "when": "Bone Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/bone_trident_jab"
+                }
+            },
+            {
+                "when": "Steel Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/steel_trident_jab"
+                }
+            },
+            {
+                "when": "Crystal Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/crystal_trident_jab"
+                }
+            },
+            {
+                "when": "Combat Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/combat_trident_jab"
+                }
+            },
+            {
+                "when": "Barbed Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/barbed_trident_jab"
+                }
+            },
+            {
+                "when": "Quindent",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/quindent_jab"
+                }
+            },
+            {
+                "when": "Dangpa",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/dangpa_jab"
+                }
+            },
+            {
+                "when": "Bident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/bident_jab"
+                }
+            },
+            {
+                "when": "Royal Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/royal_trident_jab"
+                }
+            },
+            {
+                "when": "Pike",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/pike_jab"
+                }
+            },
+            {
+                "when": "Partisan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/partisan_jab"
+                }
+            },
+            {
+                "when": "Harpoon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/harpoon_jab"
+                }
+            },
+            {
+                "when": "Pudao",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/pudao_jab"
+                }
+            },
+            {
+                "when": "Ranseur",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/ranseur_jab"
+                }
+            },
+            {
+                "when": "Soul Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/soul_trident_jab"
+                }
+            },
+            {
+                "when": "Curved Spear",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/curved_spear_jab"
+                }
+            },
+            {
+                "when": "Pitchfork",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/pitchfork_jab"
+                }
+            },
+            {
+                "when": "Spetum",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/spetum_jab"
+                }
+            },
+            {
+                "when": "Dungeons Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/trident_jab"
+                }
+            },
+            {
+                "when": "Casting Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/casting_trident_jab"
+                }
+            },
+            {
+                "when": "Wretched Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/wretched_trident_jab"
+                }
+            },
+            {
+                "when": "Broad Trident",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/broad_trident_jab"
+                }
+            },
+            {
+                "when": "Scepter",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scepter_jab"
+                }
+            },
+            {
+                "when": "Staff",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/staff_jab"
+                }
+            },
+            {
+                "when": "Poleaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/poleaxe_jab"
+                }
+            },
+            {
+                "when": "Halberd",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/halberd_jab"
+                }
+            },
+            {
+                "when": "Voulge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/voulge_jab"
+                }
+            },
+            {
+                "when": "Longblade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/longblade_jab"
+                }
+            },
+            {
+                "when": "Talwar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/talwar_jab"
+                }
+            },
+            {
+                "when": "Makhaira",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/makhaira_jab"
+                }
+            },
+            {
+                "when": "Obsidian Claymore",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/obsidian_claymore_jab"
+                }
+            },
+            {
+                "when": "Curtana",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/curtana_jab"
+                }
+            },
+            {
+                "when": "Rapier",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/rapier_jab"
+                }
+            },
+            {
+                "when": "Soul Knife",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_knife_jab"
+                }
+            },
+            {
+                "when": "Jousting Lance",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/jousting_lance_jab"
+                }
+            },
+            {
+                "when": "Couched Lance",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/couched_lance_jab"
+                }
+            },
+            {
+                "when": "Ahlspiess",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/ahlspiess_jab"
+                }
+            },
+            {
+                "when": "Earspoon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/earspoon_jab"
+                }
+            },
+            {
+                "when": "Javelin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/javelin_jab"
+                }
+            },
+            {
+                "when": "Heavy Spear",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/heavy_spear_jab"
+                }
+            },
+            {
+                "when": "Langdebeve",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/langdebeve_jab"
+                }
+            },
+            {
+                "when": "Sarissa",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/sarissa_jab"
+                }
+            },
+            {
+                "when": "Swordstaff",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/swordstaff_jab"
+                }
+            },
+            {
+                "when": "Naginata",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/naginata_jab"
+                }
+            },
+            {
+                "when": "Ngao",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "item/cit/ngao_jab"
+                }
+            },
+            {
+                "when": "Double Halberd",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/double_halberd_jab"
+                }
+            },
+            {
+                "when": "Bec de Corbin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bec_de_corbin_jab"
+                }
+            },
+            {
+                "when": "Dane Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dane_axe_jab"
+                }
+            },
+            {
+                "when": "Tabar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tabar_jab"
+                }
+            },
+            {
+                "when": "War Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_axe_jab"
+                }
+            },
+            {
+                "when": "War Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_hammer_jab"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:select",
+            "property": "minecraft:context_entity_type",
+            "cases": [
+                {
+                    "when": [
+                        "minecraft:zombie",
+                        "minecraft:zombie_villager",
+                        "minecraft:drowned"
+                    ],
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/spear"
+                    }
+                },
+                {
+                    "when": [
+                        "minecraft:husk"
+                    ],
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/glaive"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:select",
+                "cases": [
+                    {
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/iron_spear"
+                        },
+                        "when": [
+                            "gui",
+                            "ground",
+                            "fixed",
+                            "on_shelf"
+                        ]
+                    }
+                ],
+                "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/iron_spear_in_hand"
+                },
+                "property": "minecraft:display_context"
+            }
+        },
+        "swap_animation_scale": 1.9
+    }
+}

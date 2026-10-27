@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/slingshot",
+  "textures": {
+    "layer0": "minecraft:item/cit/slingshot_pulling_2"
+  }
+}

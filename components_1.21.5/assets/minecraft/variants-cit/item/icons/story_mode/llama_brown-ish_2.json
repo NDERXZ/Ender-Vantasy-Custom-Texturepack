@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings", "iron_leggings"],
+	"modelPrefix": "icons/story_mode/llama_brown-ish_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Llama Brown-ish Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

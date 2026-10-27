@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_helmet", "netherite_helmet", "turtle_helmet"],
+	"modelPrefix": "icons/story_mode/thunder_circlet",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Thunder Circlet",
+            "substitution": "",
+			"lowercase": true
+	    }
+    }
+}

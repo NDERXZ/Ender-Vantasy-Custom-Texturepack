@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings", "iron_leggings"],
+	"modelPrefix": "icons/story_mode/straps_n_straps_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Straps 'n' Straps Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

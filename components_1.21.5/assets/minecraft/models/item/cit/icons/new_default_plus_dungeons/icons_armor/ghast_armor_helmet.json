@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/cit/icons/new_default_plus_dungeons/icons_armor/ghast_armor_helmet"
+  }
+}

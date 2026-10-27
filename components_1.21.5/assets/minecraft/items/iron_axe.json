@@ -1,0 +1,322 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Dungeons Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/axe"
+                }
+            },
+            {
+                "when": "Double Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/double_axe"
+                }
+            },
+            {
+                "when": "Labrys",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/labrys"
+                }
+            },
+            {
+                "when": "Battle Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/battle_axe"
+                }
+            },
+            {
+                "when": "Sparth Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sparth_axe"
+                }
+            },
+            {
+                "when": "Hatchet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hatchet"
+                }
+            },
+            {
+                "when": "Tomahawk",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tomahawk"
+                }
+            },
+            {
+                "when": "Round Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/round_axe"
+                }
+            },
+            {
+                "when": "Gandasa",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gandasa"
+                }
+            },
+            {
+                "when": "Bardiche",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bardiche"
+                }
+            },
+            {
+                "when": "Giant Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/giant_axe"
+                }
+            },
+            {
+                "when": "Poleaxe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/poleaxe"
+                }
+            },
+            {
+                "when": "Halberd",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/halberd"
+                }
+            },
+            {
+                "when": "Cleaver",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cleaver"
+                }
+            },
+            {
+                "when": "Saw",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/saw"
+                }
+            },
+            {
+                "when": "Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hammer"
+                }
+            },
+            {
+                "when": "Mallet",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mallet"
+                }
+            },
+            {
+                "when": "Sledgehammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/sledgehammer"
+                }
+            },
+            {
+                "when": "Gavel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/gavel"
+                }
+            },
+            {
+                "when": "Great Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/great_hammer"
+                }
+            },
+            {
+                "when": "Maul",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/maul"
+                }
+            },
+            {
+                "when": "Dungeons Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/mace"
+                }
+            },
+            {
+                "when": "Thorned Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/thorned_mace"
+                }
+            },
+            {
+                "when": "Morningstar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/morningstar"
+                }
+            },
+            {
+                "when": "Barbed Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/barbed_mace"
+                }
+            },
+            {
+                "when": "Heavy Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/heavy_mace"
+                }
+            },
+            {
+                "when": "Blunt Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/blunt_mace"
+                }
+            },
+            {
+                "when": "Flanged Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/flanged_mace"
+                }
+            },
+            {
+                "when": "Spiked Club",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spiked_club"
+                }
+            },
+            {
+                "when": "Pronged Bludgeon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pronged_bludgeon"
+                }
+            },
+            {
+                "when": "Double Mace",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/double_mace"
+                }
+            },
+            {
+                "when": "Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/anchor"
+                }
+            },
+            {
+                "when": "Grapnel Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/grapnel_anchor"
+                }
+            },
+            {
+                "when": "Stockless Anchor",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/stockless_anchor"
+                }
+            },
+            {
+                "when": "Broken Sawblade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/broken_sawblade"
+                }
+            },
+            {
+                "when": "Voulge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/voulge"
+                }
+            },
+            {
+                "when": "Double Halberd",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/double_halberd"
+                }
+            },
+            {
+                "when": "Bec de Corbin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/bec_de_corbin"
+                }
+            },
+            {
+                "when": "Dane Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dane_axe"
+                }
+            },
+            {
+                "when": "Tabar",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tabar"
+                }
+            },
+            {
+                "when": "War Axe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_axe"
+                }
+            },
+            {
+                "when": "War Hammer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/war_hammer"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:select",
+            "property": "minecraft:context_entity_type",
+            "cases": [
+                {
+                    "when": [
+                        "minecraft:vindicator"
+                    ],
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/axe"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/iron_axe"
+            }
+        }
+    }
+}

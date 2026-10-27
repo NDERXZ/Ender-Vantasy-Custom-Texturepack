@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/potions/renames/new_default_plus/sweet_brew/sweet_brew_overlay",
+        "layer1": "optifine/cit/potions/renames/new_default_plus/sweet_brew/sweet_brew_splash"
+    }
+}

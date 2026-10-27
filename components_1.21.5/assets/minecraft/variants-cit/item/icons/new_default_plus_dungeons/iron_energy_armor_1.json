@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet", "iron_boots", "iron_chestplate", "iron_helmet"],
+	"modelPrefix": "icons/new_default_plus_dungeons/iron_energy_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Iron Energy Armor Helmet|Iron Energy Armor Chestplate|Iron Energy Armor Boots",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

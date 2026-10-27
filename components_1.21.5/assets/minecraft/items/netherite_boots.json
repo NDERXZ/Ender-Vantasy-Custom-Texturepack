@@ -1,0 +1,2225 @@
+{
+"model":{
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Battle Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/battle_robe_boots"
+                }
+            },
+            {
+                "when": "Beenest Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beenest_armor_boots"
+                }
+            },
+            {
+                "when": "Blue Mystery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/blue_mystery_armor_boots"
+                }
+            },
+            {
+                "when": "Champion's Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/champions_armor_boots"
+                }
+            },
+            {
+                "when": "Climbing Gear Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/climbing_gear_boots"
+                }
+            },
+            {
+                "when": "Dark Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/dark_armor_boots"
+                }
+            },
+            {
+                "when": "Emerald Gear Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/emerald_gear_boots"
+                }
+            },
+            {
+                "when": "Entertainer's Garb Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/entertainers_garb_boots"
+                }
+            },
+            {
+                "when": "Evocation Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/evocation_robe_boots"
+                }
+            },
+            {
+                "when": "Ghostly Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghostly_armor_boots"
+                }
+            },
+            {
+                "when": "Golden Piglin Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/golden_piglin_armor_boots"
+                }
+            },
+            {
+                "when": "Green Mystery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/green_mystery_armor_boots"
+                }
+            },
+            {
+                "when": "Grim Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/grim_armor_boots"
+                }
+            },
+            {
+                "when": "Guard's Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/guards_armor_boots"
+                }
+            },
+            {
+                "when": "Hunter's Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hunters_armor_boots"
+                }
+            },
+            {
+                "when": "Mercenary Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/mercenary_armor_boots"
+                }
+            },
+            {
+                "when": "Ocelot Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ocelot_armor_boots"
+                }
+            },
+            {
+                "when": "Phantom Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/phantom_armor_boots"
+                }
+            },
+            {
+                "when": "Piglin Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/piglin_armor_boots"
+                }
+            },
+            {
+                "when": "Plate Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/plate_armor_boots"
+                }
+            },
+            {
+                "when": "Purple Mystery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/purple_mystery_armor_boots"
+                }
+            },
+            {
+                "when": "Red Mystery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/red_mystery_armor_boots"
+                }
+            },
+            {
+                "when": "Reinforced Mail Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/reinforced_mail_boots"
+                }
+            },
+            {
+                "when": "Root Rot Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/root_rot_armor_boots"
+                }
+            },
+            {
+                "when": "Scale Mail Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/scale_mail_boots"
+                }
+            },
+            {
+                "when": "Shulker Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shulker_armor_boots"
+                }
+            },
+            {
+                "when": "Snow Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/snow_armor_boots"
+                }
+            },
+            {
+                "when": "Soul Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/soul_robe_boots"
+                }
+            },
+            {
+                "when": "Spelunker Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spelunker_armor_boots"
+                }
+            },
+            {
+                "when": "Sprout Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sprout_armor_boots"
+                }
+            },
+            {
+                "when": "Squid Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/squid_armor_boots"
+                }
+            },
+            {
+                "when": "Teleportation Robes Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/teleportation_robes_boots"
+                }
+            },
+            {
+                "when": "Thief Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/thief_armor_boots"
+                }
+            },
+            {
+                "when": "Turtle Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/turtle_armor_boots"
+                }
+            },
+            {
+                "when": "White Mystery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/white_mystery_armor_boots"
+                }
+            },
+            {
+                "when": "Wolf Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wolf_armor_boots"
+                }
+            },
+            {
+                "when": "Archer's Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/archers_armor_boots"
+                    }
+                },
+            {
+                "when": "Arctic Fox Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/arctic_fox_armor_boots"
+                    }
+                },
+            {
+                "when": "Beehive Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/beehive_armor_boots"
+                    }
+                },
+            {
+                "when": "Black Spot Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/black_spot_armor_boots"
+                    }
+                },
+            {
+                "when": "Black Wolf Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/black_wolf_armor_boots"
+                    }
+                },
+            {
+                "when": "Cauldron Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cauldron_armor_boots"
+                    }
+                },
+            {
+                "when": "Cave Crawler Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cave_crawler_boots"
+                    }
+                },
+            {
+                "when": "Cloaked Skull Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/cloaked_skull_boots"
+                    }
+                },
+            {
+                "when": "Curious Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/curious_armor_boots"
+                    }
+                },
+            {
+                "when": "Ember Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ember_robe_boots"
+                    }
+                },
+            {
+                "when": "Fox Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/fox_armor_boots"
+                    }
+                },
+            {
+                "when": "Frost Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/frost_armor_boots"
+                    }
+                },
+            {
+                "when": "Frost Bite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/frost_bite_boots"
+                    }
+                },
+            {
+                "when": "Full Metal Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/full_metal_armor_boots"
+                    }
+                },
+            {
+                "when": "Ghost Kindler Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/ghost_kindler_boots"
+                    }
+                },
+            {
+                "when": "Gilded Glory Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/gilded_glory_boots"
+                    }
+                },
+            {
+                "when": "Glow Squid Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/glow_squid_armor_boots"
+                    }
+                },
+            {
+                "when": "Goat Gear Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/goat_gear_boots"
+                    }
+                },
+            {
+                "when": "Hero's Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/heros_armor_boots"
+                    }
+                },
+            {
+                "when": "Highland Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/highland_armor_boots"
+                    }
+                },
+            {
+                "when": "Hungriest Horror Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hungriest_horror_boots"
+                    }
+                },
+            {
+                "when": "Hungry Horror Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/hungry_horror_boots"
+                    }
+                },
+            {
+                "when": "Living Vines Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/living_vines_armor_boots"
+                    }
+                },
+            {
+                "when": "Nimble Turtle Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/nimble_turtle_armor_boots"
+                    }
+                },
+            {
+                "when": "Opulent Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/opulent_armor_boots"
+                    }
+                },
+            {
+                "when": "Renegade Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/renegade_armor_boots"
+                    }
+                },
+            {
+                "when": "Rugged Climbing Gear Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/rugged_climbing_gear_boots"
+                    }
+                },
+            {
+                "when": "Shadow Walker Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/shadow_walker_boots"
+                    }
+                },
+            {
+                "when": "Souldancer Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/souldancer_robe_boots"
+                    }
+                },
+            {
+                "when": "Spider Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/spider_armor_boots"
+                    }
+                },
+            {
+                "when": "Splendid Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/splendid_robe_boots"
+                    }
+                },
+            {
+                "when": "Stalwart Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/stalwart_armor_boots"
+                    }
+                },
+            {
+                "when": "Sturdy Shulker Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sturdy_shulker_armor_boots"
+                    }
+                },
+            {
+                "when": "Sweet Tooth Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/sweet_tooth_boots"
+                    }
+                },
+            {
+                "when": "The Gourdian Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/the_gourdian_armor_boots"
+                    }
+                },
+            {
+                "when": "The Troubadour Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/the_troubadour_boots"
+                    }
+                },
+            {
+                "when": "Titan's Shroud Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/titans_shroud_boots"
+                    }
+                },
+            {
+                "when": "Unstable Robes Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/unstable_robes_boots"
+                    }
+                },
+            {
+                "when": "Verdant Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/verdant_robe_boots"
+                    }
+                },
+            {
+                "when": "Wither Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/minecraft_dungeons/icons_armor/wither_armor_boots"
+                    }
+                },
+            {
+                "when": "Iron Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_energy_armor_boots"
+                }
+            },
+            {
+                "when": "Merchant Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/merchant_armor_boots"
+                }
+            },
+            {
+                "when": "Abomination Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/abomination_armor_boots"
+                }
+            },
+
+            {
+                "when": "Aether Majesty Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/aether_majesty_armor_boots"
+                }
+            },
+
+            {
+                "when": "Alien Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/alien_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Allay Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/allay_armor_boots"
+                }
+            },
+
+            {
+                "when": "Amethyst Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/amethyst_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ancient Guardian Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ancient_guardian_armor_boots"
+                }
+            },
+
+            {
+                "when": "Arch-Illager Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/arch-illager_robe_boots"
+                }
+            },
+
+            {
+                "when": "Aurora Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/aurora_armor_boots"
+                }
+            },
+
+            {
+                "when": "Axolotl Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/axolotl_armor_boots"
+                }
+            },
+
+            {
+                "when": "Bat Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bat_armor_boots"
+                }
+            },
+
+            {
+                "when": "Bee Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bee_armor_boots"
+                }
+            },
+
+            {
+                "when": "Blackstone Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blackstone_armor_boots"
+                }
+            },
+
+            {
+                "when": "Blastling Robes Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blastling_robes_boots"
+                }
+            },
+
+            {
+                "when": "Blood Moon Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/blood_moon_armor_boots"
+                }
+            },
+
+            {
+                "when": "Bone Spider Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/bone_spider_armor_boots"
+                }
+            },
+
+            {
+                "when": "Brutally Scrapped Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/brutally_scrapped_boots"
+                }
+            },
+
+            {
+                "when": "Captain's Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/captains_robe_boots"
+                }
+            },
+
+            {
+                "when": "Cave Crystal Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/cave_crystal_armor_boots"
+                }
+            },
+
+            {
+                "when": "Cave Spider Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/cave_spider_armor_boots"
+                }
+            },
+
+            {
+                "when": "Chorus Flower Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/chorus_flower_armor_boots"
+                }
+            },
+
+            {
+                "when": "Copper Golem Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/copper_golem_armor_boots"
+                }
+            },
+
+            {
+                "when": "Coral Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/coral_armor_boots"
+                }
+            },
+
+            {
+                "when": "Creeper Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/creeper_armor_boots"
+                }
+            },
+
+            {
+                "when": "Dark Netherite Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dark_netherite_armor_boots"
+                }
+            },
+
+            {
+                "when": "Diamond Mountaineer Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_mountaineer_armor_boots"
+                }
+            },
+
+            {
+                "when": "Diamond Pillager Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_pillager_armor_boots"
+                }
+            },
+
+            {
+                "when": "Diamond Vindicator Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/diamond_vindicator_armor_boots"
+                }
+            },
+
+            {
+                "when": "Dolphin Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dolphin_armor_boots"
+                }
+            },
+
+            {
+                "when": "Dormant Sun Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dormant_sun_armor_boots"
+                }
+            },
+
+            {
+                "when": "Dragon Scale Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/dragon_scale_armor_boots"
+                }
+            },
+
+            {
+                "when": "Drowned Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/drowned_armor_boots"
+                }
+            },
+
+            {
+                "when": "Drowned Necromancer Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/drowned_necromancer_boots"
+                }
+            },
+
+            {
+                "when": "Elder Guardian Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/elder_guardian_armor_boots"
+                }
+            },
+
+            {
+                "when": "Emerald Gale Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/emerald_gale_boots"
+                }
+            },
+
+            {
+                "when": "Enchanter's Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enchanters_robe_boots"
+                }
+            },
+
+            {
+                "when": "Enchantsmith Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enchantsmith_armor_boots"
+                }
+            },
+
+            {
+                "when": "Enderman Robes Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/enderman_robes_boots"
+                }
+            },
+
+            {
+                "when": "Endermite Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/endermite_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ender Dragon Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ender_dragon_armor_boots"
+                }
+            },
+
+            {
+                "when": "End Portal Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/end_portal_armor_boots"
+                }
+            },
+
+            {
+                "when": "Eternal Drowned Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/eternal_drowned_armor_boots"
+                }
+            },
+
+            {
+                "when": "Festive Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/festive_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Fortified Diamond Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/fortified_diamond_armor_boots"
+                }
+            },
+
+            {
+                "when": "Frog Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/frog_armor_boots"
+                }
+            },
+
+            {
+                "when": "Geomancer Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/geomancer_robe_boots"
+                }
+            },
+
+            {
+                "when": "Ghast Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ghast_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ghost Cloak Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ghost_cloak_armor_boots"
+                }
+            },
+
+            {
+                "when": "Gift Wrapper Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/gift_wrapper_armor_boots"
+                }
+            },
+
+            {
+                "when": "Glare Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/glare_armor_boots"
+                }
+            },
+
+            {
+                "when": "Glowing Lush Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/glowing_lush_armor_boots"
+                }
+            },
+
+            {
+                "when": "Golden Knight Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_knight_armor_boots"
+                }
+            },
+
+            {
+                "when": "Golden Mountaineer Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_mountaineer_armor_boots"
+                }
+            },
+
+            {
+                "when": "Golden Pillager Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_pillager_armor_boots"
+                }
+            },
+
+            {
+                "when": "Golden Vindicator Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/golden_vindicator_armor_boots"
+                }
+            },
+
+            {
+                "when": "Guardian Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/guardian_armor_boots"
+                }
+            },
+
+            {
+                "when": "Heart of Ender Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/heart_of_ender_armor_boots"
+                }
+            },
+
+            {
+                "when": "Hidora Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/hidora_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Hovering Inferno Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/hovering_inferno_armor_boots"
+                }
+            },
+
+            {
+                "when": "Husk Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/husk_armor_boots"
+                }
+            },
+
+            {
+                "when": "Iceologer Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iceologer_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Ice Illusioner Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ice_illusioner_armor_boots"
+                }
+            },
+
+            {
+                "when": "Icy Spider Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/icy_spider_armor_boots"
+                }
+            },
+
+            {
+                "when": "Igloo Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/igloo_armor_boots"
+                }
+            },
+
+            {
+                "when": "Illusioner Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/illusioner_armor_boots"
+                }
+            },
+
+            {
+                "when": "Iron Warrior Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/iron_warrior_armor_boots"
+                }
+            },
+
+            {
+                "when": "Lapis Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/lapis_armor_boots"
+                }
+            },
+
+            {
+                "when": "Leapleaf Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/leapleaf_armor_boots"
+                }
+            },
+
+            {
+                "when": "Luxury Merchant Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/luxury_merchant_armor_boots"
+                }
+            },
+
+            {
+                "when": "Mage Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mage_robe_boots"
+                }
+            },
+
+            {
+                "when": "Magma Cube Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/magma_cube_armor_boots"
+                }
+            },
+
+            {
+                "when": "Monstrosity Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/monstrosity_armor_boots"
+                }
+            },
+
+            {
+                "when": "Moonlight Skull Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/moonlight_skull_boots"
+                }
+            },
+
+            {
+                "when": "Moon Bulwark Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/moon_bulwark_armor_boots"
+                }
+            },
+
+            {
+                "when": "Mossy Skeleton Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mossy_skeleton_armor_boots"
+                }
+            },
+
+            {
+                "when": "Mountaineer Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mountaineer_armor_boots"
+                }
+            },
+
+            {
+                "when": "Mystery Merchant Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/mystery_merchant_armor_boots"
+                }
+            },
+
+            {
+                "when": "Nameless Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/nameless_armor_boots"
+                }
+            },
+
+            {
+                "when": "Necromancer Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/necromancer_armor_boots"
+                }
+            },
+
+            {
+                "when": "Nether Portal Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/nether_portal_armor_boots"
+                }
+            },
+
+            {
+                "when": "Night Sky Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/night_sky_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ocean Depths Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ocean_depths_armor_boots"
+                }
+            },
+
+            {
+                "when": "Panda Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/panda_armor_boots"
+                }
+            },
+
+            {
+                "when": "Pharaoh's Luck Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pharaohs_luck_boots"
+                }
+            },
+
+            {
+                "when": "Piglin Brute Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/piglin_brute_armor_boots"
+                }
+            },
+
+            {
+                "when": "Piglin Merchant Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/piglin_merchant_armor_boots"
+                }
+            },
+
+            {
+                "when": "Pink Tower Wraith Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pink_tower_wraith_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Pirate Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pirate_armor_boots"
+                }
+            },
+
+            {
+                "when": "Polar Bear Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/polar_bear_armor_boots"
+                }
+            },
+
+            {
+                "when": "Pottery Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/pottery_armor_boots"
+                }
+            },
+
+            {
+                "when": "Psychic Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/psychic_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Queen Bee Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/queen_bee_armor_boots"
+                }
+            },
+
+            {
+                "when": "Quest Giver Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/quest_giver_armor_boots"
+                }
+            },
+
+            {
+                "when": "Radiant Coral Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/radiant_coral_armor_boots"
+                }
+            },
+
+            {
+                "when": "Rascal Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/rascal_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ravager Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ravager_armor_boots"
+                }
+            },
+
+            {
+                "when": "Redstone Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/redstone_armor_boots"
+                }
+            },
+
+            {
+                "when": "Redstone Golem Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/redstone_golem_armor_boots"
+                }
+            },
+
+            {
+                "when": "Red Torment Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/red_torment_boots"
+                }
+            },
+
+            {
+                "when": "Regal Tiger Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/regal_tiger_armor_boots"
+                }
+            },
+
+            {
+                "when": "Royal Guard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/royal_guard_armor_boots"
+                }
+            },
+
+            {
+                "when": "Ruby Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/ruby_armor_boots"
+                }
+            },
+
+            {
+                "when": "Sentinel Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sentinel_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Shiverburn Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/shiverburn_armor_boots"
+                }
+            },
+
+            {
+                "when": "Silverfish Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/silverfish_armor_boots"
+                }
+            },
+
+            {
+                "when": "Skeleton Wolf Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/skeleton_wolf_armor_boots"
+                }
+            },
+
+            {
+                "when": "Snareling Robes Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/snareling_robes_boots"
+                }
+            },
+
+            {
+                "when": "Sniffer Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sniffer_armor_boots"
+                }
+            },
+
+            {
+                "when": "Soul Drowned Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/soul_drowned_armor_boots"
+                }
+            },
+
+            {
+                "when": "Soul Valley Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/soul_valley_armor_boots"
+                }
+            },
+
+            {
+                "when": "Spawner Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/spawner_armor_boots"
+                }
+            },
+
+            {
+                "when": "Squall Golem Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/squall_golem_armor_boots"
+                }
+            },
+
+            {
+                "when": "Stray Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/stray_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Strider Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/strider_armor_boots"
+                }
+            },
+
+            {
+                "when": "Stronghold's Treasure Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/strongholds_treasure_boots"
+                }
+            },
+
+            {
+                "when": "Sun Paladin Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/sun_paladin_armor_boots"
+                }
+            },
+
+            {
+                "when": "Swiftness Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/swiftness_armor_boots"
+                }
+            },
+
+            {
+                "when": "Tempest Golem Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tempest_golem_armor_boots"
+                }
+            },
+
+            {
+                "when": "Thorned Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/thorned_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Tower Guard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tower_guard_armor_boots"
+                }
+            },
+
+            {
+                "when": "Tower Wraith Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/tower_wraith_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Treaded Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/treaded_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Vanguard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/vanguard_armor_boots"
+                }
+            },
+
+            {
+                "when": "Vex Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/vex_armor_boots"
+                }
+            },
+
+            {
+                "when": "Violet Energy Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/violet_energy_armor_boots"
+                }
+            },
+
+            {
+                "when": "Violet Umbra Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/violet_umbra_boots"
+                }
+            },
+
+            {
+                "when": "Wandering Trader Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wandering_trader_armor_boots"
+                }
+            },
+
+            {
+                "when": "Warden Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/warden_armor_boots"
+                }
+            },
+
+            {
+                "when": "Whiteout Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/whiteout_armor_boots"
+                }
+            },
+
+            {
+                "when": "Wind Caller Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wind_caller_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Witches Robe Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/witches_robe_boots"
+                }
+            },
+
+            {
+                "when": "Wither Boss Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wither_boss_armor_boots"
+                }
+            },
+
+            {
+                "when": "Wraith Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wraith_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Wretched Wraith Cloak Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/wretched_wraith_cloak_boots"
+                }
+            },
+
+            {
+                "when": "Zombie Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_dungeons/icons_armor/zombie_armor_boots"
+                }
+            },
+            {
+                "when": "Blazing Core Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/blazing_core_boots"
+                }
+            },
+            {
+                "when": "Slumbering Wave Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/slumbering_wave_boots"
+                }
+            },
+            {
+                "when": "Solemn Forest Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/solemn_forest_boots"
+                }
+            },
+            {
+                "when": "Thermion Bolt Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/thermion_bolt_boots"
+                }
+            },
+            {
+                "when": "Wither Storm Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/new_default_plus_story_mode/wither_storm_boots"
+                }
+            },
+            {
+                "when": "Armor Number 7 Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/armor_number_7_boots"
+                }
+            },
+            {
+                "when": "Dented Danger Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dented_danger_boots"
+                }
+            },
+            {
+                "when": "Feelin' Cute Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/feelin_cute_boots"
+                }
+            },
+            {
+                "when": "Goofball Glory Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/goofball_glory_boots"
+                }
+            },
+            {
+                "when": "Llama Brown-ish Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/llama_brown-ish_boots"
+                }
+            },
+            {
+                "when": "Please Don't Hit Me Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/please_dont_hit_me_boots"
+                }
+            },
+            {
+                "when": "Straps 'n' Straps Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/straps_n_straps_boots"
+                }
+            },
+            {
+                "when": "The Tooth Chipper Chestplate",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/the_tooth_chipper_boots"
+                }
+            },
+            {
+                "when": "Chiming Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/chiming_netherite/chiming_netherite_boots"
+                }
+            },
+            {
+                "when": "Gilded Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/gilded_netherite/gilded_netherite_boots"
+                }
+            },
+            {
+                "when": "Jeweled Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/jeweled_netherite/jeweled_netherite_boots"
+                }
+            },
+            {
+                "when": "Molten Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/molten_netherite/molten_netherite_boots"
+                }
+            },
+            {
+                "when": "Opulent Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/opulent_netherite/opulent_netherite_boots"
+                }
+            },
+            {
+                "when": "Ornate Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/ornate_netherite/ornate_netherite_boots"
+                }
+            },
+            {
+                "when": "Soulblaze Netherite Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/new_default_plus/soulblaze_netherite/soulblaze_netherite_boots"
+                }
+            },
+            {
+                "when": "Armor Number 7 Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/armor_number_7_boots"
+                }
+            },
+            {
+                "when": "Dented Danger Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dented_danger_boots"
+                }
+            },
+            {
+                "when": "Please Don't Hit Me Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/please_dont_hit_me_boots"
+                }
+            },
+            {
+                "when": "Adamantium Impervium Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/adamantium_impervium_boots"
+                }
+            },
+            {
+                "when": "Admin Fred Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_fred_armor_boots"
+                }
+            },
+            {
+                "when": "Admin Romeo Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_romeo_armor_boots"
+                }
+            },
+            {
+                "when": "Admin Xara Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/admin_xara_armor_boots"
+                }
+            },
+            {
+                "when": "Aiden Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/aiden_armor_boots"
+                }
+            },
+            {
+                "when": "Axel Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/axel_armor_boots"
+                }
+            },
+            {
+                "when": "Champion Jack Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/champion_jack_armor_boots"
+                }
+            },
+            {
+                "when": "Champion Petra Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/champion_petra_armor_boots"
+                }
+            },
+            {
+                "when": "Dragonsbane Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/dragonsbane_boots"
+                }
+            },
+            {
+                "when": "Ellegaard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ellegaard_armor_boots"
+                }
+            },
+            {
+                "when": "Enderman Soren Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/enderman_soren_armor_boots"
+                }
+            },
+            {
+                "when": "Ender Defender Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ender_defender_boots"
+                }
+            },
+            {
+                "when": "Fireworks Union Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/fireworks_union_armor_boots"
+                }
+            },
+            {
+                "when": "Founder Isa Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/founder_isa_armor_boots"
+                }
+            },
+            {
+                "when": "Gabriel Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gabriel_armor_boots"
+                }
+            },
+            {
+                "when": "Gill Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gill_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Capital T Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_capital_t_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Clutch Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_clutch_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Facemeat Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_facemeat_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Headpunch Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_headpunch_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Meatface Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_meatface_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Shinstomper Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_shinstomper_armor_boots"
+                }
+            },
+            {
+                "when": "Gladiator Slab Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/gladiator_slab_armor_boots"
+                }
+            },
+            {
+                "when": "Golden Apple Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/golden_apple_boots"
+                }
+            },
+            {
+                "when": "Golden Goliath Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/golden_goliath_boots"
+                }
+            },
+            {
+                "when": "Harper Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/harper_armor_boots"
+                }
+            },
+            {
+                "when": "Institute Associate Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_associate_armor_boots"
+                }
+            },
+            {
+                "when": "Institute Prisoner Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_prisoner_armor_boots"
+                }
+            },
+            {
+                "when": "Institute Guard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_guard_armor_boots"
+                }
+            },
+            {
+                "when": "Institute Warden Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/institute_warden_armor_boots"
+                }
+            },
+            {
+                "when": "Ivor Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ivor_armor_boots"
+                }
+            },
+            {
+                "when": "Jack Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/jack_armor_boots"
+                }
+            },
+            {
+                "when": "Lukas Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/lukas_armor_boots"
+                }
+            },
+            {
+                "when": "Magnus Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/magnus_armor_boots"
+                }
+            },
+            {
+                "when": "Maya Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/maya_armor_boots"
+                }
+            },
+            {
+                "when": "Ninja Ivor Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/ninja_ivor_armor_boots"
+                }
+            },
+            {
+                "when": "Nurm Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/nurm_armor_boots"
+                }
+            },
+            {
+                "when": "Olivia Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/olivia_armor_boots"
+                }
+            },
+            {
+                "when": "Petra Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/petra_armor_boots"
+                }
+            },
+            {
+                "when": "Prismarine Soldier Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/prismarine_soldier_armor_boots"
+                }
+            },
+            {
+                "when": "Redstone Riot Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/redstone_riot_boots"
+                }
+            },
+            {
+                "when": "Reginald Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/reginald_armor_boots"
+                }
+            },
+            {
+                "when": "Shield of Infinity Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/shield_of_infinity_boots"
+                }
+            },
+            {
+                "when": "Sky City Guard Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/sky_city_guard_armor_boots"
+                }
+            },
+            {
+                "when": "Soren Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/soren_armor_boots"
+                }
+            },
+            {
+                "when": "Star Shield Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/star_shield_boots"
+                }
+            },
+            {
+                "when": "Swordbreaker Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/swordbreaker_boots"
+                }
+            },
+            {
+                "when": "Tim Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/tim_armor_boots"
+                }
+            },
+            {
+                "when": "Vos Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/vos_armor_boots"
+                }
+            },
+            {
+                "when": "White Pumpkin Armor Boots",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/icons/story_mode/white_pumpkin_armor_boots"
+                }
+            }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:trim_material",
+
+      "cases": [
+        {
+          "when": "minecraft:quartz",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_quartz_trim"
+          }
+        },
+        {
+          "when": "minecraft:iron",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_iron_trim"
+          }
+        },
+        {
+          "when": "minecraft:netherite",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_netherite_trim"
+          }
+        },
+        {
+          "when": "minecraft:redstone",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_redstone_trim"
+          }
+        },
+        {
+          "when": "minecraft:copper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_copper_trim"
+          }
+        },
+        {
+          "when": "minecraft:gold",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_gold_trim"
+          }
+        },
+        {
+          "when": "minecraft:emerald",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_emerald_trim"
+          }
+        },
+        {
+          "when": "minecraft:diamond",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_diamond_trim"
+          }
+        },
+        {
+          "when": "minecraft:lapis",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_lapis_trim"
+          }
+        },
+        {
+          "when": "minecraft:amethyst",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_amethyst_trim"
+          }
+        },
+        {
+          "when": "minecraft:resin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_boots_resin_trim"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_boots"
+      }
+    }
+  }
+}

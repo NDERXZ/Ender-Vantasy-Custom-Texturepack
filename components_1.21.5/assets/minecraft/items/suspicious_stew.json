@@ -1,0 +1,153 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:suspicious_stew_effects",
+        "cases": [
+            {
+                "when": [
+                    [
+                        {
+                            "id": "saturation",
+                            "duration": 7
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_saturation"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "night_vision",
+                            "duration": 100
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_night_vision"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "blindness",
+                            "duration": 220
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_blindness"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "nausea",
+                            "duration": 140
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_nausea"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "fire_resistance",
+                            "duration": 60
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_fire_resistance"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "regeneration",
+                            "duration": 140
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_regeneration"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "jump_boost",
+                            "duration": 100
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_jump_boost"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "poison",
+                            "duration": 220
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_poison"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "wither",
+                            "duration": 140
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_wither"
+                }
+            },
+            {
+                "when": [
+                    [
+                        {
+                            "id": "weakness",
+                            "duration": 140
+                        }
+                    ]
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/suspicious_stew_weakness"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/suspicious_stew"
+        }
+    }
+}

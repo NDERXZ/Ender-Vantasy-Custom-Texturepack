@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/soul_hunter_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/soul_hunter_crossbow_arrow"
+  }
+}

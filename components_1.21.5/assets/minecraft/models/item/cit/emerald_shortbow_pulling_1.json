@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/emerald_shortbow",
+  "textures": {
+    "layer0": "minecraft:item/cit/emerald_shortbow_pulling_1"
+  }
+}

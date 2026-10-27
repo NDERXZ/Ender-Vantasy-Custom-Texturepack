@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings"],
+	"modelPrefix": "icons/minecraft_dungeons/rugged_climbing_gear_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Rugged Climbing Gear Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

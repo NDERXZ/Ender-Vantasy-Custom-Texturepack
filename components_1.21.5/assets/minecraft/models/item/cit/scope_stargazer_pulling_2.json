@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/scope_stargazer",
+  "textures": {
+    "layer0": "minecraft:item/cit/scope_stargazer_pulling_2"
+  }
+}

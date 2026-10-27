@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/diamond_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/diamond_crossbow_arrow"
+  }
+}

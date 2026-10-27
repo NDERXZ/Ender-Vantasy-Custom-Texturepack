@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/flying_voltage_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/flying_voltage_firework"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/treasure_ray_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/treasure_ray_pulling_0"
+  }
+}

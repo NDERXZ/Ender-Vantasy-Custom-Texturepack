@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/gleaming_star",
+  "textures": {
+    "layer0": "minecraft:item/cit/gleaming_star_pulling_0"
+  }
+}

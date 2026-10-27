@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/sable_longbow",
+  "textures": {
+    "layer0": "minecraft:item/cit/sable_longbow_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/autumn_wind",
+  "textures": {
+    "layer0": "minecraft:item/cit/autumn_wind_pulling_1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/new_default_plus_dungeons/ocean_depths_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Ocean Depths Armor Boots|Ocean Depths Armor Helmet|Ocean Depths Armor Chestplate",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

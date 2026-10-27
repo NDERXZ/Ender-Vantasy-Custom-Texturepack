@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "netherite_boots","diamond_chestplate", "netherite_chestplate", "diamond_helmet", "netherite_helmet"],
+	"modelPrefix": "icons/minecraft_dungeons/highland_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Highland Armor Helmet|Highland Armor Chestplate|Highland Armor Boots",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

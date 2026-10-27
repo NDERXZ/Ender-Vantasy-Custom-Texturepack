@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/new_default_plus_dungeons/monstrosity_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Monstrosity Armor Boots|Monstrosity Armor Helmet|Monstrosity Armor Chestplate",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

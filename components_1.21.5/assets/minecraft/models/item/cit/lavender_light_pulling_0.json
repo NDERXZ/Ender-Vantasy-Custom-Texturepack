@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/lavender_light",
+  "textures": {
+    "layer0": "minecraft:item/cit/lavender_light_pulling_0"
+  }
+}

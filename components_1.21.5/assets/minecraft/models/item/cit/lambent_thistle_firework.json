@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/lambent_thistle_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/lambent_thistle_firework"
+  }
+}

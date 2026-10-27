@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/copper_contraption_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/copper_contraption_pulling_0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_leggings", "netherite_leggings", "iron_leggings"],
+	"modelPrefix": "icons/minecraft_dungeons/blue_mystery_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Blue Mystery Armor Leggings",
+            "substitution": "2",
+			"lowercase": true
+	    }
+    }
+}

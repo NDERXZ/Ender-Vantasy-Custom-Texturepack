@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "netherite_boots","diamond_chestplate", "netherite_chestplate", "diamond_helmet", "netherite_helmet"],
+	"modelPrefix": "icons/minecraft_dungeons/living_vines_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Living Vines Armor Helmet|Living Vines Armor Chestplate|Living Vines Armor Boots",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

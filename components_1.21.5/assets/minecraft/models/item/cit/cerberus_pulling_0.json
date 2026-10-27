@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/cerberus",
+  "textures": {
+    "layer0": "minecraft:item/cit/cerberus_pulling_0"
+  }
+}

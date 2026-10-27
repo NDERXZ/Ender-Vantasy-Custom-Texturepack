@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/high_noon_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/high_noon_crossbow_pulling_0"
+  }
+}

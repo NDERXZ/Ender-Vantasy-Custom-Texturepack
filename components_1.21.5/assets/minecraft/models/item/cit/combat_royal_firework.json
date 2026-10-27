@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/combat_royal_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/combat_royal_firework"
+  }
+}

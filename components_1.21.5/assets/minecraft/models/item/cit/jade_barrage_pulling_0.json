@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/jade_barrage_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/jade_barrage_pulling_0"
+  }
+}

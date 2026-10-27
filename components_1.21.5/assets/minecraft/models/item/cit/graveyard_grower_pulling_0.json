@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/graveyard_grower",
+  "textures": {
+    "layer0": "minecraft:item/cit/graveyard_grower_pulling_0"
+  }
+}

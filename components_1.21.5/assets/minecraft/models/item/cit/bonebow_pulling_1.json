@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bonebow",
+  "textures": {
+    "layer0": "minecraft:item/cit/bonebow_pulling_1"
+  }
+}

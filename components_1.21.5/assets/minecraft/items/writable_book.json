@@ -1,0 +1,61 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": [
+                    "Enchanter's Tome",
+                    "Enchanters Tome"
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/enchanters_tome_writable"
+                }
+            },
+            {
+                "when": "Tome of Duplication",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/tome_of_duplication_writable"
+                }
+            },
+            {
+                "when": "Updraft Tome",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/updraft_tome_writable"
+                }
+            },
+            {
+                "when": "Command Block Book",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/command_block_book_writable"
+                }
+            },
+            {
+                "when": "Portal Atlas",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/portal_atlas_writable"
+                }
+            },
+            {
+                "when": [
+                    "Fred's Journal",
+                    "Freds Journal"
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/freds_journal_writable"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/writable_book"
+        }
+    }
+}

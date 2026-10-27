@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/spirit_breaker",
+  "textures": {
+    "layer0": "minecraft:item/cit/spirit_breaker_pulling_2"
+  }
+}

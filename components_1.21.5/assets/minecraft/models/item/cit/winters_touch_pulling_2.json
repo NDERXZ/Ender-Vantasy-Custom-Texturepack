@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/winters_touch",
+  "textures": {
+    "layer0": "minecraft:item/cit/winters_touch_pulling_2"
+  }
+}

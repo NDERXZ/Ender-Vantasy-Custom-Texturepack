@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/netherite_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/netherite_bow_pulling_0"
+  }
+}

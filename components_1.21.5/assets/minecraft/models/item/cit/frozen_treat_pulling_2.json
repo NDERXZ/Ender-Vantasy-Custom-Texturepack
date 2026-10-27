@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/frozen_treat",
+  "textures": {
+    "layer0": "minecraft:item/cit/frozen_treat_pulling_2"
+  }
+}

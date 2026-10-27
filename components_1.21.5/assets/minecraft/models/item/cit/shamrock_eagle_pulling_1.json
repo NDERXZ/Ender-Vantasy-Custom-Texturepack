@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/shamrock_eagle",
+  "textures": {
+    "layer0": "minecraft:item/cit/shamrock_eagle_pulling_1"
+  }
+}

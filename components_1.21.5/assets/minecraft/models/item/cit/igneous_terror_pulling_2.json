@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/igneous_terror",
+  "textures": {
+    "layer0": "minecraft:item/cit/igneous_terror_pulling_2"
+  }
+}

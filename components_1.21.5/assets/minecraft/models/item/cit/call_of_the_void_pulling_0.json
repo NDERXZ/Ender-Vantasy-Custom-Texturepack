@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/call_of_the_void",
+  "textures": {
+    "layer0": "minecraft:item/cit/call_of_the_void_pulling_0"
+  }
+}

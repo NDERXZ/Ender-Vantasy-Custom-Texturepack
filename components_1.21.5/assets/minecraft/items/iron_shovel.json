@@ -1,0 +1,128 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Dungeons Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/shovel"
+                }
+            },
+            {
+                "when": "Scoop Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/scoop_shovel"
+                }
+            },
+            {
+                "when": "Edging Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/edging_shovel"
+                }
+            },
+            {
+                "when": "Combat Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/combat_shovel"
+                }
+            },
+            {
+                "when": "Spade",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spade"
+                }
+            },
+            {
+                "when": "Snow Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/snow_shovel"
+                }
+            },
+            {
+                "when": "Pointed Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/pointed_shovel"
+                }
+            },
+            {
+                "when": "Trench Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/trench_shovel"
+                }
+            },
+            {
+                "when": "Army Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/army_shovel"
+                }
+            },
+            {
+                "when": "Serrated Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/serrated_shovel"
+                }
+            },
+            {
+                "when": "Trowel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/trowel"
+                }
+            },
+            {
+                "when": "Handheld Shovel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/handheld_shovel"
+                }
+            },
+            {
+                "when": "Spoon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/spoon"
+                }
+            },
+            {
+                "when": "Drill",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/drill"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:select",
+            "property": "minecraft:context_entity_type",
+            "cases": [
+                {
+                    "when": [
+                        "minecraft:zombie",
+                        "minecraft:zombie_villager",
+                        "minecraft:husk"
+                    ],
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/cit/daggers"
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/iron_shovel"
+            }
+        }
+    }
+}

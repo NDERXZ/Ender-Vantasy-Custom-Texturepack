@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/bombshell_sniper_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/bombshell_sniper_arrow"
+  }
+}

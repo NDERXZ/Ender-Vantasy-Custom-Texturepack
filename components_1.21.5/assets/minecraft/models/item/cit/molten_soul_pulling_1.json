@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/molten_soul_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/molten_soul_pulling_1"
+  }
+}

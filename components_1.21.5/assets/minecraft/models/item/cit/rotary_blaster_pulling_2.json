@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/rotary_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/rotary_blaster_pulling_2"
+  }
+}

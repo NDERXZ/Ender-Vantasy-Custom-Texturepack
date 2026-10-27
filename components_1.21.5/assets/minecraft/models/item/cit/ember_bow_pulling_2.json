@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ember_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/ember_bow_pulling_2"
+  }
+}

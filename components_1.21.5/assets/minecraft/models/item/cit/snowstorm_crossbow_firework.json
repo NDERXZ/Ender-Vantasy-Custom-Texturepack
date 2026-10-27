@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/snowstorm_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/snowstorm_crossbow_firework"
+  }
+}

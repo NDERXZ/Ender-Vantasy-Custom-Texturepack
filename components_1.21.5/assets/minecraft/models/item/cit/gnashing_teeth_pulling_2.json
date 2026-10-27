@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/gnashing_teeth",
+  "textures": {
+    "layer0": "minecraft:item/cit/gnashing_teeth_pulling_2"
+  }
+}

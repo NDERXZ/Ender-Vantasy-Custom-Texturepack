@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/pyro_blaster",
+  "textures": {
+    "layer0": "minecraft:item/cit/pyro_blaster_pulling_0"
+  }
+}

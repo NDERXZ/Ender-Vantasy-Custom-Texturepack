@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ensnared_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/ensnared_bow_pulling_1"
+  }
+}

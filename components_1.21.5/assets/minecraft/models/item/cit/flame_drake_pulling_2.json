@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/flame_drake",
+  "textures": {
+    "layer0": "minecraft:item/cit/flame_drake_pulling_2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/blaster_wand",
+  "textures": {
+    "layer0": "minecraft:item/cit/blaster_wand_pulling_0"
+  }
+}

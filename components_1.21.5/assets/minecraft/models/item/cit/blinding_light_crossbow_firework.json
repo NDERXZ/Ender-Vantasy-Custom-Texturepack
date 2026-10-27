@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/blinding_light_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/blinding_light_crossbow_firework"
+  }
+}

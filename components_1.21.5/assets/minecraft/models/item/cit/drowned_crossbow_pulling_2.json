@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/drowned_crossbow_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/drowned_crossbow_pulling_2"
+  }
+}

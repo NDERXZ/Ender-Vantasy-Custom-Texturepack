@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/azure_seeker_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/azure_seeker_arrow"
+  }
+}

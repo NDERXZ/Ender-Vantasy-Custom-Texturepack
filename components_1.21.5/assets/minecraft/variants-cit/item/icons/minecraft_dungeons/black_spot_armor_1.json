@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "netherite_boots","diamond_chestplate", "netherite_chestplate", "diamond_helmet", "netherite_helmet"],
+	"modelPrefix": "icons/minecraft_dungeons/black_spot_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Black Spot Armor Helmet|Black Spot Armor Chestplate|Black Spot Armor Boots",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

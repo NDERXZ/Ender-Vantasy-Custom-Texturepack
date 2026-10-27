@@ -1,0 +1,90 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "Dungeons Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hoe"
+                }
+            },
+            {
+                "when": "Cobra Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/cobra_hoe"
+                }
+            },
+            {
+                "when": "Ridging Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/ridging_hoe"
+                }
+            },
+            {
+                "when": "Combat Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/combat_hoe"
+                }
+            },
+            {
+                "when": "Hand Plow",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/hand_plow"
+                }
+            },
+            {
+                "when": "Draw Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/draw_hoe"
+                }
+            },
+            {
+                "when": "Chopping Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/chopping_hoe"
+                }
+            },
+            {
+                "when": "Onion Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/onion_hoe"
+                }
+            },
+            {
+                "when": "Dual Hoe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/dual_hoe"
+                }
+            },
+            {
+                "when": "Soul Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/soul_scythe"
+                }
+            },
+            {
+                "when": "Serrated Scythe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/cit/serrated_scythe"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_hoe"
+        }
+    }
+}

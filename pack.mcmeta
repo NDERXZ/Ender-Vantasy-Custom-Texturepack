@@ -1,0 +1,108 @@
+﻿{
+    "pack":  {
+                 "pack_format":  16,
+                 "description":  [
+                                     {
+                                         "text":  "Ender Vantasy",
+                                         "color":  "#a855f7",
+                                         "bold":  true
+                                     },
+                                     {
+                                         "text":  "\nInspired by BPK SMP",
+                                         "color":  "#94a3b8",
+                                         "bold":  false
+                                     }
+                                 ],
+                 "min_format":  [
+                                    16,
+                                    0
+                                ],
+                 "max_format":  [
+                                    500,
+                                    0
+                                ],
+                 "supported_formats":  [
+                                           16,
+                                           500
+                                       ]
+             },
+    "overlays":  {
+                     "entries":  [
+                                     {
+                                         "directory":  "components_1.21",
+                                         "formats":  [
+                                                         34,
+                                                         500
+                                                     ],
+                                         "min_format":  [
+                                                            34,
+                                                            0
+                                                        ],
+                                         "max_format":  [
+                                                            500,
+                                                            0
+                                                        ]
+                                     },
+                                     {
+                                         "directory":  "components_1.21.4",
+                                         "formats":  [
+                                                         43,
+                                                         500
+                                                     ],
+                                         "min_format":  [
+                                                            43,
+                                                            0
+                                                        ],
+                                         "max_format":  [
+                                                            500,
+                                                            0
+                                                        ]
+                                     },
+                                     {
+                                         "directory":  "components_1.21.5",
+                                         "formats":  [
+                                                         47,
+                                                         500
+                                                     ],
+                                         "min_format":  [
+                                                            47,
+                                                            0
+                                                        ],
+                                         "max_format":  [
+                                                            500,
+                                                            0
+                                                        ]
+                                     },
+                                     {
+                                         "directory":  "components_1.21.11",
+                                         "formats":  [
+                                                         70,
+                                                         500
+                                                     ],
+                                         "min_format":  [
+                                                            70,
+                                                            0
+                                                        ],
+                                         "max_format":  [
+                                                            500,
+                                                            0
+                                                        ]
+                                     },
+                                     {
+                                         "directory":  "components_26.1",
+                                         "formats":  [
+                                                         76,
+                                                         500
+                                                     ],
+                                         "min_format":  [
+                                                            76,
+                                                            0
+                                                        ],
+                                         "max_format":  [
+                                                            500,
+                                                            0
+                                                        ]
+                                     }
+                                 ]
+                 }
+}

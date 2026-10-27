@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/tidal_wave",
+  "textures": {
+    "layer0": "minecraft:item/cit/tidal_wave_pulling_1"
+  }
+}

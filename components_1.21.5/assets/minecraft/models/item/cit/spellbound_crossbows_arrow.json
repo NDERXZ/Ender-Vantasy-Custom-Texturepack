@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/spellbound_crossbows_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/spellbound_crossbows_arrow"
+  }
+}

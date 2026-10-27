@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_boots", "diamond_chestplate", "diamond_helmet",  "netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "icons/story_mode/sky_city_guard_armor_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Sky City Guard Armor Boots|Sky City Guard Armor Chestplate|Sky City Guard Armor Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

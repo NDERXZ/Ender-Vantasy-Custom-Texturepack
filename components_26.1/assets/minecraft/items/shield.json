@@ -1,0 +1,3902 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
+    "transformation": {
+      "left_rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "right_rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        -1.0,
+        -1.0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+        "on_false": {
+            "type": "minecraft:select",
+            "base": "item/shield",
+            "model": {
+                "type": "minecraft:shield"
+            },
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Leather Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/leather_shield",
+                        "model": "item/cit/leather_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stone_shield",
+                        "model": "item/cit/stone_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Golden Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/golden_shield",
+                        "model": "item/cit/golden_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Diamond Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/diamond_shield",
+                        "model": "item/cit/diamond_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Netherite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/netherite_shield",
+                        "model": "item/cit/netherite_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Vanguard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/vanguard_shield",
+                        "model": "item/cit/vanguard_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Necromancer Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/necromancer_shield",
+                        "model": "item/cit/necromancer_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nameless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nameless_shield",
+                        "model": "item/cit/nameless_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wraith Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wraith_shield",
+                        "model": "item/cit/wraith_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wretched Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wretched_shield",
+                        "model": "item/cit/wretched_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Headstone Hunter",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/headstone_hunter",
+                        "model": "item/cit/headstone_hunter",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Maroon Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/maroon_defender",
+                        "model": "item/cit/maroon_defender",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Darkness",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_darkness",
+                        "model": "item/cit/shield_of_darkness",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guard_shield",
+                        "model": "item/cit/guard_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Royal Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/royal_guard_shield",
+                        "model": "item/cit/royal_guard_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Castle Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/castle_shield",
+                        "model": "item/cit/castle_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Arch-Illager Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/arch-illager_shield",
+                        "model": "item/cit/arch-illager_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Undying",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_undying",
+                        "model": "item/cit/shield_of_undying",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Imperial Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/imperial_shield",
+                        "model": "item/cit/imperial_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Majesty Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/majesty_shield",
+                        "model": "item/cit/majesty_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Silhouette Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/silhouette_shield",
+                        "model": "item/cit/silhouette_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Tower Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tower_guard_shield",
+                        "model": "item/cit/tower_guard_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aqua Tower Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aqua_tower_shield",
+                        "model": "item/cit/aqua_tower_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of the Tower",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_tower",
+                        "model": "item/cit/shield_of_the_tower",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "End City Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/end_city_shield",
+                        "model": "item/cit/end_city_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pillager Outpost Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pillager_outpost_shield",
+                        "model": "item/cit/pillager_outpost_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nether Fortress Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nether_fortress_shield",
+                        "model": "item/cit/nether_fortress_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Trial Chambers Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/trial_chambers_shield",
+                        "model": "item/cit/trial_chambers_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stronghold Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stronghold_shield",
+                        "model": "item/cit/stronghold_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Heater Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/heater_shield",
+                        "model": "item/cit/heater_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Courage",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_courage",
+                        "model": "item/cit/shield_of_courage",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Prismarine Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/prismarine_shield",
+                        "model": "item/cit/prismarine_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Magic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magic_shield",
+                        "model": "item/cit/magic_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Thunder Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/thunder_shield",
+                        "model": "item/cit/thunder_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ritual Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ritual_shield",
+                        "model": "item/cit/ritual_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Jade Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/jade_shield",
+                        "model": "item/cit/jade_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Rising Ash",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rising_ash",
+                        "model": "item/cit/rising_ash",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Resisting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/resisting_shield",
+                        "model": "item/cit/resisting_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Fire Withstander",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/fire_withstander",
+                        "model": "item/cit/fire_withstander",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cresting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cresting_shield",
+                        "model": "item/cit/cresting_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Minacious Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/minacious_shield",
+                        "model": "item/cit/minacious_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cryoshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cryoshield",
+                        "model": "item/cit/cryoshield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Starless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/starless_shield",
+                        "model": "item/cit/starless_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nightdream",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nightdream",
+                        "model": "item/cit/nightdream",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stalwart Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stalwart_shield",
+                        "model": "item/cit/stalwart_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Medieval Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/medieval_shield",
+                        "model": "item/cit/medieval_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Highblock Flag Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/highblock_flag_shield",
+                        "model": "item/cit/highblock_flag_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Great Hall Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/great_hall_shield",
+                        "model": "item/cit/great_hall_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Romeo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_romeo_shield",
+                        "model": "item/cit/admin_romeo_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Xara Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_xara_shield",
+                        "model": "item/cit/admin_xara_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Fred Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_fred_shield",
+                        "model": "item/cit/admin_fred_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Glow Wings Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/glow_wings_shield",
+                        "model": "item/cit/glow_wings_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "World Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/world_shield",
+                        "model": "item/cit/world_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Battlement Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/battlement_shield",
+                        "model": "item/cit/battlement_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "The Last Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/the_last_defender",
+                        "model": "item/cit/the_last_defender",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Frozen Flame",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/frozen_flame",
+                        "model": "item/cit/frozen_flame",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cerise Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerise_shield",
+                        "model": "item/cit/cerise_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Veiled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/veiled_shield",
+                        "model": "item/cit/veiled_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Landscaper",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/landscaper",
+                        "model": "item/cit/landscaper",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Chthonic",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/chthonic",
+                        "model": "item/cit/chthonic",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Phantom Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/phantom_shield",
+                        "model": "item/cit/phantom_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Kite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/kite_shield",
+                        "model": "item/cit/kite_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lantern Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lantern_shield",
+                        "model": "item/cit/lantern_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lucent Orchid",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lucent_orchid",
+                        "model": "item/cit/lucent_orchid",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Basil Essence",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/basil_essence",
+                        "model": "item/cit/basil_essence",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of the Silenced",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_silenced",
+                        "model": "item/cit/shield_of_the_silenced",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nosferatu",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nosferatu",
+                        "model": "item/cit/nosferatu",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Harp Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/harp_shield",
+                        "model": "item/cit/harp_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Red Mamba",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/red_mamba",
+                        "model": "item/cit/red_mamba",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Iron Metal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iron_metal_shield",
+                        "model": "item/cit/iron_metal_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Russet Copper Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/russet_copper_shield",
+                        "model": "item/cit/russet_copper_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Redstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/redstone_shield",
+                        "model": "item/cit/redstone_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lapis Lazuli Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lapis_lazuli_shield",
+                        "model": "item/cit/lapis_lazuli_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ancient Darkshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ancient_darkshield",
+                        "model": "item/cit/ancient_darkshield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Flame Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/flame_shield",
+                        "model": "item/cit/flame_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cobalt Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cobalt_shield",
+                        "model": "item/cit/cobalt_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Warrior Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/warrior_shield",
+                        "model": "item/cit/warrior_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/buckler",
+                        "model": "item/cit/buckler",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Hero Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hero_shield",
+                        "model": "item/cit/hero_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Acoustic Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/acoustic_buckler",
+                        "model": "item/cit/acoustic_buckler",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Greenwood Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/greenwood_shield",
+                        "model": "item/cit/greenwood_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Accretion Disk",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/accretion_disk",
+                        "model": "item/cit/accretion_disk",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dreamcatcher",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dreamcatcher",
+                        "model": "item/cit/dreamcatcher",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lava Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lava_shield",
+                        "model": "item/cit/lava_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Corrupted Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/corrupted_shield",
+                        "model": "item/cit/corrupted_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hoplon",
+                        "model": "item/cit/hoplon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aeroshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aeroshield",
+                        "model": "item/cit/aeroshield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pasture Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pasture_hoplon",
+                        "model": "item/cit/pasture_hoplon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Superlative",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/superlative",
+                        "model": "item/cit/superlative",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mixing Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mixing_hoplon",
+                        "model": "item/cit/mixing_hoplon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dueling Crescents",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dueling_crescents",
+                        "model": "item/cit/dueling_crescents",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Tethered Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tethered_hoplon",
+                        "model": "item/cit/tethered_hoplon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Galaxy Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/galaxy_hoplon",
+                        "model": "item/cit/galaxy_hoplon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/targe",
+                        "model": "item/cit/targe",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Iridescent Sunshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iridescent_sunshield",
+                        "model": "item/cit/iridescent_sunshield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Rhodolite Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rhodolite_targe",
+                        "model": "item/cit/rhodolite_targe",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Oceanic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/oceanic_shield",
+                        "model": "item/cit/oceanic_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shroomlight Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shroomlight_targe",
+                        "model": "item/cit/shroomlight_targe",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Guarding Pearl",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guarding_pearl",
+                        "model": "item/cit/guarding_pearl",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Void Guardian",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_guardian",
+                        "model": "item/cit/void_guardian",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Bedrock Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/bedrock_targe",
+                        "model": "item/cit/bedrock_targe",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dipylon",
+                        "model": "item/cit/dipylon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wildfire Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wildfire_dipylon",
+                        "model": "item/cit/wildfire_dipylon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shivering Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shivering_shield",
+                        "model": "item/cit/shivering_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Scaled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scaled_shield",
+                        "model": "item/cit/scaled_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Uranium Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/uranium_dipylon",
+                        "model": "item/cit/uranium_dipylon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Drowned Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/drowned_dipylon",
+                        "model": "item/cit/drowned_dipylon",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Magnetic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magnetic_shield",
+                        "model": "item/cit/magnetic_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Star Protector",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/star_protector",
+                        "model": "item/cit/star_protector",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mineral Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mineral_shield",
+                        "model": "item/cit/mineral_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Eternal Diamond",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/eternal_diamond",
+                        "model": "item/cit/eternal_diamond",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aureate Gold",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aureate_gold",
+                        "model": "item/cit/aureate_gold",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Opulent Emerald",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/opulent_emerald",
+                        "model": "item/cit/opulent_emerald",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Carmine Ruby",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/carmine_ruby",
+                        "model": "item/cit/carmine_ruby",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Violet Amethyst",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/violet_amethyst",
+                        "model": "item/cit/violet_amethyst",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Boundless Gravity",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/boundless_gravity",
+                        "model": "item/cit/boundless_gravity",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Constancy Construct",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/constancy_construct",
+                        "model": "item/cit/constancy_construct",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dungeon Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dungeon_shield",
+                        "model": "item/cit/dungeon_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gilded Bastion",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gilded_bastion",
+                        "model": "item/cit/gilded_bastion",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Spawner Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/spawner_shield",
+                        "model": "item/cit/spawner_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Temple Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/temple_shield",
+                        "model": "item/cit/temple_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pyramid Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pyramid_shield",
+                        "model": "item/cit/pyramid_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Igloo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/igloo_shield",
+                        "model": "item/cit/igloo_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Witch Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/witch_shield",
+                        "model": "item/cit/witch_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mansion Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mansion_shield",
+                        "model": "item/cit/mansion_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ornamental Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ornamental_shield",
+                        "model": "item/cit/ornamental_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Evergreen Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/evergreen_shield",
+                        "model": "item/cit/evergreen_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Scarlet Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scarlet_shield",
+                        "model": "item/cit/scarlet_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cerulean Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerulean_shield",
+                        "model": "item/cit/cerulean_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Void Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_shield",
+                        "model": "item/cit/void_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Sun Drop Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/sun_drop_shield",
+                        "model": "item/cit/sun_drop_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gemstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gemstone_shield",
+                        "model": "item/cit/gemstone_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Crystal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/crystal_shield",
+                        "model": "item/cit/crystal_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Snow Globe Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/snow_globe_shield",
+                        "model": "item/cit/snow_globe_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Purity Ward",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/purity_ward",
+                        "model": "item/cit/purity_ward",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gladiator Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gladiator_shield",
+                        "model": "item/cit/gladiator_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Radar Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/radar_shield",
+                        "model": "item/cit/radar_shield",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:special",
+                "base": "item/shield",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        },
+        "on_true": {
+            "type": "minecraft:select",
+            "base": "item/shield_blocking",
+            "model": {
+                "type": "minecraft:shield"
+            },
+            "property": "minecraft:component",
+            "component": "minecraft:custom_name",
+            "cases": [
+                {
+                    "when": "Leather Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/leather_shield_blocking",
+                        "model": "item/cit/leather_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stone_shield_blocking",
+                        "model": "item/cit/stone_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Golden Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/golden_shield_blocking",
+                        "model": "item/cit/golden_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Diamond Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/diamond_shield_blocking",
+                        "model": "item/cit/diamond_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Netherite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/netherite_shield_blocking",
+                        "model": "item/cit/netherite_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Vanguard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/vanguard_shield_blocking",
+                        "model": "item/cit/vanguard_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Necromancer Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/necromancer_shield_blocking",
+                        "model": "item/cit/necromancer_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nameless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nameless_shield_blocking",
+                        "model": "item/cit/nameless_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wraith Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wraith_shield_blocking",
+                        "model": "item/cit/wraith_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wretched Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wretched_shield_blocking",
+                        "model": "item/cit/wretched_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Headstone Hunter",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/headstone_hunter_blocking",
+                        "model": "item/cit/headstone_hunter_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Maroon Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/maroon_defender_blocking",
+                        "model": "item/cit/maroon_defender_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Darkness",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_darkness_blocking",
+                        "model": "item/cit/shield_of_darkness_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guard_shield_blocking",
+                        "model": "item/cit/guard_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Royal Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/royal_guard_shield_blocking",
+                        "model": "item/cit/royal_guard_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Castle Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/castle_shield_blocking",
+                        "model": "item/cit/castle_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Arch-Illager Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/arch-illager_shield_blocking",
+                        "model": "item/cit/arch-illager_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Undying",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_undying_blocking",
+                        "model": "item/cit/shield_of_undying_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Imperial Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/imperial_shield_blocking",
+                        "model": "item/cit/imperial_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Majesty Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/majesty_shield_blocking",
+                        "model": "item/cit/majesty_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Silhouette Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/silhouette_shield_blocking",
+                        "model": "item/cit/silhouette_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Tower Guard Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tower_guard_shield_blocking",
+                        "model": "item/cit/tower_guard_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aqua Tower Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aqua_tower_shield_blocking",
+                        "model": "item/cit/aqua_tower_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of the Tower",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_tower_blocking",
+                        "model": "item/cit/shield_of_the_tower_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "End City Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/end_city_shield_blocking",
+                        "model": "item/cit/end_city_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pillager Outpost Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pillager_outpost_shield_blocking",
+                        "model": "item/cit/pillager_outpost_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nether Fortress Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nether_fortress_shield_blocking",
+                        "model": "item/cit/nether_fortress_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Trial Chambers Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/trial_chambers_shield_blocking",
+                        "model": "item/cit/trial_chambers_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stronghold Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stronghold_shield_blocking",
+                        "model": "item/cit/stronghold_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Heater Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/heater_shield_blocking",
+                        "model": "item/cit/heater_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of Courage",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_courage_blocking",
+                        "model": "item/cit/shield_of_courage_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Prismarine Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/prismarine_shield_blocking",
+                        "model": "item/cit/prismarine_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Magic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magic_shield_blocking",
+                        "model": "item/cit/magic_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Thunder Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/thunder_shield_blocking",
+                        "model": "item/cit/thunder_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ritual Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ritual_shield_blocking",
+                        "model": "item/cit/ritual_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Jade Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/jade_shield_blocking",
+                        "model": "item/cit/jade_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Rising Ash",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rising_ash_blocking",
+                        "model": "item/cit/rising_ash_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Resisting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/resisting_shield_blocking",
+                        "model": "item/cit/resisting_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Fire Withstander",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/fire_withstander_blocking",
+                        "model": "item/cit/fire_withstander_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cresting Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cresting_shield_blocking",
+                        "model": "item/cit/cresting_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Minacious Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/minacious_shield_blocking",
+                        "model": "item/cit/minacious_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cryoshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cryoshield_blocking",
+                        "model": "item/cit/cryoshield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Starless Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/starless_shield_blocking",
+                        "model": "item/cit/starless_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nightdream",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nightdream_blocking",
+                        "model": "item/cit/nightdream_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Stalwart Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/stalwart_shield_blocking",
+                        "model": "item/cit/stalwart_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Medieval Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/medieval_shield_blocking",
+                        "model": "item/cit/medieval_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Highblock Flag Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/highblock_flag_shield_blocking",
+                        "model": "item/cit/highblock_flag_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Great Hall Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/great_hall_shield_blocking",
+                        "model": "item/cit/great_hall_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Romeo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_romeo_shield_blocking",
+                        "model": "item/cit/admin_romeo_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Xara Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_xara_shield_blocking",
+                        "model": "item/cit/admin_xara_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Admin Fred Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/admin_fred_shield_blocking",
+                        "model": "item/cit/admin_fred_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Glow Wings Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/glow_wings_shield_blocking",
+                        "model": "item/cit/glow_wings_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "World Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/world_shield_blocking",
+                        "model": "item/cit/world_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Battlement Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/battlement_shield_blocking",
+                        "model": "item/cit/battlement_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "The Last Defender",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/the_last_defender_blocking",
+                        "model": "item/cit/the_last_defender_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Frozen Flame",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/frozen_flame_blocking",
+                        "model": "item/cit/frozen_flame_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cerise Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerise_shield_blocking",
+                        "model": "item/cit/cerise_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Veiled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/veiled_shield_blocking",
+                        "model": "item/cit/veiled_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Landscaper",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/landscaper_blocking",
+                        "model": "item/cit/landscaper_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Chthonic",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/chthonic_blocking",
+                        "model": "item/cit/chthonic_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Phantom Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/phantom_shield_blocking",
+                        "model": "item/cit/phantom_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Kite Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/kite_shield_blocking",
+                        "model": "item/cit/kite_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lantern Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lantern_shield_blocking",
+                        "model": "item/cit/lantern_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lucent Orchid",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lucent_orchid_blocking",
+                        "model": "item/cit/lucent_orchid_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Basil Essence",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/basil_essence_blocking",
+                        "model": "item/cit/basil_essence_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shield of the Silenced",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shield_of_the_silenced_blocking",
+                        "model": "item/cit/shield_of_the_silenced_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Nosferatu",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/nosferatu_blocking",
+                        "model": "item/cit/nosferatu_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Harp Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/harp_shield_blocking",
+                        "model": "item/cit/harp_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Red Mamba",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/red_mamba_blocking",
+                        "model": "item/cit/red_mamba_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Iron Metal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iron_metal_shield_blocking",
+                        "model": "item/cit/iron_metal_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Russet Copper Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/russet_copper_shield_blocking",
+                        "model": "item/cit/russet_copper_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Redstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/redstone_shield_blocking",
+                        "model": "item/cit/redstone_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lapis Lazuli Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lapis_lazuli_shield_blocking",
+                        "model": "item/cit/lapis_lazuli_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ancient Darkshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ancient_darkshield_blocking",
+                        "model": "item/cit/ancient_darkshield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Flame Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/flame_shield_blocking",
+                        "model": "item/cit/flame_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cobalt Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cobalt_shield_blocking",
+                        "model": "item/cit/cobalt_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Warrior Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/warrior_shield_blocking",
+                        "model": "item/cit/warrior_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/buckler_blocking",
+                        "model": "item/cit/buckler_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Hero Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hero_shield_blocking",
+                        "model": "item/cit/hero_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Acoustic Buckler",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/acoustic_buckler_blocking",
+                        "model": "item/cit/acoustic_buckler_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Greenwood Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/greenwood_shield_blocking",
+                        "model": "item/cit/greenwood_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Accretion Disk",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/accretion_disk_blocking",
+                        "model": "item/cit/accretion_disk_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dreamcatcher",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dreamcatcher_blocking",
+                        "model": "item/cit/dreamcatcher_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Lava Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/lava_shield_blocking",
+                        "model": "item/cit/lava_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Corrupted Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/corrupted_shield_blocking",
+                        "model": "item/cit/corrupted_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/hoplon_blocking",
+                        "model": "item/cit/hoplon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aeroshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aeroshield_blocking",
+                        "model": "item/cit/aeroshield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pasture Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pasture_hoplon_blocking",
+                        "model": "item/cit/pasture_hoplon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Superlative",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/superlative_blocking",
+                        "model": "item/cit/superlative_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mixing Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mixing_hoplon_blocking",
+                        "model": "item/cit/mixing_hoplon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dueling Crescents",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dueling_crescents_blocking",
+                        "model": "item/cit/dueling_crescents_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Tethered Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/tethered_hoplon_blocking",
+                        "model": "item/cit/tethered_hoplon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Galaxy Hoplon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/galaxy_hoplon_blocking",
+                        "model": "item/cit/galaxy_hoplon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/targe_blocking",
+                        "model": "item/cit/targe_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Iridescent Sunshield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/iridescent_sunshield_blocking",
+                        "model": "item/cit/iridescent_sunshield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Rhodolite Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/rhodolite_targe_blocking",
+                        "model": "item/cit/rhodolite_targe_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Oceanic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/oceanic_shield_blocking",
+                        "model": "item/cit/oceanic_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shroomlight Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shroomlight_targe_blocking",
+                        "model": "item/cit/shroomlight_targe_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Guarding Pearl",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/guarding_pearl_blocking",
+                        "model": "item/cit/guarding_pearl_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Void Guardian",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_guardian_blocking",
+                        "model": "item/cit/void_guardian_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Bedrock Targe",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/bedrock_targe_blocking",
+                        "model": "item/cit/bedrock_targe_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dipylon_blocking",
+                        "model": "item/cit/dipylon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Wildfire Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/wildfire_dipylon_blocking",
+                        "model": "item/cit/wildfire_dipylon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Shivering Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/shivering_shield_blocking",
+                        "model": "item/cit/shivering_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Scaled Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scaled_shield_blocking",
+                        "model": "item/cit/scaled_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Uranium Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/uranium_dipylon_blocking",
+                        "model": "item/cit/uranium_dipylon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Drowned Dipylon",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/drowned_dipylon_blocking",
+                        "model": "item/cit/drowned_dipylon_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Magnetic Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/magnetic_shield_blocking",
+                        "model": "item/cit/magnetic_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Star Protector",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/star_protector_blocking",
+                        "model": "item/cit/star_protector_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mineral Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mineral_shield_blocking",
+                        "model": "item/cit/mineral_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Eternal Diamond",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/eternal_diamond_blocking",
+                        "model": "item/cit/eternal_diamond_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Aureate Gold",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/aureate_gold_blocking",
+                        "model": "item/cit/aureate_gold_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Opulent Emerald",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/opulent_emerald_blocking",
+                        "model": "item/cit/opulent_emerald_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Carmine Ruby",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/carmine_ruby_blocking",
+                        "model": "item/cit/carmine_ruby_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Violet Amethyst",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/violet_amethyst_blocking",
+                        "model": "item/cit/violet_amethyst_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Boundless Gravity",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/boundless_gravity_blocking",
+                        "model": "item/cit/boundless_gravity_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Constancy Construct",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/constancy_construct_blocking",
+                        "model": "item/cit/constancy_construct_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Dungeon Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/dungeon_shield_blocking",
+                        "model": "item/cit/dungeon_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gilded Bastion",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gilded_bastion_blocking",
+                        "model": "item/cit/gilded_bastion_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Spawner Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/spawner_shield_blocking",
+                        "model": "item/cit/spawner_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Temple Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/temple_shield_blocking",
+                        "model": "item/cit/temple_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Pyramid Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/pyramid_shield_blocking",
+                        "model": "item/cit/pyramid_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Igloo Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/igloo_shield_blocking",
+                        "model": "item/cit/igloo_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Witch Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/witch_shield_blocking",
+                        "model": "item/cit/witch_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Mansion Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/mansion_shield_blocking",
+                        "model": "item/cit/mansion_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Ornamental Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/ornamental_shield_blocking",
+                        "model": "item/cit/ornamental_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Evergreen Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/evergreen_shield_blocking",
+                        "model": "item/cit/evergreen_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Scarlet Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/scarlet_shield_blocking",
+                        "model": "item/cit/scarlet_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Cerulean Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/cerulean_shield_blocking",
+                        "model": "item/cit/cerulean_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Void Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/void_shield_blocking",
+                        "model": "item/cit/void_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Sun Drop Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/sun_drop_shield_blocking",
+                        "model": "item/cit/sun_drop_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gemstone Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gemstone_shield_blocking",
+                        "model": "item/cit/gemstone_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Crystal Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/crystal_shield_blocking",
+                        "model": "item/cit/crystal_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Snow Globe Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/snow_globe_shield_blocking",
+                        "model": "item/cit/snow_globe_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Purity Ward",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/purity_ward_blocking",
+                        "model": "item/cit/purity_ward_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Gladiator Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/gladiator_shield_blocking",
+                        "model": "item/cit/gladiator_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                },
+                {
+                    "when": "Radar Shield",
+                    "model": {
+                        "type": "minecraft:model",
+                        "base": "item/cit/radar_shield_blocking",
+                        "model": "item/cit/radar_shield_blocking",
+                        "transformation": {
+							"left_rotation": [0.0, 0.0, 0.0, 1.0],
+							"right_rotation": [0.0, 0.0, 0.0, 1.0],
+							"scale": [1.0, -1.0, -1.0],
+							"translation": [0.0, 0.0, 0.0]
+						}
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:special",
+                "base": "item/shield_blocking",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        }
+    }
+}

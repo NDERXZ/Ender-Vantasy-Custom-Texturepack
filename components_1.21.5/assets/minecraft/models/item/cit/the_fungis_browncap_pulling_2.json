@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/the_fungis_browncap_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/the_fungis_browncap_pulling_2"
+  }
+}

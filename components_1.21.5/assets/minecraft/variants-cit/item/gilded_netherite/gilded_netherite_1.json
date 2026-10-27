@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["netherite_boots", "netherite_chestplate", "netherite_helmet"],
+	"modelPrefix": "gilded_netherite/gilded_netherite_",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Gilded Netherite Boots|Gilded Netherite Chestplate|Gilded Netherite Helmet",
+            "substitution": "1",
+			"lowercase": true
+	    }
+    }
+}

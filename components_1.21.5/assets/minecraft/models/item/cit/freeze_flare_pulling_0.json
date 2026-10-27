@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/freeze_flare",
+  "textures": {
+    "layer0": "minecraft:item/cit/freeze_flare_pulling_0"
+  }
+}

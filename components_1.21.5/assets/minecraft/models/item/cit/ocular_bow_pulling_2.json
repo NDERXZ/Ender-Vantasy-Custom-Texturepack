@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/ocular_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/ocular_bow_pulling_2"
+  }
+}

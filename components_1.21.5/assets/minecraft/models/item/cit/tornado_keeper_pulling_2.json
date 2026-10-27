@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/tornado_keeper",
+  "textures": {
+    "layer0": "minecraft:item/cit/tornado_keeper_pulling_2"
+  }
+}

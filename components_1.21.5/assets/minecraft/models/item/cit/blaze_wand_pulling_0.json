@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/blaze_wand",
+  "textures": {
+    "layer0": "minecraft:item/cit/blaze_wand_pulling_0"
+  }
+}

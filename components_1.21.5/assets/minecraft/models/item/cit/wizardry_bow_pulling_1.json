@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/wizardry_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/wizardry_bow_pulling_1"
+  }
+}

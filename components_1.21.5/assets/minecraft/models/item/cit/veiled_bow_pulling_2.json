@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/veiled_bow",
+  "textures": {
+    "layer0": "minecraft:item/cit/veiled_bow_pulling_2"
+  }
+}

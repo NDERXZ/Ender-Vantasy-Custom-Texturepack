@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/piercing_the_void_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/piercing_the_void_firework"
+  }
+}

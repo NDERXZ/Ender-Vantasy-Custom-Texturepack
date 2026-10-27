@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/astronomic_longbow",
+  "textures": {
+    "layer0": "minecraft:item/cit/astronomic_longbow_pulling_1"
+  }
+}

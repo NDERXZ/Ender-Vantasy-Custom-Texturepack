@@ -1,0 +1,17 @@
+{
+    "context": "equippable",
+    "type":"component_data",
+	"items": ["diamond_helmet", "netherite_helmet", "turtle_helmet"],
+	"modelPrefix": "crowns/floral_crown",
+	"debug": true,
+    "parameters":{
+	    "componentType": "custom_name",
+	    "nbtPath": "",
+	    "expect": "rich_text",
+	    "transform": {
+	    	"regex": "Floral Crown",
+            "substitution": "",
+			"lowercase": true
+	    }
+    }
+}

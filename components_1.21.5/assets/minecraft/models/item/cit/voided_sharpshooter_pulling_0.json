@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/voided_sharpshooter",
+  "textures": {
+    "layer0": "minecraft:item/cit/voided_sharpshooter_pulling_0"
+  }
+}

@@ -1,0 +1,134 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_necromancer_trident",
+		"particle": "optifine/cit/icons/new_default_plus_dungeons/icons_melee/drowned_necromancer_trident"
+	},
+	"elements": [
+		{
+			"from": [6.5, 23, 6.5],
+			"to": [9.5, 26, 9.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 27, 8]},
+			"faces": {
+				"north": {"uv": [1.75, 0.75, 2.5, 1.5], "texture": "#0"},
+				"east": {"uv": [1, 0.75, 1.75, 1.5], "texture": "#0"},
+				"south": {"uv": [3.25, 0.75, 4, 1.5], "texture": "#0"},
+				"west": {"uv": [2.5, 0.75, 3.25, 1.5], "texture": "#0"},
+				"up": {"uv": [2.5, 0.75, 1.75, 0], "texture": "#0"},
+				"down": {"uv": [3.25, 0, 2.5, 0.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 24, 7.5],
+			"to": [10.5, 25, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 27, 8]},
+			"faces": {
+				"north": {"uv": [1.25, 1.75, 2.5, 2], "texture": "#0"},
+				"east": {"uv": [1, 1.75, 1.25, 2], "texture": "#0"},
+				"south": {"uv": [2.75, 1.75, 4, 2], "texture": "#0"},
+				"west": {"uv": [2.5, 1.75, 2.75, 2], "texture": "#0"},
+				"up": {"uv": [2.5, 1.75, 1.25, 1.5], "texture": "#0"},
+				"down": {"uv": [3.75, 1.5, 2.5, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.5, 24, 7.5],
+			"to": [11.5, 29, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [11, 27, 5]},
+			"faces": {
+				"north": {"uv": [1.25, 2.25, 1.5, 3.5], "texture": "#0"},
+				"east": {"uv": [1, 2.25, 1.25, 3.5], "texture": "#0"},
+				"south": {"uv": [1.75, 2.25, 2, 3.5], "texture": "#0"},
+				"west": {"uv": [1.5, 2.25, 1.75, 3.5], "texture": "#0"},
+				"up": {"uv": [1.5, 2.25, 1.25, 2], "texture": "#0"},
+				"down": {"uv": [1.75, 2, 1.5, 2.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 24, 7.5],
+			"to": [5.5, 29, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [5, 27, 11]},
+			"faces": {
+				"north": {"uv": [2.25, 2.25, 2.5, 3.5], "texture": "#0"},
+				"east": {"uv": [2, 2.25, 2.25, 3.5], "texture": "#0"},
+				"south": {"uv": [2.75, 2.25, 3, 3.5], "texture": "#0"},
+				"west": {"uv": [2.5, 2.25, 2.75, 3.5], "texture": "#0"},
+				"up": {"uv": [2.5, 2.25, 2.25, 2], "texture": "#0"},
+				"down": {"uv": [2.75, 2, 2.5, 2.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, -2, 7.5],
+			"to": [8.5, 31, 8.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 27, 8]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 0.5, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 0.25, 0.25, 8.5], "texture": "#0"},
+				"south": {"uv": [0.75, 0.25, 1, 8.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.25, 0.75, 8.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.25, 0.25, 0], "texture": "#0"},
+				"down": {"uv": [0.75, 0, 0.5, 0.25], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, -180],
+			"translation": [0, 8.0, 1.0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 180],
+			"translation": [0, 8.0, 1.0]
+		},
+    	"firstperson_righthand": {
+    		"rotation": [ 0, -90, 25 ],
+    		"translation": [ 3.13, -9.7, 3.10 ],
+    		"scale": [ 0.68, 0.68, 0.68 ]
+    	},
+    	"firstperson_lefthand": {
+    		"rotation": [ 0, 90, -25 ],
+    		"translation": [ 3.13, -9.7, 3.10 ],
+    		"scale": [ 0.68, 0.68, 0.68 ]
+    	},
+		"ground": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-3.2, -3.2, 0],
+			"scale": [0.646, 0.646, 0.646]
+		},
+		"head": {
+			"rotation": [0, 0, 90],
+			"translation": [6, 2.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [4.65, -4.65, -0.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "drowned_necromancer_trident",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "prongs",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1, 2, 3]
+				},
+				{
+					"name": "handle",
+					"origin": [9, 15, 16],
+					"color": 0,
+					"children": [4]
+				}
+			]
+		}
+	]
+}

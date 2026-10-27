@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/star_launcher_standby",
+  "textures": {
+    "layer0": "minecraft:item/cit/star_launcher_firework"
+  }
+}

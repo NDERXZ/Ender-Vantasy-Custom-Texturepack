@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/cit/crag_carver",
+  "textures": {
+    "layer0": "minecraft:item/cit/crag_carver_pulling_1"
+  }
+}
