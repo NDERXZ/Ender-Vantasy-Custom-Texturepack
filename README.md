@@ -64,10 +64,10 @@
 </p>
 
 ## Installation Guide
-1. Download the latest [**Ender Vantasy.zip**](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases/latest/download/Ender.Vantasy.zip) from the [Releases](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases) page.
+1. Download the latest [**Ender-Vantasy-v1.0.1.zip**](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases/latest/download/Ender-Vantasy-v1.0.1.zip) from the [Releases](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases) page.
 2. Launch Minecraft -> Navigate to **Options...** -> **Resource Packs...**.
 3. Click **Open Pack Folder**.
-4. Place `Ender Vantasy.zip` into the folder.
+4. Place `Ender-Vantasy-v1.0.1.zip` into the folder.
 5. Move the pack to the right-hand list (**Selected**), then click **Done**.
 
 <p align="center">
@@ -95,7 +95,6 @@
 | [<img src="https://static.wixstatic.com/media/73bea7_3531a79c1f824296aadd3f07afaff7f2~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1023,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/armor_anvil_names.png" width="220" alt="Armor Sets" style="border-radius:4px;"/>](docs/katalog/12-armor-sets.md) | <img src="https://static.wixstatic.com/media/73bea7_227009045aea410790e40de9b4dde903~mv2.png/v1/fill/w_165,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/73bea7_227009045aea410790e40de9b4dde903~mv2.png" width="80" height="80" style="border-radius:6px;"/> | **946 Items** | [**View Armor Sets Catalog**](docs/katalog/12-armor-sets.md) |
 | [<img src="https://static.wixstatic.com/media/73bea7_44abf57f709946a2847cc17c2978df78~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/elytra_anvil_names.png" width="220" alt="Elytras" style="border-radius:4px;"/>](docs/katalog/13-elytras.md) | <img src="https://static.wixstatic.com/media/73bea7_80276125c2ad442695a0e86e23b862f8~mv2.png/v1/fill/w_165,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/73bea7_80276125c2ad442695a0e86e23b862f8~mv2.png" width="80" height="80" style="border-radius:6px;"/> | **196 Items** | [**View Elytras Catalog**](docs/katalog/13-elytras.md) |
 | [<img src="https://static.wixstatic.com/media/73bea7_c1989cad0b5144159f0df46d29430ca8~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/crown_anvil_names.png" width="220" alt="Crowns & Diadems" style="border-radius:4px;"/>](docs/katalog/14-crowns.md) | <img src="https://static.wixstatic.com/media/73bea7_9a9623500d3d44c287517a1fc256992f~mv2.png/v1/fill/w_165,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/73bea7_9a9623500d3d44c287517a1fc256992f~mv2.png" width="80" height="80" style="border-radius:6px;"/> | **27 Items** | [**View Crowns & Diadems Catalog**](docs/katalog/14-crowns.md) |
-| [<img src="https://static.wixstatic.com/media/73bea7_a2a76f9be856418cb19d1e70825dd03e~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/bundle_anvil_renames.png" width="220" alt="Bundles" style="border-radius:4px;"/>](docs/katalog/15-bundles.md) | <img src="https://static.wixstatic.com/media/73bea7_96e174bf94564a58a846aa3cd0c83a4f~mv2.png/v1/fill/w_165,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/73bea7_96e174bf94564a58a846aa3cd0c83a4f~mv2.png" width="80" height="80" style="border-radius:6px;"/> | **19 Items** | [**View Bundles Catalog**](docs/katalog/15-bundles.md) |
 | [<img src="https://static.wixstatic.com/media/73bea7_ad7e0e78234746d69440e1e7f5950d65~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/totem_of_undying_anvil_renames.png" width="220" alt="Totems of Undying" style="border-radius:4px;"/>](docs/katalog/16-totems.md) | <img src="https://static.wixstatic.com/media/73bea7_9cf0916830624ad5a4f7ac1609d3657a~mv2.png/v1/fill/w_165,h_165,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/73bea7_9cf0916830624ad5a4f7ac1609d3657a~mv2.png" width="80" height="80" style="border-radius:6px;"/> | **44 Items** | [**View Totems of Undying Catalog**](docs/katalog/16-totems.md) |
 
 <p align="center">
