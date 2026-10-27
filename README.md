@@ -53,18 +53,6 @@
   <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
 </p>
 
-## Vanilla Defaults
-To preserve competitive fairness, visual clarity, and high performance:
-- **Elytra Wings**: Uses 100% vanilla flight models and inventory icons.
-- **Turtle Shell**: Exempt from custom helmet overrides to preserve instant visual identification.
-- **Building Blocks and Terrain**: Stone, dirt, wood, foliage, and sky remain completely vanilla.
-- **Potions**: Kept strictly vanilla for clean combat visibility.
-- **Main Menu**: Retains the standard Minecraft title screen.
-
-<p align="center">
-  <img src="https://static.wixstatic.com/media/73bea7_18184b8714c34b06821c6f0ab30f27dc~mv2.png/v1/fill/w_3006,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divider_anvil_2025.png" width="100%" alt="Divider"/>
-</p>
-
 ## Version Compatibility
 - **Minecraft Java Edition**: Compatible with versions **1.20 through 1.21.x** (supports pack formats 16 through 76 with automatic component overlays).
 - **Recommended Mods**:
