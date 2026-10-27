@@ -58,7 +58,22 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 ---
 
 ## 🗡️ Galeri & Daftar Bentuk Senjata
-> *Bagian ini akan segera diperbarui dengan daftar nama Anvil, gambar preview, dan bentuk visual dari masing-masing senjata custom.*
+Semua senjata, zirah, dan item kustom di pack ini dapat diakses dengan cara me-rename item pada **Anvil**.
+
+📖 **[👉 Buka Katalog Lengkap 3.000+ Nama Anvil & Display di Sini (ANVIL_NAMES.md)](ANVIL_NAMES.md)**
+
+### Ringkasan Kategori Senjata & Item:
+- ⚔️ **Pedang & Senjata Melee** (385 variasi: Katanas, Scythes, Daggers, Greatswords, Glaives, Rapiers)
+- 🪓 **Kapak & Battleaxes** (237 variasi kapak perang & battleaxe)
+- 🏹 **Busur, Crossbow & Tongkat Sihir** (296 variasi busur dan staves)
+- 🛡️ **Perisai (Shields & Bucklers)** (137 variasi perisai)
+- 🔱 **Trisula & Tombak (Spears)** (166 variasi spears & tridents)
+- 🧿 **Totem of Undying** (39 variasi totem kustom)
+- 👑 **Zirah, Helm & Mahkota (Armor & Crowns)** (1.177 variasi armor sets, crowns & diadems)
+- ⛏️ **Beliung & Perkakas** (338 variasi pickaxe, sekop, cangkul)
+- 🧪 **Ramuan & Potions** (242 variasi botol sihir)
+
+> *Cukup letakkan item yang sesuai pada Anvil dan beri nama persis seperti yang ada di daftar untuk mengubah tampilannya secara instan!*
 
 ---
 
