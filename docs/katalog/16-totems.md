@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_ad7e0e78234746d69440e1e7f5950d65~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/totem_of_undying_anvil_renames.png" alt="Totems of Undying Banner" width="860"/>
+</p>
+
 # Totems of Undying (44 Items)
 
 [Back to Main README](../../README.md)

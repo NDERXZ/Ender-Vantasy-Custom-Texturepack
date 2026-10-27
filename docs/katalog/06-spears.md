@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_42ab9797539245348ff726de2a2e00cb~mv2.png/v1/crop/x_0,y_8,w_860,h_242/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/spear_anvil_names.png" alt="Spears Banner" width="860"/>
+</p>
+
 # Spears (307 Items)
 
 [Back to Main README](../../README.md)

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_6ad7394d7739462886482df1ec1398f3~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1032,h_291,al_c,lg_1,q_85,enc_avif,quality_auto/axe_anvil_names.png" alt="Axes & Battleaxes Banner" width="860"/>
+</p>
+
 # Axes & Battleaxes (316 Items)
 
 [Back to Main README](../../README.md)

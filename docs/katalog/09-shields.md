@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_4b067c9f7f4b4bc88059838527018f4c~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1028,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/shield_anvil_names.png" alt="Shields & Bucklers Banner" width="860"/>
+</p>
+
 # Shields & Bucklers (137 Items)
 
 [Back to Main README](../../README.md)

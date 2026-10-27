@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_3531a79c1f824296aadd3f07afaff7f2~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1023,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/armor_anvil_names.png" alt="Armor Sets Banner" width="860"/>
+</p>
+
 # Armor Sets (946 Items)
 
 [Back to Main README](../../README.md)

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_04d94a45893b4398a35f0f989f9df8ae~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/hoe_anvil_names.png" alt="Hoes & Scythes Banner" width="860"/>
+</p>
+
 # Hoes & Scythes (90 Items)
 
 [Back to Main README](../../README.md)

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_c1989cad0b5144159f0df46d29430ca8~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/crown_anvil_names.png" alt="Crowns & Diadems Banner" width="860"/>
+</p>
+
 # Crowns & Diadems (27 Items)
 
 [Back to Main README](../../README.md)

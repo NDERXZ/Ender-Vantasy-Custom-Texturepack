@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_44abf57f709946a2847cc17c2978df78~mv2.png/v1/crop/x_0,y_7,w_860,h_244/fill/w_1032,h_293,al_c,lg_1,q_85,enc_avif,quality_auto/elytra_anvil_names.png" alt="Elytras Banner" width="860"/>
+</p>
+
 # Elytras (196 Items)
 
 [Back to Main README](../../README.md)

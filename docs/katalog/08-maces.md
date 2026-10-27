@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_08a393392ad34d279ebefca51e1550f5~mv2.png/v1/crop/x_0,y_8,w_860,h_242/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/mace_anvil_names.png" alt="Maces & Warhammers Banner" width="860"/>
+</p>
+
 # Maces & Warhammers (181 Items)
 
 [Back to Main README](../../README.md)

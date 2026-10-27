@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_0f2353de54da4762bf45e7eae376a6b8~mv2.png/v1/crop/x_0,y_8,w_860,h_242/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/trident_anvil_names.png" alt="Tridents Banner" width="860"/>
+</p>
+
 # Tridents (269 Items)
 
 [Back to Main README](../../README.md)

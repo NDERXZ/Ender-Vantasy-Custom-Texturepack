@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_89503ef3265d4348beb4a3266f32ed2c~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1015,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/bow_anvil_names.png" alt="Bows & Staves Banner" width="860"/>
+</p>
+
 # Bows & Staves (191 Items)
 
 [Back to Main README](../../README.md)

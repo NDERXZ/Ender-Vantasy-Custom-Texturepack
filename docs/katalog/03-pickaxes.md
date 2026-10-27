@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_95266db0c4e24fcba231709dfe38c43f~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/pickaxe_anvil_names.png" alt="Pickaxes Banner" width="860"/>
+</p>
+
 # Pickaxes (153 Items)
 
 [Back to Main README](../../README.md)

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_98fd08dd8a39418eb32920ebdacd34df~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1014,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/shovel_anvil_names.png" alt="Shovels Banner" width="860"/>
+</p>
+
 # Shovels (105 Items)
 
 [Back to Main README](../../README.md)

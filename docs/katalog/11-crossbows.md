@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wixstatic.com/media/73bea7_fb81e681a688408eba5549d4be09a3da~mv2.png/v1/crop/x_0,y_7,w_860,h_243/fill/w_1032,h_290,al_c,lg_1,q_85,enc_avif,quality_auto/crossbow_anvil_names.png" alt="Crossbows Banner" width="860"/>
+</p>
+
 # Crossbows (162 Items)
 
 [Back to Main README](../../README.md)
