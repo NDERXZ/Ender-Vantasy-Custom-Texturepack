@@ -60,7 +60,7 @@ Untuk menjaga keadilan gameplay, keaslian visual, dan fleksibilitas:
 ## 🗡️ Galeri & Daftar Bentuk Senjata
 Semua senjata, zirah, dan item kustom di pack ini dapat diakses dengan cara me-rename item pada **Anvil**.
 
-📖 **[👉 Buka Katalog Lengkap 3.000+ Nama Anvil & Display di Sini (ANVIL_NAMES.md)](ANVIL_NAMES.md)**
+📖 **[👉 Buka Katalog Lengkap 3.300+ Item dengan Gambar & Nama Anvil (ANVIL_NAMES.md)](ANVIL_NAMES.md)**
 
 ### ✨ Cuplikan Senjata & Item Ikonik (Preview Gallery):
 
@@ -79,16 +79,18 @@ Semua senjata, zirah, dan item kustom di pack ini dapat diakses dengan cara me-r
 | <img src="https://static.wixstatic.com/media/73bea7_03a4a7e152cd487ea6cf500793e6023e~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_TotemOfRegeneration_Icon.png" width="64" height="64"/> | `Totem of Regeneration` | Totem of Undying |
 | <img src="https://static.wixstatic.com/media/73bea7_9bc6dda7b3d24322a75a540e5092d9e9~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_TotemOfShielding_Icon.png" width="64" height="64"/> | `Totem of Shielding` | Totem of Undying |
 
-### Ringkasan Seluruh Kategori Item:
-- ⚔️ **Pedang & Senjata Melee** (385 variasi: Katanas, Scythes, Daggers, Greatswords, Glaives, Rapiers)
+### Ringkasan Seluruh Kategori Item di Katalog:
+- ⚔️ **Pedang & Melee Weapons** (518 variasi: Katanas, Scythes, Daggers, Greatswords, Glaives, Rapiers)
 - 🪓 **Kapak & Battleaxes** (237 variasi kapak perang & battleaxe)
 - 🏹 **Busur, Crossbow & Tongkat Sihir** (296 variasi busur dan staves)
 - 🛡️ **Perisai (Shields & Bucklers)** (137 variasi perisai)
 - 🔱 **Trisula & Tombak (Spears)** (166 variasi spears & tridents)
 - 🧿 **Totem of Undying** (39 variasi totem kustom)
 - 👑 **Zirah, Helm & Mahkota (Armor & Crowns)** (1.177 variasi armor sets, crowns & diadems)
-- ⛏️ **Beliung & Perkakas** (338 variasi pickaxe, sekop, cangkul)
+- ⛏️ **Beliung (Pickaxes)** (149 variasi pickaxe)
+- 🌾 **Sekop & Cangkul (Shovels & Hoes)** (189 variasi)
 - 🧪 **Ramuan & Potions** (242 variasi botol sihir)
+- 🪣 **Ember Khusus & Lainnya** (197 variasi)
 
 > *Cukup letakkan item yang sesuai pada Anvil dan beri nama persis seperti yang ada di daftar untuk mengubah tampilannya secara instan!*
 
