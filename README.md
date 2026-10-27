@@ -62,7 +62,24 @@ Semua senjata, zirah, dan item kustom di pack ini dapat diakses dengan cara me-r
 
 📖 **[👉 Buka Katalog Lengkap 3.000+ Nama Anvil & Display di Sini (ANVIL_NAMES.md)](ANVIL_NAMES.md)**
 
-### Ringkasan Kategori Senjata & Item:
+### ✨ Cuplikan Senjata & Item Ikonik (Preview Gallery):
+
+| Tampilan Visual | Nama Rename di Anvil | Material / Item Dasar |
+| :---: | :--- | :--- |
+| <img src="https://static.wixstatic.com/media/73bea7_a0339d8ecd754de48a90caadf5ebafe0~mv2.png/v1/fill/w_614,h_614,al_c,lg_1,q_90,enc_auto/T_MeteorCrossbow_Icon.png" width="64" height="64"/> | `Meteor Crossbow` | Crossbow |
+| <img src="https://static.wixstatic.com/media/73bea7_2444dda832894cc99e4381075fbd625d~mv2.png/v1/fill/w_1024,h_1024,al_c,q_90,enc_auto/T__Icon%20-%20Copy%20(29).png" width="64" height="64"/> | `Nightfall` | Crossbow |
+| <img src="https://static.wixstatic.com/media/73bea7_b8c774c0561645bdb1dae152460e22d2~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_Katana_Icon.png" width="64" height="64"/> | `Katana` | Diamond Sword, Netherite Sword, Iron Sword |
+| <img src="https://static.wixstatic.com/media/73bea7_07083f6e905b4d7a9e1470514fc8a10b~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_DarkKatana_Icon.png" width="64" height="64"/> | `Dark Katana` | Diamond Sword, Netherite Sword |
+| <img src="https://static.wixstatic.com/media/73bea7_a512de9130e347da984fff9e0c01ae06~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_Hawkbrand_Icon.png" width="64" height="64"/> | `Hawkbrand` | Diamond Sword, Netherite Sword |
+| <img src="https://static.wixstatic.com/media/73bea7_1538d3837f5c4acf86406dbd90034920~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_Whirlwind_Icon.png" width="64" height="64"/> | `Whirlwind` | Diamond Axe, Netherite Axe |
+| <img src="https://static.wixstatic.com/media/73bea7_59a06ffc48b74350b7466e648e1ed5ae~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_CursedAxe_Icon.png" width="64" height="64"/> | `Cursed Axe` | Diamond Axe, Netherite Axe |
+| <img src="https://static.wixstatic.com/media/73bea7_fa68e3f4db3942e180ca0012767a2cbc~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_Firebrand_Icon.png" width="64" height="64"/> | `Firebrand` | Diamond Axe, Netherite Axe |
+| <img src="https://static.wixstatic.com/media/73bea7_087469807dc94a58856663515154f912~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_HarpCrossbow_Icon.png" width="64" height="64"/> | `Harp Crossbow` | Crossbow |
+| <img src="https://static.wixstatic.com/media/73bea7_c0562de0ed2546f9a92fed375216f48b~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_LightningHarpCrossbow_Icon.png" width="64" height="64"/> | `Lightning Harp Crossbow` | Crossbow |
+| <img src="https://static.wixstatic.com/media/73bea7_03a4a7e152cd487ea6cf500793e6023e~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_TotemOfRegeneration_Icon.png" width="64" height="64"/> | `Totem of Regeneration` | Totem of Undying |
+| <img src="https://static.wixstatic.com/media/73bea7_9bc6dda7b3d24322a75a540e5092d9e9~mv2.png/v1/fill/w_600,h_600,al_c,q_90,enc_auto/T_TotemOfShielding_Icon.png" width="64" height="64"/> | `Totem of Shielding` | Totem of Undying |
+
+### Ringkasan Seluruh Kategori Item:
 - ⚔️ **Pedang & Senjata Melee** (385 variasi: Katanas, Scythes, Daggers, Greatswords, Glaives, Rapiers)
 - 🪓 **Kapak & Battleaxes** (237 variasi kapak perang & battleaxe)
 - 🏹 **Busur, Crossbow & Tongkat Sihir** (296 variasi busur dan staves)
