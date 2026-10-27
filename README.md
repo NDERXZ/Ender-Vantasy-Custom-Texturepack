@@ -64,7 +64,7 @@
 </p>
 
 ## Installation Guide
-1. Download the latest `Ender Vantasy.zip` from the [Releases](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases) page.
+1. Download the latest [**Ender Vantasy.zip**](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases/latest/download/Ender.Vantasy.zip) from the [Releases](https://github.com/NDERXZ/Ender-Vantasy-Custom-Texturepack/releases) page.
 2. Launch Minecraft -> Navigate to **Options...** -> **Resource Packs...**.
 3. Click **Open Pack Folder**.
 4. Place `Ender Vantasy.zip` into the folder.
